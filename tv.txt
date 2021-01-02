@@ -1,5 +1,7 @@
 央视频道,#genre#
+CCTV-1综合,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 CCTV-1综合,http://stream4.jlntv.cn/cctv1/sd/live.m3u8
+CCTV-2财经,http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
 CCTV-2财经,http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
 CCTV-2财经,http://cctvcnch5ca.v.wscdns.com/live/cctv2_2/10793.m3u8
 CCTV-3综艺,http://ivi.bupt.edu.cn/hls/cctv3.m3u8
@@ -16,10 +18,12 @@ CCTV-7国防军事,http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
 CCTV-8电视剧,https://cctvcnch5ca.v.wscdns.com/live/cctv8_2/index.m3u8
 CCTV-8电视剧,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv8_2/index.m3u8
 CCTV-9记录,http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+CCTV-10科教,http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
 CCTV-10科教,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/1.m3u8
 CCTV-10科教,https://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8
 CCTV-10科教,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv10_2/index.m3u8
 CCTV-11戏曲,http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+CCTV-12社会与法,http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
 CCTV-12社会与法,http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
 CCTV-13新闻,http://ivi.bupt.edu.cn/hls/cctv13.m3u8
 CCTV-13新闻,http://stream4.jlntv.cn/cctv13/sd/live.m3u8
@@ -51,9 +55,8 @@ CHC-动作电影,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&F
 安徽卫视,https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/anhui_2/index.m3u8
 北京卫视,http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
 北京青年,http://ivi.bupt.edu.cn/hls/btv8.m3u8
-广东卫视,http://39.134.65.162/PLTV/88888888/224/3221225544/index.m3u8
+北京影视,http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
 广东卫视,http://121.31.30.87:8085/ysten-business/live/hdguangdongstv/1.m3u8
-广东卫视,http://39.134.176.148/PLTV/88888888/224/3221226408/index.m3u8
 广东卫视,http://ivi.bupt.edu.cn/hls/gdhd.m3u8
 南方卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=9&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 深圳卫视,http://121.31.30.87:8085/ysten-business/live/hdshenzhenstv/1.m3u8
@@ -599,6 +602,7 @@ CCTV-5体育,http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8
 CCTV-5体育,http://183.207.248.37/PLTV/3/224/3221227166/1.m3u8
 CCTV-5体育,http://121.31.30.90:8085/ysten-business/live/cctv-5/1.m3u8
 CCTV-5+体育赛事,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+北京冬奥纪实,http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
 吉林篮球,http://stream1.jlntv.cn/lqpd/sd/live.m3u8
 劲爆体育,http://liveplay-kk.rtxapp.com/live/program/live/jbtyhd/2300000/mnf.m3u8
 FOX 体育新闻,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
@@ -626,6 +630,7 @@ CN卡通频道(英语),mitv://147.135.39.171:9906/5dea93910003206a5a02c0e279871b
 Boomerang(英语),mitv://147.135.39.171:9906/5dea9390000d3b785a02bf8a11dd08b9.ts
 MOMO亲子,mitv://147.135.39.171:9906/5cc68d17000c69a4fadeb6c56c456357.ts
 CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
+北京卡酷少儿高清,http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
 哈哈炫动,http://125.210.152.18:9090/live/XDKT.m3u8
 金鹰卡通,http://yunshang.fun/live/hunan.php?id=287
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/flv:500k/live
