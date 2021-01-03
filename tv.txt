@@ -194,23 +194,11 @@ INC TV,http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_1500_av-p.m3
 体育频道,#genre#
 高尔夫球,rtmp://8869.liveplay.myqcloud.com:1935/live/8869_2c300dcf20d911e791eae435c87f075e
 广东高尔夫,http://szlive.grtn.cn/grfpd/sd/live.m3u8?_upt=6f10defc1587925611
-FOX体育(台湾),mitv://147.135.39.171:9906/5ee3894d000983f2ce65d05916fb74df.ts
-奥林匹克,http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?fluxustv.m3u8
-奥铃匹克蓝光,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
 博斯魅力,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-广州竞赛,http://aplay.gztv.com/sec/jingsai.m3u8
 澳視體育,http://61.244.22.5/ch4/sport_ch4.live/master.m3u8
-衛視體育台,https://www.fanmingming.cn/hls/starsports.m3u8
 RTM 体育频道,https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2//chunklist_b2064000.m3u8
 CCTV-5体育,http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
-CCTV-5体育,http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8
-CCTV-5体育,http://183.207.248.37/PLTV/3/224/3221227166/1.m3u8
-CCTV-5体育,http://121.31.30.90:8085/ysten-business/live/cctv-5/1.m3u8
-CCTV-5+体育赛事,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-北京冬奥纪实,http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
 吉林篮球,http://stream1.jlntv.cn/lqpd/sd/live.m3u8
-劲爆体育,http://liveplay-kk.rtxapp.com/live/program/live/jbtyhd/2300000/mnf.m3u8
-FOX 体育新闻,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 少儿频道,#genre#
 蜡笔小新,http://txtest-xp2p.p2p.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1.flv
 海绵宝宝,http://txtest-xp2p.p2p.huya.com/src/29359996-2689614918-11551808111643721728-2847687648-10057-A-0-1.flv
@@ -353,19 +341,6 @@ Animax,mitv://147.135.39.171:9906/5d9a25ad00050d2e9c9e6fc864b540d4.ts
 求索纪录,http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
 求索科学,http://125.210.152.18:9090/live/QSKX_1200.m3u8
 求索生活,http://125.210.152.18:9090/live/QSSH_1200.m3u8
-蓝光影视1台,http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
-蓝光影视2台,http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
-蓝光影视3台,http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
-蓝光影视4台,http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
-蓝光影视5台,http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
-蓝光影视6台,http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
-蓝光影视7台,http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
-蓝光影视8台,http://112.17.40.145/PLTV/88888888/224/3221226608/index.m3u8
-蓝光影视9台,http://112.17.40.145/PLTV/88888888/224/3221226606/index.m3u8
-蓝光影视10台,http://112.17.40.145/PLTV/88888888/224/3221226360/index.m3u8
-蓝光动画13台,http://112.50.243.8/PLTV/88888888/224/3221226732/1.m3u8
-蓝光动画14台,http://112.50.243.8/PLTV/88888888/224/3221226741/1.m3u8
-蓝光动漫15台,http://112.50.243.8/PLTV/88888888/224/3221226743/1.m3u8
 蓝光影视16台,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 东北热剧,http://39.135.135.35:80/wh7f454c46tw1751026922_1159821621/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8?icpid=88888888&RTS=1554599523&from=1&hms_devid=691
 欢乐剧场,http://39.135.135.81:80/wh7f454c46tw1744894462_1818032107/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8?icpid=88888888&RTS=1554599517&from=1&hms_devid=690
@@ -399,10 +374,6 @@ Animax,mitv://147.135.39.171:9906/5d9a25ad00050d2e9c9e6fc864b540d4.ts
 爱赛车,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
 爱浪漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
 峨眉电影蓝光,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-欢笑剧场蓝光,http://112.50.243.8/PLTV/88888888/224/3221226729/1.m3u8
-北京纪实蓝光,http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8
-纪实频道蓝光,http://112.50.243.8/PLTV/88888888/224/3221225946/1.m3u8
-极速汽车蓝光,http://112.50.243.8/PLTV/88888888/224/3221226140/1.m3u8
 游戏频道,#genre#
 英雄联盟赛事,http://txtest-xp2p.p2p.huya.com/src/78941969-2559461593-10992803837303062528-2693342886-10057-A-0-1.xs
 LOL官方直播间,https://8407837635d44c1c043879a0c6cf78c3.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_364457078.xs
