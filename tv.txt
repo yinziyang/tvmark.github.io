@@ -242,6 +242,23 @@ BBC 新闻频道,http://51.52.156.22:8888/http/004
 印度ABP Asmita,http://abpasmita-lh.akamaihd.net:80/i/abpasmita_1@77821/master.m3u8
 印度DD News,http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 印度Vasanth TV Tamil,http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed03?e=0&h=a9be0836bc39f96d0a9a958a659dfc1d&bgsecuredir=1
+泰国SUVARNABHUMI,http://203.146.129.233:1935/live/mp4:suwan/playlist.m3u8
+阿拉伯Alyawm,http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
+希腊LYXNOC,http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
+希腊VOULI,http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+欧美MTV,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+SKYTG24,http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+JapanetChannelDX,http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+WAU,http://nn2.joj.sk/hls/wau-540.m3u8
+JOJFAMILY,http://nn2.joj.sk/hls/family-540.m3u8
+韩-GOODTV,http://mobliestream.c3tv.com:554/live/goodtv.sdp/playlist.m3u8
+韩-LuxuryWorld,http://nano.teleservice.su:8080/hls/luxury.m3u8
+Tomato,rtmp://etomatofms2.hscdn.com/etomato.dvr/mp4:etomato
+DEPORTESRealMadridTVHD,http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+NOTICIASMilenioTV,http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+NOTICIASCGTN1,http://livees.cgtn.com/1000e/prog_index.m3u8
+BloombergTVEurope,http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+泰国THAIPBSHD,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
 伊拉克 Al Sharqiya,http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 伊拉克 Sharqiya News,http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 土耳其Cay TV,http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
