@@ -100,7 +100,9 @@ CEC-国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 港澳台频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 阳光卫视,http://121.31.30.90:8085/ysten-business/live/yangguangstv/1.m3u8
+澳门,http://61.244.22.4/ch3/_definst_/ch3.live/chunklist_w248237998.m3u8
 凤凰资讯,http://live.centerch.com/fhzx.m3u8
 凤凰资讯,http://125.210.152.18:9090/live/FHZX_1200.m3u8
 凤凰中文,rtmp://58.200.131.2:1935/livetv/fhzw
