@@ -476,9 +476,6 @@ TVB官方,http://txtest-xp2p.p2p.huya.com/src/1199561181026-1199561181026-543444
 经典赛车系列,http://txtest-xp2p.p2p.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.flv
 斗鱼1厅,http://tx2play1.douyucdn.cn:80/live/122402rK7MO9bXSq.flv
 斗鱼2厅,http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi.flv
-懒猫 美食家 点播,http://tx2play1.douyucdn.cn/live/260322rQVRo7e2i8.flv
-白钟元 美食家 点播,http://tx2play1.douyucdn.cn/live/1164331rt3qaQYIk.flv
-朴实无华の美食家,http://tx2play1.douyucdn.cn/live/104984rajxHc3xE0.flv
 虎牙八点半,http://txtest-xp2p.p2p.huya.com/src/30765679-2479074344-10647543231832653824-3049003166-10057-A-0-1.flv
 冒险雷探长,http://txtest-xp2p.p2p.huya.com/src/2288129860-2288129860-9827442917701058560-4576383176-10057-A-0-1.flv
 星爷 华语 经典 神乐,http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.flv
@@ -497,39 +494,7 @@ TVB官方,http://txtest-xp2p.p2p.huya.com/src/1199561181026-1199561181026-543444
 笑傲帮,http://txtest-xp2p.p2p.huya.com/src/1449380946-1449380946-6225043762515542016-2847687614-10057-A-0-1.flv
 今晚80后·年轻人的新态度,http://txtest-xp2p.p2p.huya.com/src/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1.flv
 《小品、相声》,https://8407837635d44c1c043879a0c6cf78c3.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_164540838.flv
-荒野求生 德爷贝爷齐上阵,http://sousou2.top/dl/yy1.php?t=1393651005
 鳳凰衛視電影台,https://www.fanmingming.cn/hls/fhdy.m3u8
-龙华电影,mitv://147.135.39.171:9906/5e975a5100046cd4a4cdb96549212d2b.ts
-OUTDOOR,mitv://147.135.39.171:9906/5eb2a08a0005f30e0f583eae16ae002e.ts
-Z频道,mitv://147.135.39.171:9906/5e9b4b1200093ac2b4323ea63695594b.ts
-星卫电影,mitv://147.135.39.171:9906/5e9b4b1300069e38b43241e231037404.ts
-卫视西片,mitv://147.135.39.171:9906/5ea1e2fc000b1e57cdf3a933489b3aee.ts
-卫视中文,mitv://147.135.39.171:9906/5defdaa1000b1a3d6ea06a9c17f77c44.ts
-天映经典,mitv://147.135.39.171:9906/5e7cf98f00024e183dc38c1a5eb34315.ts
-天映频道,mitv://147.135.39.171:9906/5e7cfab00001b8d03dc7f4e34dfd4368.ts
-龙祥电影,mitv://147.135.39.171:9906/5e7cf98e000cd16b3dc38ae278e073ec.ts
-美亚电影,mitv://147.135.39.171:9906/5e7cf98e00020cab3dc388220eeb0f7e.ts
-美亚电影(粤语),mitv://147.135.39.171:9906/5ea57da600045174dc07e1ce3dc61a80.ts
-好莱坞电影,mitv://147.135.39.171:9906/5e7cf98e0006ee193dc3896b4e817161.ts
-有线电影,mitv://147.135.39.171:9906/5e9e8065000ee629c0ba8c55779a5269.ts
-凤凰电影,mitv://147.135.39.171:9906/5e9b4e750002f3b7b43f77c81486506f.ts
-AXN,mitv://147.135.39.171:9906/5e7cf98f000d3ec43dc38ee9739950cb.ts
-CINEMAX,mitv://147.135.39.171:9906/5d9a26b0000b16229ca2651679a25739.ts
-FOX,mitv://147.135.39.171:9906/5ea13fe000031a3acb7681c056f53bb5.ts
-FOX动作电影,mitv://147.135.39.171:9906/5ea13fe100005a81cb7684fc6e2766c4.ts
-FOX优质影院,mitv://147.135.39.171:9906/5ea13bb0000c242fcb66289275e41d0b.ts
-FOX家庭影院,mitv://147.135.39.171:9906/5d9a33bb000a299f9cd557cf4d121c23.ts
-FOX犯罪影院,mitv://147.135.39.171:9906/5ea13bb10001df6fcb6629da1a076a80.ts
-HBO,mitv://147.135.39.171:9906/5e59fae3000b3dac3b0c57342fd33ba0.ts
-HBO Signature,mitv://147.135.39.171:9906/5eb3cc99000aa55e13ec5a6e1cb7093f.ts
-HBO Hits,mitv://147.135.39.171:9906/5eb3cc990005815c13ec59265dc86656.ts
-HITS,mitv://147.135.39.171:9906/5ed1603f0006f0c387755fa818635fdb.ts
-KIX,mitv://147.135.39.171:9906/5ed1603f000d135b8775612e2a3f7c34.ts
-Thrill,mitv://147.135.39.171:9906/5ed15ffd0002a6fa87745cbf1c0f1bd0.ts
-华纳电视频道,mitv://147.135.39.171:9906/5defdaa0000d7e3f6ea0675076d26f43.ts
-BBC Cbeebies(英语),mitv://147.135.39.171:9906/5dea93910008156c5a02c21b24cc6be4.ts
-Nick Jr.(英语),mitv://147.135.39.171:9906/5dea9391000dacc55a02c39228854fcb.ts
-Animax,mitv://147.135.39.171:9906/5d9a25ad00050d2e9c9e6fc864b540d4.ts
 求索纪录,http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
 求索科学,http://125.210.152.18:9090/live/QSKX_1200.m3u8
 求索生活,http://125.210.152.18:9090/live/QSSH_1200.m3u8
