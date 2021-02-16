@@ -1,6 +1,6 @@
-电视源:https://dianshiyuan.github.io/tv.txt
+电视源:https://iniobuzz.github.io/tv.txt
 
-电台源:https://dianshiyuan.github.io/radio.txt
+电台源:https://iniobuzz.github.io/radio.txt
 
 PC&安卓播放器:https://ernest.lanzous.com/b08faex9a
 密码:7ica
