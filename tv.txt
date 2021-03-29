@@ -396,10 +396,15 @@ RTM 体育频道,https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:
 CCTV-5体育,http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
 吉林篮球,http://stream1.jlntv.cn/lqpd/sd/live.m3u8
 少儿频道,#genre#
-蜡笔小新,http://txtest-xp2p.p2p.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1.flv
+蜡笔小新,http://blanki.cf/api/bili.php?id=1895574$哔哩哔哩
+蜡笔小新,http://blanki.cf/api/bili.php?id=10375360$哔哩哔哩
+蜡笔小新,http://txtest-xp2p.p2p.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1.flv$虎牙
+特摄放映室,http://blanki.cf/api/bili.php?id=10267370$哔哩哔哩
+奥特曼全集特摄蓝光,http://blanki.cf/api/bili.php?id=4700569
+樱桃小丸子,http://blanki.cf/api/bili.php?id=11765640
 海绵宝宝,http://txtest-xp2p.p2p.huya.com/src/29359996-2689614918-11551808111643721728-2847687648-10057-A-0-1.flv
-迪迦奥特曼,http://txtest-xp2p.p2p.huya.com/src/1524418101-1524418101-6547325889225424896-3048959658-10057-A-0-1.flv
-猫和老鼠,http://txtest-xp2p.p2p.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.flv
+猫和老鼠,http://blanki.cf/api/bili.php?id=1024814$哔哩哔哩
+猫和老鼠,http://txtest-xp2p.p2p.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.flv$虎牙
 七龙珠改,http://txtest-xp2p.p2p.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.flv
 头文字D,http://txtest-xp2p.p2p.huya.com/src/1423782053-1423782053-6115097354266738688-2847687562-10057-A-0-1.flv
 成龙历险记,http://txtest-xp2p.p2p.huya.com/src/1423787836-1423787836-6115122192062611456-2847699128-10057-A-0-1.flv
@@ -461,6 +466,7 @@ TVB版济公,http://txtest-xp2p.p2p.huya.com/src/1199561277724-1199561277724-543
 各国赌片 搏一搏单车变摩托,http://txtest-xp2p.p2p.huya.com/src/1394565207-1394565207-5989611956204470272-2789253870-10057-A-0-1.flv
 童年回忆 贺岁喜剧,http://txtest-xp2p.p2p.huya.com/src/1449597183-1449597183-6225972493358727168-2847687548-10057-A-0-1.flv
 喜剧专场 看喜剧笑一笑吧,http://txtest-xp2p.p2p.huya.com/src/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.flv
+外来媳妇本地郎,http://blanki.cf/api/bili.php?id=995289$哔哩哔哩
 许氏三杰 快来 就差你了,http://txtest-xp2p.p2p.huya.com/src/1524434070-1524434070-6547394475558174720-3048991596-10057-A-0-1.flv
 Running Man,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777071322-10057-A-0-1.flv
 华视-你想要的,http://txtest-xp2p.p2p.huya.com/src/1199556586264-1199556586264-5414711140317921280-2399113295984-10057-A-0-1.flv
