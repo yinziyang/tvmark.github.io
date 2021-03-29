@@ -496,8 +496,11 @@ TVB官方,http://txtest-xp2p.p2p.huya.com/src/1199561181026-1199561181026-543444
 古惑仔系列,http://txtest-xp2p.p2p.huya.com/src/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.flv
 香港黑帮系列,http://txtest-xp2p.p2p.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-0-1.flv
 经典赛车系列,http://txtest-xp2p.p2p.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.flv
-斗鱼1厅,http://tx2play1.douyucdn.cn:80/live/122402rK7MO9bXSq.flv
-斗鱼2厅,http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi.flv
+【女团】精选韩国饭拍,http://blanki.cf/api/douyu.php?id=455891$斗鱼
+超高清女团,http://blanki.cf/api/douyu.php?id=2125718$斗鱼
+【女团】精选韩国现场饭拍MV,http://blanki.cf/api/douyu.php?id=231464$斗鱼
+【24H女团】222286,http://blanki.cf/api/douyu.php?id=222286
+【斗鱼最强更新】Kpop女团点播直播间,http://blanki.cf/api/douyu.php?id=329667
 虎牙八点半,http://txtest-xp2p.p2p.huya.com/src/30765679-2479074344-10647543231832653824-3049003166-10057-A-0-1.flv
 冒险雷探长,http://txtest-xp2p.p2p.huya.com/src/2288129860-2288129860-9827442917701058560-4576383176-10057-A-0-1.flv
 星爷 华语 经典 神乐,http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.flv
