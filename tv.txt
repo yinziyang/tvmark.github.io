@@ -31,15 +31,10 @@ CEC-国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 省市频道,#genre#
 湖南卫视,http://121.31.30.87:8085/ysten-business/live/hdhunanstv/1.m3u8
 湖南卫视,http://stream.cdjsxy.cn/hnws/sd/live.m3u8
-金鹰纪实,http://yunshang.fun/live/hunan.php?id=316
-湖南经财,http://yunshang.fun/live/hunan.php?id=280
-湖南公共,http://yunshang.fun/live/hunan.php?id=261
-湖南国际,http://yunshang.fun/live/hunan.php?id=229
 长沙影视,http://123.134.66.66/guangdianyun_35848/tv_channel_350__redirect__35848.m3u8
 江苏卫视,http://182.138.51.71/PLTV/88888920/224/3221225545/index.m3u8
 江苏卫视,http://121.31.30.87:8085/ysten-business/live/hdjiangsustv/1.m3u8
 江苏卫视,http://ivi.bupt.edu.cn/hls/jshd.m3u8
-安徽卫视,http://182.138.51.71/PLTV/88888920/224/3221225595/index.m3u8
 安徽卫视,http://zbbf2.ahtv.cn/live/749.m3u8
 北京卫视,http://182.138.51.71/PLTV/88888920/224/3221225543/index.m3u8
 北京青年,http://ivi.bupt.edu.cn/hls/btv8.m3u8
@@ -433,7 +428,6 @@ CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd
 哈哈炫动,http://125.210.152.18:9090/live/XDKT.m3u8
 广东少儿,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/tvs5/sd/live.m3u8
 嘉佳卡通,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/jjkt/sd/live.m3u8
-金鹰卡通,http://yunshang.fun/live/hunan.php?id=287
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/flv:500k/live
 武汉少儿,http://stream.appwuhan.com/7tzb/sd/live.m3u8
 福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
