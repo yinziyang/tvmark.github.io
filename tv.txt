@@ -43,9 +43,13 @@ CEC-国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 安徽卫视,http://zbbf2.ahtv.cn/live/749.m3u8
 北京卫视,http://182.138.51.71/PLTV/88888920/224/3221225543/index.m3u8
 北京青年,http://ivi.bupt.edu.cn/hls/btv8.m3u8
-广东卫视,http://182.138.51.71/PLTV/88888920/224/3221225535/index.m3u8
-广东卫视,http://121.31.30.87:8085/ysten-business/live/hdguangdongstv/1.m3u8
-广东卫视,http://ivi.bupt.edu.cn/hls/gdhd.m3u8
+广东卫视,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/gdws/sd/live.m3u8
+广东珠江,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/zjpd/sd/live.m3u8
+南方卫视, http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/tvs2/sd/live.m3u8
+广东影视,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/tvs4/sd/live.m3u8
+广东体育,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/typd/sd/live.m3u8
+广东公共,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/ggpd/sd/live.m3u8
+广东新闻,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/xwpd/sd/live.m3u8
 深圳卫视,http://182.138.51.71/PLTV/88888920/224/3221225542/index.m3u8
 深圳卫视,http://121.31.30.87:8085/ysten-business/live/hdshenzhenstv/1.m3u8
 广西卫视,http://182.138.51.71/PLTV/88888920/224/3221225594/index.m3u8
@@ -97,7 +101,7 @@ CEC-国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 新疆卫视,http://121.31.30.87:8085/ysten-business/live/xinjiangstv/1.m3u8
 内蒙古卫视,http://182.138.51.71/PLTV/88888920/224/3221225606/index.m3u8
 内蒙古卫视,http://39.134.65.162/PLTV/88888888/224/3221225577/index.m3u8
-高清频道,#genre#
+移动频道,#genre#
 CCTV-1HD,rtmp://58.200.131.2:1935/livetv/cctv1hd
 CCTV-2HD,rtmp://58.200.131.2:1935/livetv/cctv2hd
 CCTV-3HD,rtmp://58.200.131.2:1935/livetv/cctv3hd
@@ -427,6 +431,8 @@ MOMO亲子,mitv://147.135.39.171:9906/5cc68d17000c69a4fadeb6c56c456357.ts
 CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
 北京卡酷少儿高清,http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
 哈哈炫动,http://125.210.152.18:9090/live/XDKT.m3u8
+广东少儿,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/tvs5/sd/live.m3u8
+嘉佳卡通,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/jjkt/sd/live.m3u8
 金鹰卡通,http://yunshang.fun/live/hunan.php?id=287
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/flv:500k/live
 武汉少儿,http://stream.appwuhan.com/7tzb/sd/live.m3u8
