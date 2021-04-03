@@ -1,4 +1,4 @@
-央视频道,#genre#
+﻿央视频道,#genre#
 CCTV-1综合,http://182.138.51.71/PLTV/88888920/224/3221225697/index.m3u8
 CCTV-1综合,http://stream4.jlntv.cn/cctv1/sd/live.m3u8
 CCTV-2财经,http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
@@ -161,14 +161,6 @@ Channel[V],rtmp://58.200.131.2:1935/livetv/channelv
 国家地理频道,rtmp://58.200.131.2:1935/livetv/natlgeo
 CHC家庭影院,rtmp://58.200.131.2:1935/livetv/chctv
 CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
-纯享4K,http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B&version=1.0&owaccmark=1000000004000011651&owchid=ystenlive&owsid=6721581571186720581&AuthInfo=QejU%2ByFkapDLEHjn7Vi7Bsh98cz5RjIeOqbMi0Qqlame2O8Id%2BgCUUdS4cJUD1ieqKIx8wFJ0pPdF5P8MGRzRrjFLuuRCIZ2D2ha%2Fr9iiM%2BAnSOfyc4s5zWrjzUdrEbf
-纪实人文蓝光,http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000010606/1.m3u8?stbId=005301FF001589101611549359B92C46&channel-id=ystenlive&Contentid=1000000001000010606&mos=jbjhhzstsl&livemode=1&version=1.0&owaccmark=1000000001000010606&owchid=ystenlive&owsid=5474771579530255373&AuthInfo=2TOfGIahP4HrGWrHbpJXVOhAZZf%2B%2BRvFCOimr7PCGr%2Bu3lLj0NrV6tPDBIsVEpn3QZdNn969VxaznG4qedKIxPvWqo6nkyvxK0SnJLSEP%2FF4Wxm5gCchMH9VO%2BhWyofF
-上海外语蓝光,http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5000000010000030951/index.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&authCode=3a&stbId=005303FF0002189018212C1875540E0E&version=1.0&owaccmark=5000000010000030951&owchid=bestzb&owsid=5275181579530295306&AuthInfo=%2FcylGCbqLdFJuk2wbal8%2B%2FwyUq8npJ58oVaJUzBhF9PPt3njBIzWc%2Fam35vTsnvW6JhDYuiodydLTeMKHTm0L2zYfQnHdO1Iw0VU34c0CqRBZ788c%2Fr%2FVjoxJ5D0QVcG
-第一财经蓝光,http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&authCode=3a&stbId=005301FF00158910000000212621B272&version=1.0&owaccmark=5000000010000027146&owchid=bestzb&owsid=2047321579530436324&AuthInfo=2TOfGIahP4HrGWrHbpJXVGQxu5HMK%2BIheH%2BppAJUFQfPt3njBIzWc%2Fam35vTsnvW%2Bh72VHwN1p1HFLVpAXsbYI0I2J%2FhJvUENkmrKWvJBWHflOM1WROOndOSHiRR8ilK
-冬奥纪实蓝光,http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000001910/1.m3u8?stbId=005301FF001589101611549359B93B82&channel-id=ystenlive&Contentid=1000000001000001910&mos=jbjhhzstsl&livemode=1&version=1.0&owaccmark=1000000001000001910&owchid=ystenlive&owsid=6204131579532167784&AuthInfo=2TOfGIahP4HrGWrHbpJXVB3TJIR2vriLvDYSdNB63hOu3lLj0NrV6tPDBIsVEpn3tQTMvk8FXaCJplQYdE%2FaRS95e%2BAlAk4PMAmwzVuVNoUAyrBQjkJ2X3eTsBSYe8ta
-五星体育蓝光,http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=004003FF0017301364008422F151297C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5000000010000017540&owchid=bestzb&owsid=4493204831455228383&AuthInfo=N%2BiD7%2BHgi9LcszGFRGa51uAqiHNpkS5d0%2FEIXqMyy8J6GNpZ%2BE47AWi696WsOzmj7u8gynrDaeemmd3KgHvW7jm8s%2FkPykV1GmMdpMkc7doBK82U9CVAXx34x1%2FYjl4A
-生活时尚蓝光,http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/8538616372715313491/index.m3u8?channel-id=bestzb&Contentid=8538616372715313491&livemode=1&authCode=3a&stbId=005301FF001589101611549359B95001&version=1.0&owaccmark=8538616372715313491&owchid=bestzb&owsid=9384351579529030195&AuthInfo=2TOfGIahP4HrGWrHbpJXVMf9GKsKSOxo3z9oMCSFNzfvIfeh1IeRuYy1UKStuEqgLEq69vAaIVm8yJ1Bv9Ubfc12nlc%2FSga%2FjQ8%2F3mwUrQxWfqFwePA0JQWqj9IZCH10
-上海都市蓝光,http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/6789517052815334336/index.m3u8?channel-id=bestzb&Contentid=6789517052815334336&livemode=1&authCode=3a&stbId=005301FF001589101611549359B94488&version=1.0&owaccmark=6789517052815334336&owchid=bestzb&owsid=3529791579529328057&AuthInfo=2TOfGIahP4HrGWrHbpJXVG%2BEERpEQIU%2FdtpJfuYgRAZD6434P427oxBuLbFRCJn4JFqerLYeYbaWyhUzdTsyRsJkPPbC14Prjj67uIG3APHUBp7pkUo1m6jlajTP1QwT
 港澳台频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
@@ -456,7 +448,27 @@ KiD电影二台,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain
 生化危机系列,http://txtest-xp2p.p2p.huya.com/src/1099531752748-1099531752748-86436096572915712-2199063628952-10057-A-0-1.flv
 三国演义,http://txtest-xp2p.p2p.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.flv
 【蓝翔】弹幕天团、下饭神剧,http://blanki.cf/api/douyu.php?id=276200
+神乐 华语 经典 电影 刘德华 周星驰,http://blanki.cf/api/douyu.php?id=85894
+【林正英】经典 僵尸 女鬼,http://blanki.cf/api/douyu.php?id=8921999
+【贝爷影厅】经典 科幻 动作 灾难 巨兽,http://blanki.cf/api/douyu.php?id=252802
+可乐❤️电影 欧美 科幻 经典,http://blanki.cf/api/douyu.php?id=20415
+❤️小U❤️丧尸 鬼片 恐怖 惊悚 电影,http://blanki.cf/api/douyu.php?id=96577
+【林正英】僵尸 女鬼 弹幕 护体,http://blanki.cf/api/douyu.php?id=218859
+【贝爷MAX厅】科幻 动作 经典,http://blanki.cf/api/douyu.php?id=4332
+【女神金】60帧 极致蓝光 刀刀陪看,http://blanki.cf/api/douyu.php?id=747764
+【香港赌片】喜剧、黑帮、动作、武侠、经典,http://blanki.cf/api/douyu.php?id=315457
+粤语电影⭐周星驰 林正英 经典喜剧 白话,http://blanki.cf/api/douyu.php?id=6566671
+懒猫 美食家 点播,http://blanki.cf/api/douyu.php?id=260322
+【刀刀de食堂】美食家 点播,http://blanki.cf/api/douyu.php?id=6733133
+金庸武侠、古装神剧,http://blanki.cf/api/douyu.php?id=338759
+经典小品相声放映中,http://blanki.cf/api/douyu.php?id=9067836
+【粤语电影】吴孟达 达叔 周星驰 经典,http://blanki.cf/api/douyu.php?id=1226741
+【话事人】粤语【周星驰】【林正英】,http://blanki.cf/api/douyu.php?id=5033502
+老烟斗鬼故事,http://blanki.cf/api/douyu.php?id=2337939
+都市夜魔人老王,http://blanki.cf/api/douyu.php?id=610972
+正版】经典小品轮播电视台,http://blanki.cf/api/douyu.php?id=9322175
 搞笑一家人,http://txtest-xp2p.p2p.huya.com/src/1394565211-1394565211-5989611973384339456-2789253878-10057-A-0-1.flv
+搞笑一家人,http://blanki.cf/api/douyu.php?id=5422706$斗鱼
 封神榜,http://txtest-xp2p.p2p.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.flv
 张卫健版西游记,http://txtest-xp2p.p2p.huya.com/src/1199561182641-1199561182641-5434452429213007872-2399122488738-10057-A-0-1.flv
 经典港片轮播,http://txtest-xp2p.p2p.huya.com/src/1199563479483-1199563479483-5444317290487087104-2399127082422-10057-A-0-1.flv
@@ -469,7 +481,8 @@ TVB版济公,http://txtest-xp2p.p2p.huya.com/src/1199561277724-1199561277724-543
 喜剧专场 看喜剧笑一笑吧,http://txtest-xp2p.p2p.huya.com/src/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.flv
 外来媳妇本地郎,http://blanki.cf/api/bili.php?id=995289$哔哩哔哩
 许氏三杰 快来 就差你了,http://txtest-xp2p.p2p.huya.com/src/1524434070-1524434070-6547394475558174720-3048991596-10057-A-0-1.flv
-Running Man,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777071322-10057-A-0-1.flv
+Running Man,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777071322-10057-A-0-1.flv$虎牙
+Running Man,http://blanki.cf/api/bili.php?id=7298973$斗鱼
 华视-你想要的,http://txtest-xp2p.p2p.huya.com/src/1199556586264-1199556586264-5414711140317921280-2399113295984-10057-A-0-1.flv
 华视-警匪大片,http://txtest-xp2p.p2p.huya.com/src/1199556520236-1199556520236-5414427552217300992-2399113163928-10057-A-0-1.flv
 华视-动作大片,http://txtest-xp2p.p2p.huya.com/src/1199556584546-1199556584546-5414703761564106752-2399113292548-10057-A-0-1.flv
