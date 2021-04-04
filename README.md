@@ -18,10 +18,9 @@ TXT格式
 
 直播源格式为：
 分类名称
-央视,#genre#
-
-CCTV1,http://xxxxxxxxxxxxxxxx.m3u8
-
+                                                                                                                                                                     
+央视,#genre#                                                                                                                                                                     
+CCTV1,http://xxxxxxxxxxxxxxxx.m3u8                                                                                                                                               
 CCTV2,http://xxxxxxxxxxxxxxxx.m3u8
 
 频道名,直播源(注意中间有英文逗号)
@@ -36,12 +35,10 @@ PS:这里有个小区分：
 
 《分享者tv》 自定义直播源的分类写法为
 
-$c_start央视$c_end
-
-CCTV1,http://xxxxxxxxxxxxxxxx.m3u8
-
-CCTV2,http://xxxxxxxxxxxxxxxx.m3u8
-
+$c_start央视$c_end                                                                                                                                                           
+CCTV1,http://xxxxxxxxxxxxxxxx.m3u8                                                                                                                                               
+CCTV2,http://xxxxxxxxxxxxxxxx.m3u8                                                                                                 
+                                                                                                 
 m3u格式
 此格式主要适用于：
 
@@ -49,13 +46,11 @@ m3u格式
 
 m3u格式频道分类与频道名称写法
 
-#EXTM3U
-
-#EXTINF: -1 group-title="中央台",CCTV1
-http://xxxxxxxxxxxxxxxx.m3u8
-
-#EXTINF: -1 group-title="中央台",CCTV2
-http://xxxxxxxxxxxxxxxx.m3u8
+#EXTM3U                                                                                                                                                                         
+#EXTINF: -1 group-title="中央台",CCTV1                                                                                                 
+http://xxxxxxxxxxxxxxxx.m3u8                                                
+#EXTINF: -1 group-title="中央台",CCTV2                                                
+http://xxxxxxxxxxxxxxxx.m3u8                                                
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
