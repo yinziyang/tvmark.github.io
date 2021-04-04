@@ -19,7 +19,11 @@ TXT格式
 直播源格式为：
 分类名称
 央视,#genre#
+
 CCTV1,http://xxxxxxxxxxxxxxxx.m3u8
+
+CCTV2,http://xxxxxxxxxxxxxxxx.m3u8
+
 频道名,直播源(注意中间有英文逗号)
 
 注意：保存的时候，需要注意是否为UTF-8格式的编码，如果不是这种编码，导入到软件里面，就会乱码，无法显示正常的文字；
@@ -33,7 +37,10 @@ PS:这里有个小区分：
 《分享者tv》 自定义直播源的分类写法为
 
 $c_start央视$c_end
+
 CCTV1,http://xxxxxxxxxxxxxxxx.m3u8
+
+CCTV2,http://xxxxxxxxxxxxxxxx.m3u8
 
 m3u格式
 此格式主要适用于：
@@ -43,7 +50,11 @@ m3u格式
 m3u格式频道分类与频道名称写法
 
 #EXTM3U
-#EXTINF:tvg-logo="http://api.hmister.cn/IPTV/img/cctv1.jpg", -1 group-title="中央台",CCTV1
+
+#EXTINF: -1 group-title="中央台",CCTV1
+http://xxxxxxxxxxxxxxxx.m3u8
+
+#EXTINF: -1 group-title="中央台",CCTV2
 http://xxxxxxxxxxxxxxxx.m3u8
 
 ------------------------------------------------------------------------------------------------------------------------------------
