@@ -10,6 +10,8 @@ EPG节目预告源:http://www.diyp.top/diyp/epg.php
 PC&安卓播放器:https://ernest.lanzous.com/b08faex9a
 密码:7ica
 
+自制直播源制作方法：
+
 TXT格式
 此格式主要适用于：
 《分享者tv》 《百川影音》 《DIYP影音》《视米趣播》等骆驼壳；
