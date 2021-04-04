@@ -40,7 +40,7 @@ m3u格式
 
 《Perfect Player》《IPTV Pro》《Televizo》《TiviMate》等等(插一句，这类软件一般只支持http开头的那种源)
 
-m3u格式频道分类与频道名称写法
+m3u格式频道分类与频道名称写法PS：【中央台】时频道名，CCTV1是节目名称。
 
 #EXTM3U                                                                                                                                                                         
 #EXTINF: -1 group-title="中央台",CCTV1                                                                                                 
