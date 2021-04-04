@@ -18,7 +18,7 @@ CCTV1,http://xxxxxxxxxxxxxxxx.m3u8
 注意：保存的时候，需要注意是否为UTF-8格式的编码，如果不是这种编码，导入到软件里面，就会乱码，无法显示正常的文字；
 
 
-这里有个小区分：
+PS:这里有个小区分：
 像分享者、百川等等都是在骆驼壳的基础改良的，所以他们的频道分类方式有点小区别(这个分类如果不正确就会导致，导入后没有任何频道)；
 
 主要为：
@@ -32,7 +32,8 @@ m3u格式
 此格式主要适用于：
 
 《Perfect Player》《IPTV Pro》《Televizo》《TiviMate》等等(插一句，这类软件一般只支持http开头的那种源)
-频道分类与频道名称写法
+
+m3u格式频道分类与频道名称写法
 
 #EXTM3U
 #EXTINF:tvg-logo="http://api.hmister.cn/IPTV/img/cctv1.jpg", -1 group-title="中央台",CCTV1
