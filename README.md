@@ -1,4 +1,6 @@
-电视源:https://tvmark.github.io/tv.txt
+电视TXT源:https://tvmark.github.io/tv.txt
+
+电视M3U源:https://tvmark.github.io/tv.m3u
 
 电台源:https://tvmark.github.io/radio.txt
 
