@@ -24,13 +24,16 @@ CCTV1,http://xxxxxxxxxxxxxxxx.m3u8
 主要为：
 
 《分享者tv》 自定义直播源的分类写法为
+
 $c_start央视$c_end
 CCTV1,http://xxxxxxxxxxxxxxxx.m3u8
 
 m3u格式
 此格式主要适用于：
+
 《Perfect Player》《IPTV Pro》《Televizo》《TiviMate》等等(插一句，这类软件一般只支持http开头的那种源)
 频道分类与频道名称写法
+
 #EXTM3U
 #EXTINF:tvg-logo="http://api.hmister.cn/IPTV/img/cctv1.jpg", -1 group-title="中央台",CCTV1
 http://xxxxxxxxxxxxxxxx.m3u8
