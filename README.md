@@ -4,7 +4,8 @@
 
 电台源:https://tvmark.github.io/radio.txt
 
-EPG节目预告源:http://www.diyp.top/diyp/epg.php【备用预告源】：http://epg.51zmt.top:8000/e.xml
+EPG节目预告源:http://www.diyp.top/diyp/epg.php
+【备用预告源】：http://epg.51zmt.top:8000/e.xml
 
 PC&安卓播放器:https://ernest.lanzous.com/b08faex9a
 密码:7ica
