@@ -43,6 +43,7 @@ CEC 国际旅游,http://play.cec tv.com.cn/channel/cec tv2.m3u8
 安徽卫视,http://zbbf2.ahtv.cn/live/749.m3u8
 北京卫视,http://182.138.51.71/PLTV/88888920/224/3221225543/index.m3u8
 北京青年,http://ivi.bupt.edu.cn/hls/btv8.m3u8
+广东卫视,http://111.161.121.214/nclive.grtn.cn/gdws/sd/live.m3u8
 广东卫视,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/gdws/sd/live.m3u8
 广东珠江,http://111.161.121.214/nclive.grtn.cn/zjpd/sd/live.m3u8
 广东珠江,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/zjpd/sd/live.m3u8
