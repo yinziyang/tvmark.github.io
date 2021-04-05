@@ -1,33 +1,38 @@
 ﻿中央台,#genre#
-CCTV-1综合,http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
-CCTV-1综合,http://stream4.jlntv.cn/cctv1/sd/live.m3u8
-CCTV-2财经,http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
-CCTV-2财经,http://cctvcnch5ca.v.wscdns.com/live/cctv2_2/10793.m3u8
-CCTV-3综艺,http://ivi.bupt.edu.cn/hls/cctv3.m3u8
-CCTV-4中文国际,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv4_2/index.m3u8
-CCTV-4中文国际,http://ivi.bupt.edu.cn/hls/cctv4.m3u8
-CCTV-4国际欧洲,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2/index.m3u8
-CCTV-4国际美洲,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvamerica_2/index.m3u8
-CCTV-6电影,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv6_2/index.m3u8
-CCTV-6电影,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-CCTV-6电影,http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
-CCTV-7国防军事,http://ivi.bupt.edu.cn/hls/cctv7.m3u8
-CCTV-8电视剧,https://cctvcnch5ca.v.wscdns.com/live/cctv8_2/index.m3u8
-CCTV-8电视剧,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv8_2/index.m3u8
-CCTV-9记录,http://ivi.bupt.edu.cn/hls/cctv9.m3u8
-CCTV-10科教,https://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8
-CCTV-10科教,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv10_2/index.m3u8
-CCTV-12社会与法,http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
-CCTV-13新闻,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv13_2/index.m3u8
-CCTV-13新闻,http://stream4.jlntv.cn/cctv13/sd/live.m3u8
-CCTV-14少儿,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvchild_2/index.m3u8
-CCTV-14少儿,https://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8
-CCTV-14少儿,http://ivi.bupt.edu.cn/hls/cctv14.m3u8
-CCTV-15音乐,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv15_2/index.m3u8
-CCTV-15音乐,http://ivi.bupt.edu.cn/hls/cctv15.m3u8
-CCTV-17农业农村,http://stream.cdjsxy.cn/lypd/sd/live.m3u8
-CEC-国际频道,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
-CEC-国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+CCTV 1综合,http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
+CCTV 1综合,http://stream4.jlntv.cn/cctv1/sd/live.m3u8
+CCTV 2财经,http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
+CCTV 2财经,http://cctvcnch5ca.v.wscdns.com/live/cctv2_2/10793.m3u8
+CCTV 3综艺,http://ivi.bupt.edu.cn/hls/cctv3.m3u8
+CCTV 4中文国际,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv4_2/index.m3u8
+CCTV 4中文国际,http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+CCTV 4国际欧洲,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2/index.m3u8
+CCTV 4国际美洲,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvamerica_2/index.m3u8
+CCTV 6电影,http://cctvcnch5c.v.wscdns.com/live/cctv6_2/index.m3u8
+CCTV 6电影,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv6_2/index.m3u8
+CCTV 6电影,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+CCTV 6电影,http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
+CCTV 7国防军事,http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+CCTV 8电视剧,http://cctvcnch5c.v.wscdns.com/live/cctv8_2/index.m3u8
+CCTV 8电视剧,https://cctvcnch5ca.v.wscdns.com/live/cctv8_2/index.m3u8
+CCTV 8电视剧,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv8_2/index.m3u8
+CCTV 9记录,http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+CCTV 10科教,http://cctvcnch5c.v.wscdns.com/live/cctv10_2/index.m3u8
+CCTV 10科教,https://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8
+CCTV 10科教,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv10_2/index.m3u8
+CCTV 11戏曲,http://cctvcnch5c.v.wscdns.com/live/cctv11_2/index.m3u8
+CCTV 12社会与法,http://cctvcnch5c.v.wscdns.com/live/cctv12_2/index.m3u8
+CCTV 13新闻,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv13_2/index.m3u8
+CCTV 13新闻,http://stream4.jlntv.cn/cctv13/sd/live.m3u8
+CCTV 15音乐,http://cctvcnch5c.v.wscdns.com/live/cctv15_2/index.m3u8
+CCTV 14少儿,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvchild_2/index.m3u8
+CCTV 14少儿,https://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8
+CCTV 14少儿,http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+CCTV 15音乐,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv15_2/index.m3u8
+CCTV 15音乐,http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+CCTV 17农业农村,http://stream.cdjsxy.cn/lypd/sd/live.m3u8
+CEC 国际频道,http://play.cec tv.com.cn/channel/cec tv3.m3u8
+CEC 国际旅游,http://play.cec tv.com.cn/channel/cec tv2.m3u8
 
 卫视台,#genre#
 湖南卫视,http://121.31.30.87:8085/ysten-business/live/hdhunanstv/1.m3u8
