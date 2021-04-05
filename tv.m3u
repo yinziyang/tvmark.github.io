@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="中央台",CCTV-1综合
+﻿#EXTINF:-1 group-title="中央台",CCTV-1综合
 http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
 #EXTINF:-1 group-title="中央台",CCTV-1综合
 http://stream4.jlntv.cn/cctv1/sd/live.m3u8
@@ -121,6 +121,8 @@ http://182.138.51.71/PLTV/88888920/224/3221225605/index.m3u8
 http://182.138.51.71/PLTV/88888920/224/3221225541/index.m3u8
 #EXTINF:-1 group-title="卫视台",湖北卫视
 http://121.31.30.87:8085/ysten-business/live/hdhubeistv/1.m3u8
+#EXTINF:-1 group-title="卫视台",鹤峰影视
+http://hefeng.live.tempsource.cjyun.org/videotmp/s10100-hftv2.m3u8
 #EXTINF:-1 group-title="卫视台",厦门卫视
 http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xiamen_2/index.m3u8
 #EXTINF:-1 group-title="卫视台",山东卫视
@@ -325,6 +327,12 @@ rtmp://58.200.131.2:1935/livetv/chcatv
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+#EXTINF:-1 group-title="港澳台",TVB翡翠台
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 group-title="港澳台",TVB翡翠台
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 group-title="港澳台",TVB翡翠台
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1 group-title="港澳台",耀才財經
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",阳光卫视
@@ -1237,8 +1245,6 @@ http://txtest-xp2p.p2p.huya.com/src/303320155-303320155-1302750145942650880-6067
 #EXTINF:-1 group-title="游戏台",户外皇帝-牛神
 http://txtest-xp2p.p2p.huya.com/src/1680409000-1680409000-7217301698904064000-3360941456-10057-A-0-1.xs
 
-#EXTINF:-1 group-title="音乐台",点击扫码捐赠 感谢支持
-https://pan.bilnn.com/api/v3/file/sourcejump/WgOlh9/lqK4kXVTTU5pe0x3fkjfig**
 #EXTINF:-1 group-title="音乐台",Lovesick Girls- BLACKPINK
 https://link.hhtjim.com/qq/t0034rm3att.mp4
 #EXTINF:-1 group-title="音乐台",Cardi B- WAP feat. Megan Thee Stallion

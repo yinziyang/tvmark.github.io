@@ -1,5 +1,5 @@
-﻿央视频道,#genre#
-CCTV-1综合,http://182.138.51.71/PLTV/88888920/224/3221225697/index.m3u8
+﻿中央台,#genre#
+CCTV-1综合,http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
 CCTV-1综合,http://stream4.jlntv.cn/cctv1/sd/live.m3u8
 CCTV-2财经,http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
 CCTV-2财经,http://cctvcnch5ca.v.wscdns.com/live/cctv2_2/10793.m3u8
@@ -28,7 +28,8 @@ CCTV-15音乐,http://ivi.bupt.edu.cn/hls/cctv15.m3u8
 CCTV-17农业农村,http://stream.cdjsxy.cn/lypd/sd/live.m3u8
 CEC-国际频道,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 CEC-国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-省市频道,#genre#
+
+卫视台,#genre#
 湖南卫视,http://121.31.30.87:8085/ysten-business/live/hdhunanstv/1.m3u8
 湖南卫视,http://stream.cdjsxy.cn/hnws/sd/live.m3u8
 长沙影视,http://123.134.66.66/guangdianyun_35848/tv_channel_350__redirect__35848.m3u8
@@ -61,6 +62,7 @@ CEC-国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 辽宁卫视,http://182.138.51.71/PLTV/88888920/224/3221225605/index.m3u8
 东方卫视,http://182.138.51.71/PLTV/88888920/224/3221225541/index.m3u8
 湖北卫视,http://121.31.30.87:8085/ysten-business/live/hdhubeistv/1.m3u8
+鹤峰影视,http://hefeng.live.tempsource.cjyun.org/videotmp/s10100-hftv2.m3u8
 厦门卫视,http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xiamen_2/index.m3u8
 山东卫视,http://182.138.51.71/PLTV/88888920/224/3221225534/index.m3u8
 山东卫视,http://121.31.30.87:8085/ysten-business/live/shandongstv/1.m3u8
@@ -96,7 +98,8 @@ CEC-国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 新疆卫视,http://121.31.30.87:8085/ysten-business/live/xinjiangstv/1.m3u8
 内蒙古卫视,http://182.138.51.71/PLTV/88888920/224/3221225606/index.m3u8
 内蒙古卫视,http://39.134.65.162/PLTV/88888888/224/3221225577/index.m3u8
-移动频道,#genre#
+
+教育网,#genre#
 CCTV-1HD,rtmp://58.200.131.2:1935/livetv/cctv1hd
 CCTV-2HD,rtmp://58.200.131.2:1935/livetv/cctv2hd
 CCTV-3HD,rtmp://58.200.131.2:1935/livetv/cctv3hd
@@ -161,9 +164,13 @@ Channel[V],rtmp://58.200.131.2:1935/livetv/channelv
 国家地理频道,rtmp://58.200.131.2:1935/livetv/natlgeo
 CHC家庭影院,rtmp://58.200.131.2:1935/livetv/chctv
 CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
-港澳台频道,#genre#
+
+港澳台,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+TVB翡翠台,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+TVB翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 阳光卫视,http://121.31.30.90:8085/ysten-business/live/yangguangstv/1.m3u8
 澳门,http://61.244.22.4/ch3/_definst_/ch3.live/chunklist_w248237998.m3u8
@@ -177,7 +184,8 @@ CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
 探索频道,rtmp://58.200.131.2:1935/livetv/discovery
-国际频道,#genre#
+
+国际台,#genre#
 日本天気预报,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新加坡惊悚频道,http://xl.jilu8.cn/02_Thrill_720p/chunklist.m3u8
@@ -378,7 +386,8 @@ WSVI-TV,http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8?fluxust
 Jewelry电视,http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
 Darcizzle电视,http://30a-tv.com/darcizzle.m3u8
 INC TV,http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_1500_av-p.m3u8
-体育频道,#genre#
+
+体育台,#genre#
 高尔夫球,rtmp://8869.liveplay.myqcloud.com:1935/live/8869_2c300dcf20d911e791eae435c87f075e
 广东高尔夫,http://szlive.grtn.cn/grfpd/sd/live.m3u8?_upt=6f10defc1587925611
 博斯魅力,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
@@ -386,7 +395,8 @@ INC TV,http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_1500_av-p.m3
 RTM 体育频道,https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2//chunklist_b2064000.m3u8
 CCTV-5体育,http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
 吉林篮球,http://stream1.jlntv.cn/lqpd/sd/live.m3u8
-少儿频道,#genre#
+
+少儿台,#genre#
 蜡笔小新,http://blanki.cf/api/bili.php?id=1895574$哔哩哔哩
 蜡笔小新,http://blanki.cf/api/bili.php?id=10375360$哔哩哔哩
 蜡笔小新,http://txtest-xp2p.p2p.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1.flv$虎牙
@@ -426,7 +436,8 @@ CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd
 山西少儿,http://live2.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiChild
 云南少儿,http://edge2.yntv.cn/channels/yntv/ynse/flv:sd/live?1591809784362
 云南少儿,http://edge2.yntv.cn/channels/yntv/ynse/flv:sd/live
-影视频道,#genre#
+
+影视台,#genre#
 KiD电影一台,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 KiD电影二台,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 埋堆堆官方,http://txtest-xp2p.p2p.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.flv
@@ -578,7 +589,8 @@ TVB官方,http://txtest-xp2p.p2p.huya.com/src/1199561181026-1199561181026-543444
 爱赛车,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
 爱浪漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
 峨眉电影蓝光,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-游戏频道,#genre#
+
+游戏台,#genre#
 英雄联盟赛事,http://txtest-xp2p.p2p.huya.com/src/78941969-2559461593-10992803837303062528-2693342886-10057-A-0-1.xs
 LOL官方直播间,https://8407837635d44c1c043879a0c6cf78c3.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_364457078.xs
 斗鱼英雄联盟赛事,http://tx2play1.douyucdn.cn/live/288016rlols5.xs
@@ -622,8 +634,8 @@ Rust腐蚀-子阳,https://video-tx2-aws.lv-play.com/live/4428615G.flv
 穿越火线-白鲨Ayom,http://tx2play1.douyucdn.cn/live/12821rmHNB7Jis.m3u8
 逆战-夜崽崽,http://txtest-xp2p.p2p.huya.com/src/303320155-303320155-1302750145942650880-606763766-10057-A-0-1.xs
 户外皇帝-牛神,http://txtest-xp2p.p2p.huya.com/src/1680409000-1680409000-7217301698904064000-3360941456-10057-A-0-1.xs
-MV频道,#genre#
-点击扫码捐赠 感谢支持,https://pan.bilnn.com/api/v3/file/sourcejump/WgOlh9/lqK4kXVTTU5pe0x3fkjfig**
+
+音乐台,#genre#
 Lovesick Girls- BLACKPINK,https://link.hhtjim.com/qq/t0034rm3att.mp4
 Cardi B - WAP feat. Megan Thee Stallion ,https://pan.bilnn.com/api/v3/file/sourcejump/1GDOuw/YyR4S8zBia-hLxFIjvQABw**
 【泰民TAEMIN】 Criminal MV 中韩字幕 @神迹出品,https://pan.bilnn.com/api/v3/file/sourcejump/45GJsZ/i36FzV4B-DyyaZkoaKSpqg**
