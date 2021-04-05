@@ -1,13 +1,10 @@
-电视TXT源:https://tvmark.github.io/tv.txt
+骆驼壳专用TXT源：https://tvmark.github.io/tv.txt                                    
+BLANK-播放器专用TXT源：https://tvmark.github.io/tv.txt                                    
+BLANK-播放器官网：https://blankvip.top/                                    
+IPTV Pro、Televizo等专用M3U源：https://tvmark.github.io/tv.m3u
+电台源：https://tvmark.github.io/radio.txt                                    
 
-电视M3U源:https://tvmark.github.io/tv.m3u
-
-电台源:https://tvmark.github.io/radio.txt
-
-EPG节目预告源:http://www.diyp.top/diyp/epg.php
-【备用预告源】：http://epg.51zmt.top:8000/e.xml
-
-PC&安卓播放器:https://ernest.lanzous.com/b08faex9a
+PC&安卓播放器：https://ernest.lanzous.com/b08faex9a
 密码:7ica
 
 自制直播源制作方法：
