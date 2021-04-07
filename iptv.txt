@@ -471,149 +471,7 @@ CGTN 576,http://101.71.255.229:6610/zjhs/2/10001/index.m3u8?virtualDomain=zjhs.l
 江苏优漫卡通 576,http://101.71.255.229:6610/zjhs/2/10053/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 湖南金鹰卡通 576,http://101.71.255.229:6610/zjhs/2/10030/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 浙江留学世界 576,http://101.71.255.229:6610/zjhs/2/10033/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-教育网IPTV
-CCTV-1HD,rtmp://58.200.131.2:1935/livetv/cctv1hd
-CCTV-2HD,rtmp://58.200.131.2:1935/livetv/cctv2hd
-CCTV-3HD,rtmp://58.200.131.2:1935/livetv/cctv3hd
-CCTV-4HD,rtmp://58.200.131.2:1935/livetv/cctv4hd
-CCTV-5HD,rtmp://58.200.131.2:1935/livetv/cctv5hd
-CCTV5+HD,rtmp://58.200.131.2:1935/livetv/cctv5phd
-CCTV-6HD,rtmp://58.200.131.2:1935/livetv/cctv6hd
-CCTV-7HD,rtmp://58.200.131.2:1935/livetv/cctv7hd
-CCTV-8HD,rtmp://58.200.131.2:1935/livetv/cctv8hd
-CCTV-9HD,rtmp://58.200.131.2:1935/livetv/cctv9hd
-CCTV-10HD,rtmp://58.200.131.2:1935/livetv/cctv10hd
-CCTV-12HD,rtmp://58.200.131.2:1935/livetv/cctv12hd
-CCTV-14HD,rtmp://58.200.131.2:1935/livetv/cctv14hd
-CGTN-新闻,rtmp://58.200.131.2:1935/livetv/cctv16
-CETV-1,rtmp://58.200.131.2:1935/livetv/cetv1
-CETV-3,rtmp://58.200.131.2:1935/livetv/cetv3
-CETV-4,rtmp://58.200.131.2:1935/livetv/cetv4
-北京卫视高清,rtmp://58.200.131.2:1935/livetv/btv1hd
-北京影视高清,rtmp://58.200.131.2:1935/livetv/btv4hd
-北京体育高清,rtmp://58.200.131.2:1935/livetv/btv6hd
-北京新闻高清,rtmp://58.200.131.2:1935/livetv/btv9hd
-北京纪实高清,rtmp://58.200.131.2:1935/livetv/btv11hd
-北京卫视,rtmp://58.200.131.2:1935/livetv/btv1
-北京文艺,rtmp://58.200.131.2:1935/livetv/btv2
-北京科教,rtmp://58.200.131.2:1935/livetv/btv3
-北京影视,rtmp://58.200.131.2:1935/livetv/btv4
-北京财经,rtmp://58.200.131.2:1935/livetv/btv5
-北京体育,rtmp://58.200.131.2:1935/livetv/btv6
-北京生活,rtmp://58.200.131.2:1935/livetv/btv7
-北京青年,rtmp://58.200.131.2:1935/livetv/btv8
-北京新闻,rtmp://58.200.131.2:1935/livetv/btv9
-北京卡酷,rtmp://58.200.131.2:1935/livetv/btv10
-北京文艺高清,rtmp://58.200.131.2:1935/livetv/btv2hd
-安徽卫视高清,rtmp://58.200.131.2:1935/livetv/ahhd
-重庆卫视高清,rtmp://58.200.131.2:1935/livetv/cqhd
-东方卫视高清,rtmp://58.200.131.2:1935/livetv/dfhd
-天津卫视高清,rtmp://58.200.131.2:1935/livetv/tjhd
-东南卫视高清,rtmp://58.200.131.2:1935/livetv/dnhd
-江西卫视高清,rtmp://58.200.131.2:1935/livetv/jxhd
-河北卫视高清,rtmp://58.200.131.2:1935/livetv/hebhd
-湖南卫视高清,rtmp://58.200.131.2:1935/livetv/hunanhd
-湖北卫视高清,rtmp://58.200.131.2:1935/livetv/hbhd
-辽宁卫视高清,rtmp://58.200.131.2:1935/livetv/lnhd
-四川卫视高清,rtmp://58.200.131.2:1935/livetv/schd
-江苏卫视高清,rtmp://58.200.131.2:1935/livetv/jshd
-浙江卫视高清,rtmp://58.200.131.2:1935/livetv/zjhd
-山东卫视高清,rtmp://58.200.131.2:1935/livetv/sdhd
-广东卫视高清,rtmp://58.200.131.2:1935/livetv/gdhd
-深圳卫视高清,rtmp://58.200.131.2:1935/livetv/szhd
-黑龙江卫视高清,rtmp://58.200.131.2:1935/livetv/hljhd
-CHC高清电影,rtmp://58.200.131.2:1935/livetv/chchd
-上海纪实高清,rtmp://58.200.131.2:1935/livetv/docuchina
-金鹰纪实高清,rtmp://58.200.131.2:1935/livetv/gedocu
-全纪实高清,rtmp://58.200.131.2:1935/livetv/documentaryhd
-凤凰卫视中文台,rtmp://58.200.131.2:1935/livetv/fhzw
-凤凰卫视资讯台,rtmp://58.200.131.2:1935/livetv/fhzx
-凤凰卫视电影台,rtmp://58.200.131.2:1935/livetv/fhdy
-星空卫视,rtmp://58.200.131.2:1935/livetv/startv
-Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
-Channel[V],rtmp://58.200.131.2:1935/livetv/channelv
-探索频道,rtmp://58.200.131.2:1935/livetv/discovery
-国家地理频道,rtmp://58.200.131.2:1935/livetv/natlgeo
-CHC家庭影院,rtmp://58.200.131.2:1935/livetv/chctv
-CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
-中央台
-CCTV 1综合,http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
-CCTV 1综合,http://stream4.jlntv.cn/cctv1/sd/live.m3u8
-CCTV 2财经,http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
-CCTV 2财经,http://cctvcnch5ca.v.wscdns.com/live/cctv2_2/10793.m3u8
-CCTV 3综艺,http://ivi.bupt.edu.cn/hls/cctv3.m3u8
-CCTV 4中文国际,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv4_2/index.m3u8
-CCTV 4中文国际,http://ivi.bupt.edu.cn/hls/cctv4.m3u8
-CCTV 4国际欧洲,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2/index.m3u8
-CCTV 4国际美洲,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvamerica_2/index.m3u8
-CCTV 6电影,http://cctvcnch5c.v.wscdns.com/live/cctv6_2/index.m3u8
-CCTV 6电影,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv6_2/index.m3u8
-CCTV 6电影,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-CCTV 6电影,http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
-CCTV 7国防军事,http://ivi.bupt.edu.cn/hls/cctv7.m3u8
-CCTV 8电视剧,http://cctvcnch5c.v.wscdns.com/live/cctv8_2/index.m3u8
-CCTV 8电视剧,https://cctvcnch5ca.v.wscdns.com/live/cctv8_2/index.m3u8
-CCTV 8电视剧,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv8_2/index.m3u8
-CCTV 9记录,http://ivi.bupt.edu.cn/hls/cctv9.m3u8
-CCTV 10科教,http://cctvcnch5c.v.wscdns.com/live/cctv10_2/index.m3u8
-CCTV 10科教,https://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8
-CCTV 10科教,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv10_2/index.m3u8
-CCTV 11戏曲,http://cctvcnch5c.v.wscdns.com/live/cctv11_2/index.m3u8
-CCTV 12社会与法,http://cctvcnch5c.v.wscdns.com/live/cctv12_2/index.m3u8
-CCTV 13新闻,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv13_2/index.m3u8
-CCTV 13新闻,http://stream4.jlntv.cn/cctv13/sd/live.m3u8
-CCTV 15音乐,http://cctvcnch5c.v.wscdns.com/live/cctv15_2/index.m3u8
-CCTV 14少儿,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvchild_2/index.m3u8
-CCTV 14少儿,https://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8
-CCTV 14少儿,http://ivi.bupt.edu.cn/hls/cctv14.m3u8
-CCTV 15音乐,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv15_2/index.m3u8
-CCTV 15音乐,http://ivi.bupt.edu.cn/hls/cctv15.m3u8
-CCTV 17农业农村,http://stream.cdjsxy.cn/lypd/sd/live.m3u8
-CEC 国际频道,http://play.cec tv.com.cn/channel/cec tv3.m3u8
-CEC 国际旅游,http://play.cec tv.com.cn/channel/cec tv2.m3u8
-卫视台
-湖南卫视,http://hbpx.chinashadt.com:2036/live/px5.stream/playlist.m3u8
-长沙影视,http://123.134.66.66/guangdianyun_35848/tv_channel_350__redirect__35848.m3u8
-浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-浙江卫视,http://yd-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://yd-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
-浙江卫视,http://yd-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
-浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
-浙江卫视,http://yd-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
-江苏卫视,http://ivi.bupt.edu.cn/hls/jshd.m3u8
-安徽卫视,http://zbbf2.ahtv.cn/live/749.m3u8
-广东卫视,http://111.161.121.214/nclive.grtn.cn/gdws/sd/live.m3u8
-广东卫视,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/gdws/sd/live.m3u8
-广东珠江,http://111.161.121.214/nclive.grtn.cn/zjpd/sd/live.m3u8
-广东珠江,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/zjpd/sd/live.m3u8
-南方卫视,http://111.161.121.214/nclive.grtn.cn/tvs2/sd/live.m3u8
-南方卫视,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/tvs2/sd/live.m3u8
-广东影视,http://111.161.121.214/nclive.grtn.cn/tvs4/sd/live.m3u8
-广东影视,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/tvs4/sd/live.m3u8
-广东公共,http://111.161.121.214/nclive.grtn.cn/ggpd/sd/live.m3u8
-广东公共,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/ggpd/sd/live.m3u8
-广东新闻,http://111.161.121.214/nclive.grtn.cn/xwpd/sd/live.m3u8
-广东新闻,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/xwpd/sd/live.m3u8
-广西卫视,http://ivi.bupt.edu.cn/hls/gxtv.m3u8
-四川影视,http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
-鹤峰影视,http://hefeng.live.tempsource.cjyun.org/videotmp/s10100-hftv2.m3u8
-厦门卫视,http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xiamen_2/index.m3u8
-青海卫视,http://live.geermurmt.com/qhws/sd/live.m3u8
-福建卫视,http://39.134.65.162/PLTV/88888888/224/3221225500/index.m3u8
-天津卫视,http://39.134.65.162/PLTV/88888888/224/3221225528/index.m3u8
-甘肃卫视,http://stream.gstv.com.cn/gsws/sd/live.m3u8
-甘肃卫视,http://39.134.65.162/PLTV/88888888/224/3221225584/index.m3u8
-云南卫视,https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
-云南卫视,http://hwzbout.yunshicloud.com/8xughf/e0bx15.m3u8
-黑龙江卫视,http://stream3.hljtv.com/hljws2/sd/live.m3u8
-黑龙江卫视,http://39.134.65.162/PLTV/88888888/224/3221225537/index.m3u8
-河北卫视,http://live5.plus.hebtv.com/hbws/sd/live.m3u8
-西藏卫视,http://39.134.65.162/PLTV/88888920/224/3221225603/index.m3u8
-西藏卫视,http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/xizang_2/index.m3u8
-内蒙古卫视,http://39.134.65.162/PLTV/88888888/224/3221225577/index.m3u8
-网络代理源
+PHP代理源
 CCTV4K 20M2160HDR,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=cctv4k
 CCTV1 7M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=cctv1
 CCTV2 7M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=cctv2
@@ -853,6 +711,148 @@ MTV 576,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=mtv
 NHK 576,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=bbc
 POCC 576,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=pocc
 TV5 576,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=tv5
+教育网IPTV
+CCTV-1HD,rtmp://58.200.131.2:1935/livetv/cctv1hd
+CCTV-2HD,rtmp://58.200.131.2:1935/livetv/cctv2hd
+CCTV-3HD,rtmp://58.200.131.2:1935/livetv/cctv3hd
+CCTV-4HD,rtmp://58.200.131.2:1935/livetv/cctv4hd
+CCTV-5HD,rtmp://58.200.131.2:1935/livetv/cctv5hd
+CCTV5+HD,rtmp://58.200.131.2:1935/livetv/cctv5phd
+CCTV-6HD,rtmp://58.200.131.2:1935/livetv/cctv6hd
+CCTV-7HD,rtmp://58.200.131.2:1935/livetv/cctv7hd
+CCTV-8HD,rtmp://58.200.131.2:1935/livetv/cctv8hd
+CCTV-9HD,rtmp://58.200.131.2:1935/livetv/cctv9hd
+CCTV-10HD,rtmp://58.200.131.2:1935/livetv/cctv10hd
+CCTV-12HD,rtmp://58.200.131.2:1935/livetv/cctv12hd
+CCTV-14HD,rtmp://58.200.131.2:1935/livetv/cctv14hd
+CGTN-新闻,rtmp://58.200.131.2:1935/livetv/cctv16
+CETV-1,rtmp://58.200.131.2:1935/livetv/cetv1
+CETV-3,rtmp://58.200.131.2:1935/livetv/cetv3
+CETV-4,rtmp://58.200.131.2:1935/livetv/cetv4
+北京卫视高清,rtmp://58.200.131.2:1935/livetv/btv1hd
+北京影视高清,rtmp://58.200.131.2:1935/livetv/btv4hd
+北京体育高清,rtmp://58.200.131.2:1935/livetv/btv6hd
+北京新闻高清,rtmp://58.200.131.2:1935/livetv/btv9hd
+北京纪实高清,rtmp://58.200.131.2:1935/livetv/btv11hd
+北京卫视,rtmp://58.200.131.2:1935/livetv/btv1
+北京文艺,rtmp://58.200.131.2:1935/livetv/btv2
+北京科教,rtmp://58.200.131.2:1935/livetv/btv3
+北京影视,rtmp://58.200.131.2:1935/livetv/btv4
+北京财经,rtmp://58.200.131.2:1935/livetv/btv5
+北京体育,rtmp://58.200.131.2:1935/livetv/btv6
+北京生活,rtmp://58.200.131.2:1935/livetv/btv7
+北京青年,rtmp://58.200.131.2:1935/livetv/btv8
+北京新闻,rtmp://58.200.131.2:1935/livetv/btv9
+北京卡酷,rtmp://58.200.131.2:1935/livetv/btv10
+北京文艺高清,rtmp://58.200.131.2:1935/livetv/btv2hd
+安徽卫视高清,rtmp://58.200.131.2:1935/livetv/ahhd
+重庆卫视高清,rtmp://58.200.131.2:1935/livetv/cqhd
+东方卫视高清,rtmp://58.200.131.2:1935/livetv/dfhd
+天津卫视高清,rtmp://58.200.131.2:1935/livetv/tjhd
+东南卫视高清,rtmp://58.200.131.2:1935/livetv/dnhd
+江西卫视高清,rtmp://58.200.131.2:1935/livetv/jxhd
+河北卫视高清,rtmp://58.200.131.2:1935/livetv/hebhd
+湖南卫视高清,rtmp://58.200.131.2:1935/livetv/hunanhd
+湖北卫视高清,rtmp://58.200.131.2:1935/livetv/hbhd
+辽宁卫视高清,rtmp://58.200.131.2:1935/livetv/lnhd
+四川卫视高清,rtmp://58.200.131.2:1935/livetv/schd
+江苏卫视高清,rtmp://58.200.131.2:1935/livetv/jshd
+浙江卫视高清,rtmp://58.200.131.2:1935/livetv/zjhd
+山东卫视高清,rtmp://58.200.131.2:1935/livetv/sdhd
+广东卫视高清,rtmp://58.200.131.2:1935/livetv/gdhd
+深圳卫视高清,rtmp://58.200.131.2:1935/livetv/szhd
+黑龙江卫视高清,rtmp://58.200.131.2:1935/livetv/hljhd
+CHC高清电影,rtmp://58.200.131.2:1935/livetv/chchd
+上海纪实高清,rtmp://58.200.131.2:1935/livetv/docuchina
+金鹰纪实高清,rtmp://58.200.131.2:1935/livetv/gedocu
+全纪实高清,rtmp://58.200.131.2:1935/livetv/documentaryhd
+凤凰卫视中文台,rtmp://58.200.131.2:1935/livetv/fhzw
+凤凰卫视资讯台,rtmp://58.200.131.2:1935/livetv/fhzx
+凤凰卫视电影台,rtmp://58.200.131.2:1935/livetv/fhdy
+星空卫视,rtmp://58.200.131.2:1935/livetv/startv
+Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
+Channel[V],rtmp://58.200.131.2:1935/livetv/channelv
+探索频道,rtmp://58.200.131.2:1935/livetv/discovery
+国家地理频道,rtmp://58.200.131.2:1935/livetv/natlgeo
+CHC家庭影院,rtmp://58.200.131.2:1935/livetv/chctv
+CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
+中央台
+CCTV 1综合,http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
+CCTV 1综合,http://stream4.jlntv.cn/cctv1/sd/live.m3u8
+CCTV 2财经,http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
+CCTV 2财经,http://cctvcnch5ca.v.wscdns.com/live/cctv2_2/10793.m3u8
+CCTV 3综艺,http://ivi.bupt.edu.cn/hls/cctv3.m3u8
+CCTV 4中文国际,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv4_2/index.m3u8
+CCTV 4中文国际,http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+CCTV 4国际欧洲,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2/index.m3u8
+CCTV 4国际美洲,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvamerica_2/index.m3u8
+CCTV 6电影,http://cctvcnch5c.v.wscdns.com/live/cctv6_2/index.m3u8
+CCTV 6电影,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv6_2/index.m3u8
+CCTV 6电影,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+CCTV 6电影,http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
+CCTV 7国防军事,http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+CCTV 8电视剧,http://cctvcnch5c.v.wscdns.com/live/cctv8_2/index.m3u8
+CCTV 8电视剧,https://cctvcnch5ca.v.wscdns.com/live/cctv8_2/index.m3u8
+CCTV 8电视剧,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv8_2/index.m3u8
+CCTV 9记录,http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+CCTV 10科教,http://cctvcnch5c.v.wscdns.com/live/cctv10_2/index.m3u8
+CCTV 10科教,https://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8
+CCTV 10科教,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv10_2/index.m3u8
+CCTV 11戏曲,http://cctvcnch5c.v.wscdns.com/live/cctv11_2/index.m3u8
+CCTV 12社会与法,http://cctvcnch5c.v.wscdns.com/live/cctv12_2/index.m3u8
+CCTV 13新闻,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv13_2/index.m3u8
+CCTV 13新闻,http://stream4.jlntv.cn/cctv13/sd/live.m3u8
+CCTV 15音乐,http://cctvcnch5c.v.wscdns.com/live/cctv15_2/index.m3u8
+CCTV 14少儿,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvchild_2/index.m3u8
+CCTV 14少儿,https://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8
+CCTV 14少儿,http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+CCTV 15音乐,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv15_2/index.m3u8
+CCTV 15音乐,http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+CCTV 17农业农村,http://stream.cdjsxy.cn/lypd/sd/live.m3u8
+CEC 国际频道,http://play.cec tv.com.cn/channel/cec tv3.m3u8
+CEC 国际旅游,http://play.cec tv.com.cn/channel/cec tv2.m3u8
+卫视台
+湖南卫视,http://hbpx.chinashadt.com:2036/live/px5.stream/playlist.m3u8
+长沙影视,http://123.134.66.66/guangdianyun_35848/tv_channel_350__redirect__35848.m3u8
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+浙江卫视,http://yd-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://yd-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
+浙江卫视,http://yd-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
+浙江卫视,http://yd-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
+江苏卫视,http://ivi.bupt.edu.cn/hls/jshd.m3u8
+安徽卫视,http://zbbf2.ahtv.cn/live/749.m3u8
+广东卫视,http://111.161.121.214/nclive.grtn.cn/gdws/sd/live.m3u8
+广东卫视,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/gdws/sd/live.m3u8
+广东珠江,http://111.161.121.214/nclive.grtn.cn/zjpd/sd/live.m3u8
+广东珠江,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/zjpd/sd/live.m3u8
+南方卫视,http://111.161.121.214/nclive.grtn.cn/tvs2/sd/live.m3u8
+南方卫视,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/tvs2/sd/live.m3u8
+广东影视,http://111.161.121.214/nclive.grtn.cn/tvs4/sd/live.m3u8
+广东影视,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/tvs4/sd/live.m3u8
+广东公共,http://111.161.121.214/nclive.grtn.cn/ggpd/sd/live.m3u8
+广东公共,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/ggpd/sd/live.m3u8
+广东新闻,http://111.161.121.214/nclive.grtn.cn/xwpd/sd/live.m3u8
+广东新闻,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/xwpd/sd/live.m3u8
+广西卫视,http://ivi.bupt.edu.cn/hls/gxtv.m3u8
+四川影视,http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
+鹤峰影视,http://hefeng.live.tempsource.cjyun.org/videotmp/s10100-hftv2.m3u8
+厦门卫视,http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xiamen_2/index.m3u8
+青海卫视,http://live.geermurmt.com/qhws/sd/live.m3u8
+福建卫视,http://39.134.65.162/PLTV/88888888/224/3221225500/index.m3u8
+天津卫视,http://39.134.65.162/PLTV/88888888/224/3221225528/index.m3u8
+甘肃卫视,http://stream.gstv.com.cn/gsws/sd/live.m3u8
+甘肃卫视,http://39.134.65.162/PLTV/88888888/224/3221225584/index.m3u8
+云南卫视,https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
+云南卫视,http://hwzbout.yunshicloud.com/8xughf/e0bx15.m3u8
+黑龙江卫视,http://stream3.hljtv.com/hljws2/sd/live.m3u8
+黑龙江卫视,http://39.134.65.162/PLTV/88888888/224/3221225537/index.m3u8
+河北卫视,http://live5.plus.hebtv.com/hbws/sd/live.m3u8
+西藏卫视,http://39.134.65.162/PLTV/88888920/224/3221225603/index.m3u8
+西藏卫视,http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/xizang_2/index.m3u8
+内蒙古卫视,http://39.134.65.162/PLTV/88888888/224/3221225577/index.m3u8
 港澳台
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
@@ -1325,6 +1325,7 @@ Rust腐蚀-子阳,https://video-tx2-aws.lv-play.com/live/4428615G.flv
 逆战-夜崽崽,http://txtest-xp2p.p2p.huya.com/src/303320155-303320155-1302750145942650880-606763766-10057-A-0-1.xs
 户外皇帝-牛神,http://txtest-xp2p.p2p.huya.com/src/1680409000-1680409000-7217301698904064000-3360941456-10057-A-0-1.xs
 音乐台
+打赏支持作者,https://pan.bilnn.com/api/v3/file/sourcejump/m7G6zIw/RMoqACqZABh806vFhUpm7w**
 欧美MTV音乐台,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 Lovesick Girls- BLACKPINK,https://link.hhtjim.com/qq/t0034rm3att.mp4
 Cardi B - WAP feat. Megan Thee Stallion ,https://pan.bilnn.com/api/v3/file/sourcejump/1GDOuw/YyR4S8zBia-hLxFIjvQABw**
