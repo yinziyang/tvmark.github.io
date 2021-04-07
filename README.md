@@ -1,15 +1,14 @@
 安卓&盒子版客户端：
 骆驼壳专用TXT源：https://tvmark.github.io/tv.txt                                    
 IPTV Pro、Televizo等专用M3U源：https://tvmark.github.io/tv.m3u                         
-
 电脑播放器：
 BLANK-播放器专用TXT源：https://tvmark.github.io/iptv.txt                                    
 BLANK-播放器官网：https://blankvip.top/                                                                               
 
-自用软件下载
+自用播放器下载：
 PC&安卓播放器：https://ernest.lanzous.com/b08faex9a
 密码:7ica
-
+------------------------------------------------------------------------------------------------------------------------------------
 自制直播源制作方法：                                  
 TXT格式
 此格式主要适用于：
