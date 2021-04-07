@@ -8,7 +8,7 @@ IPTV Pro、Televizo等专用M3U源：https://tvmark.github.io/tv.m3u
 BLANK-播放器专用TXT源：https://tvmark.github.io/iptv.txt                                    
 BLANK-播放器官网：https://blankvip.top/                                                                               
 
-自用播放器下载：
+自用播放器下载：                                        
 PC&安卓播放器：https://ernest.lanzous.com/b08faex9a
 密码:7ica
 
