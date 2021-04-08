@@ -59,7 +59,9 @@ http://xxxxxxxxxxxxxxxx.m3u8
 #EXTINF: -1 group-title="中央台",CCTV2                                                
 http://xxxxxxxxxxxxxxxx.m3u8                                                
 
-作者邮箱：ernest_lu@outlook.com
+意见反馈联系邮箱：
+-------------
+OUTLOOK邮箱：ernest_lu@outlook.com
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
