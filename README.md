@@ -73,4 +73,4 @@ OUTLOOK邮箱：ernest_lu@outlook.com
 
 支付宝
 
-<a href="https://sm.ms/image/cPVsho4CqLQjZiF" target="_blank"><img src="https://i.loli.net/2021/01/02/cPVsho4CqLQjZiF.jpg" ></a>
+<a href="https://sm.ms/image/yTza8hHsGjYdxBo" target="_blank"><img src="https://i.loli.net/2021/04/12/yTza8hHsGjYdxBo.jpg" /></a>
