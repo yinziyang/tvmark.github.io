@@ -1725,9 +1725,125 @@ http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 rtmp://58.200.131.2:1935/livetv/startv
 #EXTINF:-1 group-title="港澳台",星空卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/startv
-#EXTINF:-1 group-title="港澳台",国家地理
+#EXTINF:-1 group-title="港澳台",八大综合台
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15002
+#EXTINF:-1 group-title="八大娱乐台",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15004
+#EXTINF:-1 group-title="八大第1台HD",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15001
+#EXTINF:-1 group-title="民视HD",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8813
+#EXTINF:-1 group-title="民视新闻台",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8820
+#EXTINF:-1 group-title="公视",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8817
+#EXTINF:-1 group-title="台视",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8815
+#EXTINF:-1 group-title="台视新闻HD",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8822
+#EXTINF:-1 group-title="三立台湾台",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14023
+#EXTINF:-1 group-title="三立都会台",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14024
+#EXTINF:-1 group-title="三立新闻台",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14021
+#EXTINF:-1 group-title="三立iNEWS",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14022
+#EXTINF:-1 group-title="华视HD",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8816
+#EXTINF:-1 group-title="中视",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8814
+#EXTINF:-1 group-title="伟来综合",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14014
+#EXTINF:-1 group-title="伟来电影",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14009
+#EXTINF:-1 group-title="伟来体育",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14010
+#EXTINF:-1 group-title="TVBS HD",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14015
+#EXTINF:-1 group-title="TVBS新闻HD",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14017
+#EXTINF:-1 group-title="TVBS欢乐台HD",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14016
+#EXTINF:-1 group-title="JET综合",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12018
+#EXTINF:-1 group-title="东森综合HD",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14006
+#EXTINF:-1 group-title="东森新闻HD",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14001
+#EXTINF:-1 group-title="东森财经新闻",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14004
+#EXTINF:-1 group-title="东森超视HD",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14008
+#EXTINF:-1 group-title="东森电影HD",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14002
+#EXTINF:-1 group-title="东森洋片HD",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14003
+#EXTINF:-1 group-title="东森幼幼台HD",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14007
+#EXTINF:-1 group-title="非凡新闻HD",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12024
+#EXTINF:-1 group-title="年代新闻HD",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12017
+#EXTINF:-1 group-title="龙翔时代HD",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12019
+#EXTINF:-1 group-title="美亚电影台",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11001
+#EXTINF:-1 group-title="卫视中文台",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13018
+#EXTINF:-1 group-title="卫视电影台HD",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13017
+#EXTINF:-1 group-title="星卫娱乐台",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11004
+#EXTINF:-1 group-title="星卫HD电影台",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11003
+#EXTINF:-1 group-title="欧美大片HD",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11002
+#EXTINF:-1 group-title="MoMo亲子台",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12021
+#EXTINF:-1 group-title="国兴卫视",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12022
+#EXTINF:-1 group-title="动物星球",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13014
+#EXTINF:-1 group-title="WBTV",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11011
+#EXTINF:-1 group-title="韩国娱乐台",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11016
+#EXTINF:-1 group-title="CNN LIVE",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12012
+#EXTINF:-1 group-title="Z频道",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12014
+#EXTINF:-1 group-title="博斯运动",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12005
+#EXTINF:-1 group-title="博斯运动②",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12006
+#EXTINF:-1 group-title="博斯魅力",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12009
+#EXTINF:-1 group-title="博斯网球",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12010
+#EXTINF:-1 group-title="HBO HD",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13001
+#EXTINF:-1 group-title="HBO hits",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13002
+#EXTINF:-1 group-title="HBO family",
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13003
+#EXTINF:-1 group-title="HBO family",HBO lgnature
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13004
+#EXTINF:-1 group-title="HBO family",HBO 1
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13008
+#EXTINF:-1 group-title="HBO family",HBO 2
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12013
+#EXTINF:-1 group-title="HBO family",CN卡通频道
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13015
+#EXTINF:-1 group-title="HBO family",Hollywood HD
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13016
+#EXTINF:-1 group-title="HBO family",TLC
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13013
+#EXTINF:-1 group-title="HBO family",迪士尼中文
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13019
+#EXTINF:-1 group-title="HBO family",国家地理
 rtmp://58.200.131.2:1935/livetv/natlgeo
-#EXTINF:-1 group-title="港澳台",探索频道
+#EXTINF:-1 group-title="HBO family",探索频道
 rtmp://58.200.131.2:1935/livetv/discovery
 #EXTINF:-1 group-title="国际台",日本天気预报
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
