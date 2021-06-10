@@ -1181,7 +1181,9 @@ QQ飞车手游官方直播,http://tx2play1.douyucdn.cn/live/5040227raXQRnvWY.xs?
 主机-老鬼-MG,http://txtest-xp2p.p2p.huya.com/src/78849323-78849323-338655263596740608-157822102-10057-A-0-1.xs
 和平精英-不求人,http://txtest-xp2p.p2p.huya.com/src/2227875499-2227875499-9568652407764680704-4455874454-10057-A-0-1.xs
 综合游戏-帝师,https://8407837635d44c1c043879a0c6cf78c3.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_526644026.xs
-穿越火线-白鲨Ayom,http://tx2play1.douyucdn.cn/live/12821rmHNB7Jis.m3u8
+CF-白鲨Ayom,http://blanki.cf/api/douyu.php?id=12821
+CF-白鲨漠然,http://blanki.cf/api/douyu.php?id=11112
+CF-道年不二,http://blanki.cf/api/douyu.php?id=4087173
 逆战-夜崽崽,http://txtest-xp2p.p2p.huya.com/src/303320155-303320155-1302750145942650880-606763766-10057-A-0-1.xs
 户外皇帝-牛神,http://txtest-xp2p.p2p.huya.com/src/1680409000-1680409000-7217301698904064000-3360941456-10057-A-0-1.xs
 音乐台,#genre#
