@@ -944,6 +944,8 @@ Jewelry电视,http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playli
 Darcizzle电视,http://30a-tv.com/darcizzle.m3u8
 INC TV,http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_1500_av-p.m3u8
 体育台,#genre#
+天天象棋,http://blanki.cf/api/yy.php?id=1354650216
+WWE,http://blanki.cf/api/yy.php?id=1332773767
 五星体育,http://223.111.195.56/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/2300000/mnf.m3u8
 广东体育,http://111.161.121.214/nclive.grtn.cn/typd/sd/live.m3u8
 广东体育,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
@@ -1082,6 +1084,8 @@ TVB官方,http://txtest-xp2p.p2p.huya.com/src/1199561181026-1199561181026-543444
 古惑仔系列,http://txtest-xp2p.p2p.huya.com/src/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.flv
 香港黑帮系列,http://txtest-xp2p.p2p.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-0-1.flv
 经典赛车系列,http://txtest-xp2p.p2p.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.flv
+YY宗玉师傅,http://blanki.cf/api/yy.php?id=52870290
+舞蹈993,http://blanki.cf/api/yy.php?id=22490906
 【女团】精选韩国饭拍,http://blanki.cf/api/douyu.php?id=455891
 超高清女团,http://blanki.cf/api/douyu.php?id=2125718
 【女团】精选韩国现场饭拍MV,http://blanki.cf/api/douyu.php?id=231464
