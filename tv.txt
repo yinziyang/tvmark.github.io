@@ -350,7 +350,7 @@ SiTV法治天地 576,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=li
 铁岭新闻综合 576,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000281
 锦州新闻综合 576,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000277
 阜新综合 576,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000279
-港澳台,#genre#
+港台频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 TVB翡翠台,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
@@ -369,7 +369,7 @@ TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_c
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
 探索频道,rtmp://58.200.131.2:1935/livetv/discovery
-国际台,#genre#
+国际频道,#genre#
 日本天気预报,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新加坡惊悚频道,http://xl.jilu8.cn/02_Thrill_720p/chunklist.m3u8
@@ -570,10 +570,9 @@ WSVI-TV,http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8?fluxust
 Jewelry电视,http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
 Darcizzle电视,http://30a-tv.com/darcizzle.m3u8
 INC TV,http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_1500_av-p.m3u8
-体育台,#genre#
+体育频道,#genre#
 天天象棋,http://cloudplay.tk/api/yy.php?id=1354650216
 WWE,http://cloudplay.tk/api/yy.php?id=1332773767
-五星体育,http://223.111.195.56/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/2300000/mnf.m3u8
 广东体育,http://111.161.121.214/nclive.grtn.cn/typd/sd/live.m3u8
 广东体育,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 广东体育,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/typd/sd/live.m3u8
@@ -582,10 +581,10 @@ WWE,http://cloudplay.tk/api/yy.php?id=1332773767
 RTM 体育频道,https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2//chunklist_b2064000.m3u8
 CCTV-5体育,http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
 吉林篮球,http://stream1.jlntv.cn/lqpd/sd/live.m3u8
-少儿台,#genre#
+少儿频道,#genre#
 蜡笔小新,http://cloudplay.tk/api/bilibili.php?id=10375360
 蜡笔小新,http://txtest-xp2p.p2p.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1.xs
-特摄放映室,http://blanki.cf/api/bili.php?id=10267370
+特摄放映室,http://cloudplay.tk/api/bilibili.php?id=10267370
 奥特曼全集特摄蓝光,http://cloudplay.tk/api/bilibili.php?id=4700569
 樱桃小丸子,http://cloudplay.tk/api/bilibili.php?id=11765640
 海绵宝宝,http://cloudplay.tk/api/egame.php?id=678706943
@@ -627,7 +626,7 @@ CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd
 山西少儿,http://live2.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiChild
 云南少儿,http://edge2.yntv.cn/channels/yntv/ynse/flv:sd/live?1591809784362
 云南少儿,http://edge2.yntv.cn/channels/yntv/ynse/flv:sd/live
-影视台,#genre#
+影视频道,#genre#
 埋堆堆官方,http://txtest-xp2p.p2p.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.xs
 周星驰电影,http://txtest-xp2p.p2p.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.xs
 吴孟达电影,http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
@@ -778,7 +777,7 @@ YY宗玉师傅,http://cloudplay.tk/api/yy.php?id=52870290
 爱赛车,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
 爱浪漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
 峨眉电影蓝光,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-游戏台,#genre#
+「游戏频道」,#genre#
 英雄联盟赛事,http://txtest-xp2p.p2p.huya.com/src/78941969-2559461593-10992803837303062528-2693342886-10057-A-0-1.xs
 LOL官方直播间,https://8407837635d44c1c043879a0c6cf78c3.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_364457078.xs
 斗鱼英雄联盟赛事,http://tx2play1.douyucdn.cn/live/288016rlols5.xs
@@ -811,7 +810,7 @@ QQ飞车手游官方直播,http://tx2play1.douyucdn.cn/live/5040227raXQRnvWY.xs?
 主机-机长YG,http://cloudplay.tk/api/douyu.php?id=3015080
 和平精英-不求人,http://txtest-xp2p.p2p.huya.com/src/2227875499-2227875499-9568652407764680704-4455874454-10057-A-0-1.xs
 PUBG-沫子Mozz,http://cloudplay.tk/api/egame.php?id=1037536058006
-DNF-旭旭宝宝,http://cloudplay.tk/api/douyu.php?id=99999
+DNF旭旭宝宝,http://cloudplay.tk/api/douyu.php?id=99999
 综合游戏-帝师,https://8407837635d44c1c043879a0c6cf78c3.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_526644026.xs
 CF-白鲨Ayom,http://cloudplay.tk/api/douyu.php?id=12821
 CF-白鲨漠然,http://cloudplay.tk/api/douyu.php?id=11112
