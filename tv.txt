@@ -585,8 +585,10 @@ CCTV-5体育,http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
 蜡笔小新,http://cloudplay.tk/api/bilibili.php?id=10375360
 蜡笔小新,http://txtest-xp2p.p2p.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1.xs
 特摄放映室,http://cloudplay.tk/api/bilibili.php?id=10267370
+哆啦A梦,http://cloudplay.tk/api/bilibili.php?id=482946
 奥特曼全集特摄蓝光,http://cloudplay.tk/api/bilibili.php?id=4700569
 樱桃小丸子,http://cloudplay.tk/api/bilibili.php?id=11765640
+樱桃小丸子 蜡笔小新 蓝光特别版,http://cloudplay.tk/api/bilibili.php?id=21614203
 海绵宝宝,http://cloudplay.tk/api/egame.php?id=678706943
 海绵宝宝,http://txtest-xp2p.p2p.huya.com/src/29359996-2689614918-11551808111643721728-2847687648-10057-A-0-1.xs
 猫和老鼠,http://cloudplay.tk/api/bilibili.php?id=1024814
@@ -646,6 +648,8 @@ CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd
 生活大爆炸,http://txtest-xp2p.p2p.huya.com/src/1099531752754-1099531752754-86436122342719488-2199063628964-10057-A-0-1.xs
 生化危机系列,http://txtest-xp2p.p2p.huya.com/src/1099531752748-1099531752748-86436096572915712-2199063628952-10057-A-0-1.xs
 三国演义,http://txtest-xp2p.p2p.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.xs
+终极一班一家三国,http://cloudplay.tk/api/bilibili.php?id=10174580
+【老电影】经典武侠 鬼片 喜剧 怀旧电影,http://cloudplay.tk/api/bilibili.php?id=21759196
 【周末】港式动作 最新片单,http://cloudplay.tk/api/douyu.php?id=3637765
 【蓝翔】下饭神剧,http://cloudplay.tk/api/douyu.php?id=276200
 【神乐】华语 经典 电影 刘德华 周星驰,http://cloudplay.tk/api/douyu.php?id=85894
