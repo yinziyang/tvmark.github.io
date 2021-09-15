@@ -357,18 +357,8 @@ TVB翡翠台,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=
 TVB翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-阳光卫视,http://121.31.30.90:8085/ysten-business/live/yangguangstv/1.m3u8
 澳门,http://61.244.22.4/ch3/_definst_/ch3.live/chunklist_w248237998.m3u8
-凤凰资讯,http://live.centerch.com/fhzx.m3u8
 凤凰资讯,http://125.210.152.18:9090/live/FHZX_1200.m3u8
-凤凰中文,rtmp://58.200.131.2:1935/livetv/fhzw
-凤凰中文,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
-凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
-亚美卫视,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-星空卫视,rtmp://58.200.131.2:1935/livetv/startv
-星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
-国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
-探索频道,rtmp://58.200.131.2:1935/livetv/discovery
 「海外频道」,#genre#
 日本天気预报,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -571,64 +561,40 @@ Jewelry电视,http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playli
 Darcizzle电视,http://30a-tv.com/darcizzle.m3u8
 INC TV,http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_1500_av-p.m3u8
 「体育赛事」,#genre#
-天天象棋,http://cloudplay.tk/api/yy.php?id=1354650216
-WWE,http://cloudplay.tk/api/yy.php?id=1332773767
-广东体育,http://111.161.121.214/nclive.grtn.cn/typd/sd/live.m3u8
 广东体育,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-广东体育,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/typd/sd/live.m3u8
-博斯魅力,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 澳視體育,http://61.244.22.5/ch4/sport_ch4.live/master.m3u8
-RTM 体育频道,https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2//chunklist_b2064000.m3u8
 CCTV-5体育,http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
 吉林篮球,http://stream1.jlntv.cn/lqpd/sd/live.m3u8
+
 「动漫频道」,#genre#
-蜡笔小新,http://cloudplay.tk/api/bilibili.php?id=10375360
-蜡笔小新,http://txtest-xp2p.p2p.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1.xs
-特摄放映室,http://cloudplay.tk/api/bilibili.php?id=10267370
-哆啦A梦,http://cloudplay.tk/api/bilibili.php?id=482946
-奥特曼全集特摄蓝光,http://cloudplay.tk/api/bilibili.php?id=4700569
-樱桃小丸子,http://cloudplay.tk/api/bilibili.php?id=11765640
-樱桃小丸子 蜡笔小新 蓝光特别版,http://cloudplay.tk/api/bilibili.php?id=21614203
+蜡笔小新Ⅰ,http://cloudplay.tk/api/bilibili.php?id=10375360
+蜡笔小新Ⅱ,http://txtest-xp2p.p2p.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1.xs
+哆啦A梦Ⅰ,http://cloudplay.tk/api/bilibili.php?id=1717236
+哆啦A梦Ⅱ,http://cloudplay.tk/api/bilibili.php?id=482946
+奥特曼系列Ⅰ,http://cloudplay.tk/api/bilibili.php?id=4700569
+奥特曼系列Ⅱ,http://cloudplay.tk/api/bilibili.php?id=10267370
+奥特曼系列Ⅲ,http://cloudplay.tk/api/bilibili.php?id=7076493
+樱桃小丸子Ⅰ,http://cloudplay.tk/api/bilibili.php?id=11765640
+樱桃小丸子Ⅱ,http://cloudplay.tk/api/bilibili.php?id=21614203
 海绵宝宝,http://cloudplay.tk/api/egame.php?id=678706943
-海绵宝宝,http://txtest-xp2p.p2p.huya.com/src/29359996-2689614918-11551808111643721728-2847687648-10057-A-0-1.xs
-猫和老鼠,http://cloudplay.tk/api/bilibili.php?id=1024814
-猫和老鼠,http://txtest-xp2p.p2p.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
+猫和老鼠Ⅰ,http://cloudplay.tk/api/bilibili.php?id=1024814
+猫和老鼠Ⅱ,http://txtest-xp2p.p2p.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
 七龙珠改,http://txtest-xp2p.p2p.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.xs
 头文字D,http://txtest-xp2p.p2p.huya.com/src/1423782053-1423782053-6115097354266738688-2847687562-10057-A-0-1.xs
 成龙历险记,http://txtest-xp2p.p2p.huya.com/src/1423787836-1423787836-6115122192062611456-2847699128-10057-A-0-1.xs
-名侦探柯南,http://cloudplay.tk/api/douyu.php?id=7050342
-名侦探柯南,http://cloudplay.tk/api/egame.php?id=616512747
+名侦探柯南Ⅰ,http://cloudplay.tk/api/douyu.php?id=7050342
+名侦探柯南Ⅱ,http://cloudplay.tk/api/egame.php?id=616512747
 镇魂街,http://txtest-xp2p.p2p.huya.com/src/1099531752742-1099531752742-86436070803111936-2199063628940-10057-A-0-1.xs
 虹猫蓝兔七侠传,http://txtest-xp2p.p2p.huya.com/src/1199544083295-1199544083295-5361011297360019456-2399088290046-10057-A-0-1.xs
-热血 木叶忍者 草帽路飞 青春,http://tx2play1.douyucdn.cn/live/206858rtestxjl.flv
-KiD动画,http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-动漫秀场,http://112.50.243.8/PLTV/88888888/224/3221226141/1.m3u8
-爱动漫,http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-Disney Junior(粤语),mitv://147.135.39.171:9906/5ece9f9a0001c4dd7cb4c8f0195f26a2.ts
-Disney XD,mitv://147.135.39.171:9906/5ece9f9a00077db97cb4ca673b8f3103.ts
-迪士尼频道(粤语),mitv://147.135.39.171:9906/5e98a1410004fff3a9cad3045ac83cb9.ts
-迪士尼频道,mitv://147.135.39.171:9906/5dea93920003218e5a02c4ca21f02f09.ts
-nickelodeon,mitv://147.135.39.171:9906/5d0e403800011a4910fbd8d44f7a61bc.ts
-CN卡通频道,mitv://147.135.39.171:9906/5defe14000091d616eba47377b3a16c4.ts
-CN卡通频道(英语),mitv://147.135.39.171:9906/5dea93910003206a5a02c0e279871b82.ts
-Boomerang(英语),mitv://147.135.39.171:9906/5dea9390000d3b785a02bf8a11dd08b9.ts
-MOMO亲子,mitv://147.135.39.171:9906/5cc68d17000c69a4fadeb6c56c456357.ts
 CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
-北京卡酷少儿高清,http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
 哈哈炫动,http://125.210.152.18:9090/live/XDKT.m3u8
-广东少儿,http://111.161.121.214/nclive.grtn.cn/tvs5/sd/live.m3u8
-广东少儿,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/tvs5/sd/live.m3u8
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
-浙江少儿,http://yd-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江少儿,http://yd-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
-嘉佳卡通,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/jjkt/sd/live.m3u8
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/flv:500k/live
+浙江少儿[多源],http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿[多源],http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
+浙江少儿[多源],http://yd-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿[多源],http://yd-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 武汉少儿,http://stream.appwuhan.com/7tzb/sd/live.m3u8
 福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 山西少儿,http://live2.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiChild
-云南少儿,http://edge2.yntv.cn/channels/yntv/ynse/flv:sd/live?1591809784362
-云南少儿,http://edge2.yntv.cn/channels/yntv/ynse/flv:sd/live
 「电影剧集」,#genre#
 埋堆堆官方,http://txtest-xp2p.p2p.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.xs
 周星驰电影,http://txtest-xp2p.p2p.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.xs
@@ -640,6 +606,7 @@ CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd
 成龙电影,http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.xs
 林正英电影,http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
 许氏电影,http://txtest-xp2p.p2p.huya.com/src/1524434070-1524434070-6547394475558174720-3048991596-10057-A-0-1.xs
+邵氏电影,http://cloudplay.tk/api/bilibili.php?id=21759196
 葛优电影,http://txtest-xp2p.p2p.huya.com/src/1420969427-1420969427-6103017217580859392-2847687524-10057-A-0-1.xs
 姜文电影,http://txtest-xp2p.p2p.huya.com/src/1423782061-1423782061-6115097388626477056-2847687578-10057-A-0-1.xs
 黄渤电影,http://txtest-xp2p.p2p.huya.com/src/1448737849-1448737849-6222281681932386304-2847687520-10057-A-0-1.xs
@@ -647,9 +614,24 @@ CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd
 漫威宇宙电影,http://txtest-xp2p.p2p.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.xs
 生活大爆炸,http://txtest-xp2p.p2p.huya.com/src/1099531752754-1099531752754-86436122342719488-2199063628964-10057-A-0-1.xs
 生化危机系列,http://txtest-xp2p.p2p.huya.com/src/1099531752748-1099531752748-86436096572915712-2199063628952-10057-A-0-1.xs
+终极系列,http://cloudplay.tk/api/bilibili.php?id=10174580
+死神来了系列,http://txtest-xp2p.p2p.huya.com/src/1423782074-1423782074-6115097444461051904-2847687604-10057-A-0-1.xs
+电锯惊魂系列,http://txtest-xp2p.p2p.huya.com/src/1423782074-1423782074-6115097444461051904-2847687604-10057-A-0-1.xs
+女神系列 邱淑贞 王祖贤 张曼玉,http://txtest-xp2p.p2p.huya.com/src/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1.xs
+搞笑鬼片系列,http://txtest-xp2p.p2p.huya.com/src/1524418070-1524418070-6547325756081438720-3048959596-10057-A-0-1.xs
+中国功夫系列,http://txtest-xp2p.p2p.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.xs
+五福星系列,http://txtest-xp2p.p2p.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.xs
+古惑仔系列,http://txtest-xp2p.p2p.huya.com/src/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.xs
+林正英[僵尸道长]高清修复,http://cloudplay.tk/api/bilibili.php?id=21759196
+香港黑帮系列,http://txtest-xp2p.p2p.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-0-1.xs
+搞笑一家人[多源],http://txtest-xp2p.p2p.huya.com/src/1394565211-1394565211-5989611973384339456-2789253878-10057-A-0-1.xs
+搞笑一家人[多源],http://cloudplay.tk/api/douyu.php?id=5422706
 三国演义,http://txtest-xp2p.p2p.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.xs
-终极一班一家三国,http://cloudplay.tk/api/bilibili.php?id=10174580
-【老电影】经典武侠 鬼片 喜剧 怀旧电影,http://cloudplay.tk/api/bilibili.php?id=21759196
+恶作剧之吻,http://cloudplay.tk/api/bilibili.php?id=21298611
+命中注定我爱你,http://cloudplay.tk/api/bilibili.php?id=15083950
+bilibli影音馆,http://cloudplay.tk/api/bilibili.php?id=21377115
+雍正王朝,http://cloudplay.tk/api/bilibili.php?id=21722603
+周星驰成龙林正英王晶刘德华洪金宝电影,http://cloudplay.tk/api/bilibili.php?id=21448296
 【周末】港式动作 最新片单,http://cloudplay.tk/api/douyu.php?id=3637765
 【蓝翔】下饭神剧,http://cloudplay.tk/api/douyu.php?id=276200
 【神乐】华语 经典 电影 刘德华 周星驰,http://cloudplay.tk/api/douyu.php?id=85894
@@ -671,8 +653,6 @@ CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd
 老烟斗鬼故事,http://cloudplay.tk/api/douyu.php?id=2337939
 都市夜魔人老王,http://cloudplay.tk/api/douyu.php?id=610972
 经典小品,http://cloudplay.tk/api/douyu.php?id=9322175
-搞笑一家人,http://txtest-xp2p.p2p.huya.com/src/1394565211-1394565211-5989611973384339456-2789253878-10057-A-0-1.xs
-搞笑一家人,http://cloudplay.tk/api/douyu.php?id=5422706
 封神榜,http://txtest-xp2p.p2p.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.xs
 张卫健版西游记,http://txtest-xp2p.p2p.huya.com/src/1199561182641-1199561182641-5434452429213007872-2399122488738-10057-A-0-1.xs
 经典港片轮播,http://txtest-xp2p.p2p.huya.com/src/1199563479483-1199563479483-5444317290487087104-2399127082422-10057-A-0-1.xs
@@ -683,35 +663,20 @@ TVB版济公,http://txtest-xp2p.p2p.huya.com/src/1199561277724-1199561277724-543
 各国赌片 搏一搏单车变摩托,http://txtest-xp2p.p2p.huya.com/src/1394565207-1394565207-5989611956204470272-2789253870-10057-A-0-1.xs
 童年回忆 贺岁喜剧,http://txtest-xp2p.p2p.huya.com/src/1449597183-1449597183-6225972493358727168-2847687548-10057-A-0-1.xs
 喜剧专场 看喜剧笑一笑吧,http://txtest-xp2p.p2p.huya.com/src/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.xs
-外来媳妇本地郎,http://cloudplay.tk/api/bilibili.php?id=
 Running Man,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777071322-10057-A-0-1.xs
 Running Man,http://blanki.cf/api/bili.php?id=7298973
-华视-你想要的,http://txtest-xp2p.p2p.huya.com/src/1199556586264-1199556586264-5414711140317921280-2399113295984-10057-A-0-1.xs
-华视-警匪大片,http://txtest-xp2p.p2p.huya.com/src/1199556520236-1199556520236-5414427552217300992-2399113163928-10057-A-0-1.xs
-华视-动作大片,http://txtest-xp2p.p2p.huya.com/src/1199556584546-1199556584546-5414703761564106752-2399113292548-10057-A-0-1.xs
-华视-悬疑恐怖,http://txtest-xp2p.p2p.huya.com/src/1199556528761-1199556528761-5414464166813499392-2399113180978-10057-A-0-1.xs
-华视-高分好片,http://txtest-xp2p.p2p.huya.com/src/1199556523173-1199556523173-5414440166536249344-2399113169802-10057-A-0-1.xs
-华视-猜你喜欢,http://txtest-xp2p.p2p.huya.com/src/1199556515553-1199556515553-5414407438885453824-2399113154562-10057-A-0-1.xs
 1905电影网,http://txtest-xp2p.p2p.huya.com/src/1199513205060-1199513205060-5228390287876816896-2399026533576-10057-A-0-1.xs
-电锯惊魂系列,http://txtest-xp2p.p2p.huya.com/src/1423782074-1423782074-6115097444461051904-2847687604-10057-A-0-1.xs
 周星星粤语经典版,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
 港剧大放送,http://txtest-xp2p.p2p.huya.com/src/1199564067003-1199564067003-5446840669672833024-2399128257462-10057-A-0-1.xs
 黑帮大片 山鸡哥重现江湖,http://txtest-xp2p.p2p.huya.com/src/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.xs
-死神来了系列,http://txtest-xp2p.p2p.huya.com/src/1423782074-1423782074-6115097444461051904-2847687604-10057-A-0-1.xs
 十万个冷笑话合集,http://txtest-xp2p.p2p.huya.com/src/1099531752745-1099531752745-86436083688013824-2199063628946-10057-A-0-1.xs
 西游记张卫健版,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789253862-10057-A-0-1.xs
 陈小春版韦小宝,http://txtest-xp2p.p2p.huya.com/src/1448738224-1448738224-6222283292545122304-2789253866-10057-A-0-1.xs
 吐槽大会,http://txtest-xp2p.p2p.huya.com/src/1449572975-1449572975-6225868520790425600-2789274544-10057-A-0-1.xs
-女神系列 邱淑贞 王祖贤 张曼玉,http://txtest-xp2p.p2p.huya.com/src/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1.xs
 演技专场 来看爆表演技,http://txtest-xp2p.p2p.huya.com/src/1449698986-1449698986-6226409733914361856-2847687634-10057-A-0-1.xs
 喜剧专场 看喜剧笑一笑吧,http://txtest-xp2p.p2p.huya.com/src/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.xs
 万圣节惊魂 恐怖片,http://txtest-xp2p.p2p.huya.com/src/1449698763-1449698763-6226408776136654848-2847699120-10057-A-0-1.xs
 TVB官方,http://txtest-xp2p.p2p.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.xs
-搞笑鬼片系列,http://txtest-xp2p.p2p.huya.com/src/1524418070-1524418070-6547325756081438720-3048959596-10057-A-0-1.xs
-中国功夫系列,http://txtest-xp2p.p2p.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.xs
-五福星系列,http://txtest-xp2p.p2p.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.xs
-古惑仔系列,http://txtest-xp2p.p2p.huya.com/src/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.xs
-香港黑帮系列,http://txtest-xp2p.p2p.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-0-1.xs
 经典赛车系列,http://txtest-xp2p.p2p.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.xs
 YY宗玉师傅,http://cloudplay.tk/api/yy.php?id=52870290
 舞蹈993,http://cloudplay.tk/api/yy.php?id=22490906
@@ -745,44 +710,6 @@ YY宗玉师傅,http://cloudplay.tk/api/yy.php?id=52870290
 白泽字幕1号,http://txtest-xp2p.p2p.huya.com/src/1199562244544-1199562244544-5439013267869532160-2399124612544-10057-A-0-1.xs
 冷门港片大全,http://txtest-xp2p.p2p.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.xs
 【TVB】灵异领域 胆小勿入,http://txtest-xp2p.p2p.huya.com/src/1199563477578-1199563477578-5444309108574388224-2399127078612-10057-A-0-1.xs
-鳳凰衛視電影台,https://www.fanmingming.cn/hls/fhdy.m3u8
-求索纪录,http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
-求索科学,http://125.210.152.18:9090/live/QSKX_1200.m3u8
-求索生活,http://125.210.152.18:9090/live/QSSH_1200.m3u8
-蓝光影视16台,http://ivi.bupt.edu.cn/hls/chchd.m3u8
-东北热剧,http://39.135.135.35:80/wh7f454c46tw1751026922_1159821621/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8?icpid=88888888&RTS=1554599523&from=1&hms_devid=691
-欢乐剧场,http://39.135.135.81:80/wh7f454c46tw1744894462_1818032107/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8?icpid=88888888&RTS=1554599517&from=1&hms_devid=690
-来看小姐姐跳舞,http://txtest-xp2p.p2p.huya.com/src/1423782031-1423782031-6115097259777458176-2847687518-10057-A-0-1.xs
-爱电竞,http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱都市,http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱江湖,http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱解密,http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱经典,http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱军武,http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱科幻,http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱历史,http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱美食,http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱奇谈,http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱时尚,http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱世界,http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱玩具,http://101.71.255.229:6610/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱喜剧,http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱悬疑,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱幼教,http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱院线,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱青春,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/index.m3u8
-爱家庭,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/index.m3u8
-爱探索,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
-爱科学,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
-爱猎奇,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/index.m3u8
-爱谍战,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
-爱娱乐,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230077/index.m3u8
-爱旅行,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
-爱怀旧,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
-爱体育,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
-爱赛车,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
-爱浪漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
-峨眉电影蓝光,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 「游戏频道」,#genre#
 英雄联盟赛事,http://txtest-xp2p.p2p.huya.com/src/78941969-2559461593-10992803837303062528-2693342886-10057-A-0-1.xs
 LOL官方直播间,https://8407837635d44c1c043879a0c6cf78c3.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_364457078.xs
@@ -810,6 +737,7 @@ QQ飞车手游官方直播,http://tx2play1.douyucdn.cn/live/5040227raXQRnvWY.xs?
 斗鱼跑跑卡丁车赛事,http://tx2play1.douyucdn.cn/live/7746661rQc1gfAoD.xs?uuid=
 跑跑卡丁车官方竞速版,http://tx2play1.douyucdn.cn/live/6672862r90xSwiRP.xs?uuid=
 CSGO_茄子,http://cloudplay.tk/api/douyu.php?id=9418
+CSGO_久菜合子,http://cloudplay.tk/api/bilibili.php?id=21470918
 主机_小宇,http://txtest-xp2p.p2p.huya.com/src/967499203-967499203-4155377435791065088-1935121862-10057-A-0-1.xs
 主机_先生,http://txtest-xp2p.p2p.huya.com/src/693172-693172-2977151070502912-1509800-10057-A-0-1.xs
 主机_老鬼,http://txtest-xp2p.p2p.huya.com/src/78849323-78849323-338655263596740608-157822102-10057-A-0-1.xs
