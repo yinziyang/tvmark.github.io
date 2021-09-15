@@ -561,6 +561,7 @@ Jewelry电视,http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playli
 Darcizzle电视,http://30a-tv.com/darcizzle.m3u8
 INC TV,http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_1500_av-p.m3u8
 「体育赛事」,#genre#
+篮球人物,http://cloudplay.tk/api/douyu.php?id=8434598
 广东体育,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 澳視體育,http://61.244.22.5/ch4/sport_ch4.live/master.m3u8
 CCTV-5体育,http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
@@ -574,9 +575,11 @@ CCTV-5体育,http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
 奥特曼系列Ⅰ,http://cloudplay.tk/api/bilibili.php?id=4700569
 奥特曼系列Ⅱ,http://cloudplay.tk/api/bilibili.php?id=10267370
 奥特曼系列Ⅲ,http://cloudplay.tk/api/bilibili.php?id=7076493
+奥特曼系列Ⅳ,http://cloudplay.tk/api/bilibili.php?id=3705472
 樱桃小丸子Ⅰ,http://cloudplay.tk/api/bilibili.php?id=11765640
 樱桃小丸子Ⅱ,http://cloudplay.tk/api/bilibili.php?id=21614203
-海绵宝宝,http://cloudplay.tk/api/egame.php?id=678706943
+海绵宝宝Ⅰ,http://cloudplay.tk/api/douyu.php?id=7528160
+海绵宝宝Ⅱ,http://cloudplay.tk/api/egame.php?id=678706943
 猫和老鼠Ⅰ,http://cloudplay.tk/api/bilibili.php?id=1024814
 猫和老鼠Ⅱ,http://txtest-xp2p.p2p.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
 七龙珠改,http://txtest-xp2p.p2p.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.xs
@@ -584,6 +587,10 @@ CCTV-5体育,http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
 成龙历险记,http://txtest-xp2p.p2p.huya.com/src/1423787836-1423787836-6115122192062611456-2847699128-10057-A-0-1.xs
 名侦探柯南Ⅰ,http://cloudplay.tk/api/douyu.php?id=7050342
 名侦探柯南Ⅱ,http://cloudplay.tk/api/egame.php?id=616512747
+齐木楠雄的灾难,http://cloudplay.tk/api/douyu.php?id=9489079
+海贼王,http://cloudplay.tk/api/douyu.php?id=997925
+斗鱼动漫花园,http://cloudplay.tk/api/douyu.php?id=426517
+【动漫】超燃 怀旧 经典,http://cloudplay.tk/api/douyu.php?id=1174353
 镇魂街,http://txtest-xp2p.p2p.huya.com/src/1099531752742-1099531752742-86436070803111936-2199063628940-10057-A-0-1.xs
 虹猫蓝兔七侠传,http://txtest-xp2p.p2p.huya.com/src/1199544083295-1199544083295-5361011297360019456-2399088290046-10057-A-0-1.xs
 CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
@@ -606,7 +613,8 @@ CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd
 成龙电影,http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.xs
 林正英电影,http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
 许氏电影,http://txtest-xp2p.p2p.huya.com/src/1524434070-1524434070-6547394475558174720-3048991596-10057-A-0-1.xs
-邵氏电影,http://cloudplay.tk/api/bilibili.php?id=21759196
+邵氏电影1,http://cloudplay.tk/api/bilibili.php?id=21759196
+邵氏电影2,http://cloudplay.tk/api/douyu.php?id=4246519
 葛优电影,http://txtest-xp2p.p2p.huya.com/src/1420969427-1420969427-6103017217580859392-2847687524-10057-A-0-1.xs
 姜文电影,http://txtest-xp2p.p2p.huya.com/src/1423782061-1423782061-6115097388626477056-2847687578-10057-A-0-1.xs
 黄渤电影,http://txtest-xp2p.p2p.huya.com/src/1448737849-1448737849-6222281681932386304-2847687520-10057-A-0-1.xs
@@ -626,12 +634,14 @@ CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd
 香港黑帮系列,http://txtest-xp2p.p2p.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-0-1.xs
 搞笑一家人[多源],http://txtest-xp2p.p2p.huya.com/src/1394565211-1394565211-5989611973384339456-2789253878-10057-A-0-1.xs
 搞笑一家人[多源],http://cloudplay.tk/api/douyu.php?id=5422706
+美剧【越狱】,http://cloudplay.tk/api/douyu.php?id=7575350
 三国演义,http://txtest-xp2p.p2p.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.xs
 恶作剧之吻,http://cloudplay.tk/api/bilibili.php?id=21298611
 命中注定我爱你,http://cloudplay.tk/api/bilibili.php?id=15083950
 bilibli影音馆,http://cloudplay.tk/api/bilibili.php?id=21377115
 雍正王朝,http://cloudplay.tk/api/bilibili.php?id=21722603
 周星驰成龙林正英王晶刘德华洪金宝电影,http://cloudplay.tk/api/bilibili.php?id=21448296
+悍匪技术学院,http://cloudplay.tk/api/douyu.php?id=922564
 【周末】港式动作 最新片单,http://cloudplay.tk/api/douyu.php?id=3637765
 【蓝翔】下饭神剧,http://cloudplay.tk/api/douyu.php?id=276200
 【神乐】华语 经典 电影 刘德华 周星驰,http://cloudplay.tk/api/douyu.php?id=85894
@@ -644,14 +654,17 @@ bilibli影音馆,http://cloudplay.tk/api/bilibili.php?id=21377115
 【女神金】60帧 极致蓝光 刀刀陪看,http://cloudplay.tk/api/douyu.php?id=747764
 【香港赌片】喜剧、黑帮、动作、武侠、经典,http://cloudplay.tk/api/douyu.php?id=315457
 粤语电影⭐周星驰 林正英 经典喜剧 白话,http://cloudplay.tk/api/douyu.php?id=6566671
-孤独的美食家,http://cloudplay.tk/api/douyu.php?id=260322
-孤独的美食家,http://cloudplay.tk/api/douyu.php?id=6733133
+孤独的美食家1,http://cloudplay.tk/api/douyu.php?id=260322
+孤独的美食家2,http://cloudplay.tk/api/douyu.php?id=6733133
 金庸武侠,http://cloudplay.tk/api/douyu.php?id=338759
 小品相声,http://cloudplay.tk/api/douyu.php?id=9067836
 【粤语】吴孟达 达叔 周星驰 经典,http://cloudplay.tk/api/douyu.php?id=1226741
 【粤语】周星驰 林正英,http://cloudplay.tk/api/douyu.php?id=5033502
+【粤语频道】电影点播,http://cloudplay.tk/api/douyu.php?id=2466104
 老烟斗鬼故事,http://cloudplay.tk/api/douyu.php?id=2337939
 都市夜魔人老王,http://cloudplay.tk/api/douyu.php?id=610972
+讲故事的角马,http://cloudplay.tk/api/douyu.php?id=4400816
+英大吉来了,http://cloudplay.tk/api/douyu.php?id=9174097
 经典小品,http://cloudplay.tk/api/douyu.php?id=9322175
 封神榜,http://txtest-xp2p.p2p.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.xs
 张卫健版西游记,http://txtest-xp2p.p2p.huya.com/src/1199561182641-1199561182641-5434452429213007872-2399122488738-10057-A-0-1.xs
@@ -672,27 +685,23 @@ Running Man,http://blanki.cf/api/bili.php?id=7298973
 十万个冷笑话合集,http://txtest-xp2p.p2p.huya.com/src/1099531752745-1099531752745-86436083688013824-2199063628946-10057-A-0-1.xs
 西游记张卫健版,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789253862-10057-A-0-1.xs
 陈小春版韦小宝,http://txtest-xp2p.p2p.huya.com/src/1448738224-1448738224-6222283292545122304-2789253866-10057-A-0-1.xs
-吐槽大会,http://txtest-xp2p.p2p.huya.com/src/1449572975-1449572975-6225868520790425600-2789274544-10057-A-0-1.xs
+吐槽大会1,http://txtest-xp2p.p2p.huya.com/src/1449572975-1449572975-6225868520790425600-2789274544-10057-A-0-1.xs
+吐槽大会2,http://cloudplay.tk/api/douyu.php?id=9236042
 演技专场 来看爆表演技,http://txtest-xp2p.p2p.huya.com/src/1449698986-1449698986-6226409733914361856-2847687634-10057-A-0-1.xs
 喜剧专场 看喜剧笑一笑吧,http://txtest-xp2p.p2p.huya.com/src/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.xs
 万圣节惊魂 恐怖片,http://txtest-xp2p.p2p.huya.com/src/1449698763-1449698763-6226408776136654848-2847699120-10057-A-0-1.xs
 TVB官方,http://txtest-xp2p.p2p.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.xs
 经典赛车系列,http://txtest-xp2p.p2p.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.xs
 YY宗玉师傅,http://cloudplay.tk/api/yy.php?id=52870290
-舞蹈993,http://cloudplay.tk/api/yy.php?id=22490906
-【女团】精选韩国饭拍,http://cloudplay.tk/api/douyu.php?id=455891
-超高清女团,http://cloudplay.tk/api/douyu.php?id=2125718
-【女团】精选韩国现场饭拍MV,http://cloudplay.tk/api/douyu.php?id=231464
-【24H女团】222286,http://cloudplay.tk/api/douyu.php?id=222286
-【斗鱼最强更新】Kpop女团点播直播间,http://cloudplay.tk/api/douyu.php?id=329667
 虎牙八点半,http://txtest-xp2p.p2p.huya.com/src/30765679-2479074344-10647543231832653824-3049003166-10057-A-0-1.xs
 冒险雷探长,http://txtest-xp2p.p2p.huya.com/src/2288129860-2288129860-9827442917701058560-4576383176-10057-A-0-1.xs
+奥雷卡尔克斯,http://cloudplay.tk/api/douyu.php?id=1224356
 星爷 华语 经典 神乐,http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.flv
 欧美 科幻 经典 动作,http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv
 动作 枪战 华语 经典,http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG.flv
 恐怖 喜剧 经典 动作 科幻,https://8407837635d44c1c043879a0c6cf78c3.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_490905763.flv
 周星驰 24小时 喜剧 经典电影,https://8407837635d44c1c043879a0c6cf78c3.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_199681168.flv
-香港赌片 喜剧、黑帮、动作、武侠、经典,http://tx2play1.douyucdn.cn/live/315457r0LsXadyku.m3u8
+香港赌片 喜剧、黑帮、动作、武侠、经典,http://cloudplay.tk/api/douyu.php?id=315457
 全天 僵尸 鬼片 恐怖电影,https://8407837635d44c1c043879a0c6cf78c3.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_363783415.flv
 恐怖 惊悚 动作 科幻 喜剧,https://8407837635d44c1c043879a0c6cf78c3.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_504525571.flv
 家有儿女,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.xs
@@ -754,3 +763,19 @@ CF_道年不二,http://cloudplay.tk/api/douyu.php?id=4087173
 CF_der梦,http://txtest-xp2p.p2p.huya.com/src/1199514172724-1199514172724-5232546373110333440-2399028468904-10057-A-0-1.xs
 逆战_夜崽崽,http://txtest-xp2p.p2p.huya.com/src/303320155-303320155-1302750145942650880-606763766-10057-A-0-1.xs
 户外_牛神,http://txtest-xp2p.p2p.huya.com/src/1680409000-1680409000-7217301698904064000-3360941456-10057-A-0-1.xs
+「音乐频道」,#genre#
+韩国女团现场饭拍MV1,http://cloudplay.tk/api/douyu.php?id=231464
+韩国女团现场饭拍MV2,http://cloudplay.tk/api/douyu.php?id=329667
+
+韩国女团现场饭拍MV3,http://cloudplay.tk/api/douyu.php?id=17732
+韩国女团现场饭拍MV4,http://cloudplay.tk/api/douyu.php?id=603070
+专业女团【超万部女团】任你点,http://cloudplay.tk/api/douyu.php?id=340224
+『Apink点播厅』 舞台现场饭拍MV,http://cloudplay.tk/api/douyu.php?id=123351
+【兔瓦斯轮播】镜头精灵金多贤,http://cloudplay.tk/api/douyu.php?id=9596882
+减压短视频1,http://cloudplay.tk/api/douyu.php?id=7971641
+减压短视频2,http://cloudplay.tk/api/douyu.php?id=3870925
+减压短视频3,http://cloudplay.tk/api/douyu.php?id=8901218
+减压短视频4,http://cloudplay.tk/api/douyu.php?id=8759139
+【舞蹈赏析】嗨翻一整天,http://cloudplay.tk/api/douyu.php?id=7308244
+【HiFi4.0】女团 车模 写真,http://cloudplay.tk/api/douyu.php?id=427397
+【经典影视韩国车模小刚歌】,http://cloudplay.tk/api/douyu.php?id=1360303
