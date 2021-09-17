@@ -385,11 +385,24 @@ CCTV1,http://cloudplay.tk/api/gdtv.php?id=cctv1
 珠海综合,http://cloudplay.tk/api/gdtv.php?id=zhzh
 河南卫视,http://cloudplay.tk/api/gdtv.php?id=hnws
 「港台频道」,#genre#
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-TVB翡翠台,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-TVB翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+RHK 31,https://cdn.hkdtmb.com/hls/31/index.m3u8
+RHK 32,https://cdn.hkdtmb.com/hls/32/index.m3u8
+RHK 33,https://cdn.hkdtmb.com/hls/33/index.m3u8
+翡翠台[多源],https://cdn.hkdtmb.com/hls/81/index.m3u8
+翡翠台[多源],http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+翡翠台[多源],http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+翡翠台[多源],http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8J2台,https://cdn.hkdtmb.com/hls/82/index.m3u8
+明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
+無綫財經·資訊台,https://cdn.hkdtmb.com/hls/85/index.m3u8
+無綫新聞台,https://cdn.hkdtmb.com/hls/83/index.m3u8
+ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
+ViuTV Six,https://cdn.hkdtmb.com/hls/96/index.m3u8
+香港開電視,https://cdn.hkdtmb.com/hls/77/index.m3u8
+香港國際財經台,https://cdn.hkdtmb.com/hls/76/index.m3u8
+HKanime 粵語悸動音樂台,https://cdn.hkdtmb.com/hls/hkanime_song/index.m3u8
+HKanime 粵配動物實況台,https://cdn.hkdtmb.com/hls/hkanimal/index.m3u8
+香港卫视[多源],http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视[多源],http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 澳门,http://61.244.22.4/ch3/_definst_/ch3.live/chunklist_w248237998.m3u8
 凤凰资讯,http://125.210.152.18:9090/live/FHZX_1200.m3u8
