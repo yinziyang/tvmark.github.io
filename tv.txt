@@ -350,6 +350,40 @@ SiTV法治天地 576,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=li
 铁岭新闻综合 576,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000281
 锦州新闻综合 576,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000277
 阜新综合 576,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000279
+「地方频道」,#genre#
+湖南卫视,http://cloudplay.tk/api/ad.php?id=hunws
+湖南卫视,http://cloudplay.tk/api/hntv.php?id=hnws
+湖南娱乐,http://cloudplay.tk/api/hntv.php?id=hnly
+浙江卫视,http://cloudplay.tk/api/hntv.php?id=zjws
+江苏卫视,http://cloudplay.tk/api/hntv.php?id=jsws
+东南卫视,http://cloudplay.tk/api/hntv.php?id=dnws
+湖北卫视,http://cloudplay.tk/api/hntv.php?id=hbws
+东方卫视,http://cloudplay.tk/api/hntv.php?id=dfws
+黑龙江卫视,http://cloudplay.tk/api/hntv.php?id=hljws
+吉林篮球,http://cloudplay.tk/api/hntv.php?id=jllq
+广东卫视,http://cloudplay.tk/api/gdtv.php?id=gdws
+广东珠江,http://cloudplay.tk/api/gdtv.php?id=gdzj
+广东影视,http://cloudplay.tk/api/gdtv.php?id=gdys
+南方卫视,http://cloudplay.tk/api/gdtv.php?id=nfws
+广东公共,http://cloudplay.tk/api/gdtv.php?id=gdgg
+广东新闻,http://cloudplay.tk/api/gdtv.php?id=gdxw
+广东体育,http://cloudplay.tk/api/gdtv.php?id=gdty
+广东少儿,http://cloudplay.tk/api/gdtv.php?id=gdse
+嘉佳卡通,http://cloudplay.tk/api/gdtv.php?id=jjkt
+茂名综合,http://cloudplay.tk/api/gdtv.php?id=mmzz
+河源综合,http://cloudplay.tk/api/gdtv.php?id=hyzh
+深圳都市,http://cloudplay.tk/api/gdtv.php?id=szds
+岭南戏曲,http://cloudplay.tk/api/gdtv.php?id=lnxq
+卡酷少儿,http://cloudplay.tk/api/gdtv.php?id=bjkk
+北京卫视,http://cloudplay.tk/api/gdtv.php?id=bjws
+CCTV1,http://cloudplay.tk/api/gdtv.php?id=cctv1
+深圳少儿,http://cloudplay.tk/api/gdtv.php?id=szse
+深圳娱乐,http://cloudplay.tk/api/gdtv.php?id=szyl
+佛山综合,http://cloudplay.tk/api/gdtv.php?id=fszh
+佛山公共,http://cloudplay.tk/api/gdtv.php?id=fsgg
+深圳电视剧,http://cloudplay.tk/api/gdtv.php?id=szdsj
+珠海综合,http://cloudplay.tk/api/gdtv.php?id=zhzh
+河南卫视,http://cloudplay.tk/api/gdtv.php?id=hnws
 「港台频道」,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
@@ -561,6 +595,8 @@ Jewelry电视,http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playli
 Darcizzle电视,http://30a-tv.com/darcizzle.m3u8
 INC TV,http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_1500_av-p.m3u8
 「体育赛事」,#genre#
+NBA经典解读,http://cloudplay.tk/api/youku.php?id=8107367
+体育纪录片,http://cloudplay.tk/api/youku.php?id=810399
 篮球人物,http://cloudplay.tk/api/douyu.php?id=8434598
 广东体育,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 澳視體育,http://61.244.22.5/ch4/sport_ch4.live/master.m3u8
@@ -699,15 +735,15 @@ YY宗玉师傅,http://cloudplay.tk/api/yy.php?id=52870290
 星爷 华语 经典 神乐,http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.flv
 欧美 科幻 经典 动作,http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv
 动作 枪战 华语 经典,http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG.flv
-恐怖 喜剧 经典 动作 科幻,https://8407837635d44c1c043879a0c6cf78c3.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_490905763.flv
-周星驰 24小时 喜剧 经典电影,https://8407837635d44c1c043879a0c6cf78c3.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_199681168.flv
+恐怖 喜剧 经典 动作 科幻,http://cloudplay.tk/api/egame.php?id=490905763
+周星驰 24小时 喜剧 经典电影,http://cloudplay.tk/api/egame.php?id=199681168
 香港赌片 喜剧、黑帮、动作、武侠、经典,http://cloudplay.tk/api/douyu.php?id=315457
-全天 僵尸 鬼片 恐怖电影,https://8407837635d44c1c043879a0c6cf78c3.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_363783415.flv
-恐怖 惊悚 动作 科幻 喜剧,https://8407837635d44c1c043879a0c6cf78c3.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_504525571.flv
+全天 僵尸 鬼片 恐怖电影,http://cloudplay.tk/api/egame.php?id=363783415
+恐怖 惊悚 动作 科幻 喜剧,http://cloudplay.tk/api/egame.php?id=504525571
 家有儿女,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.xs
 炊事班的故事,http://txtest-xp2p.p2p.huya.com/src/1524418108-1524418108-6547325919290195968-3048959672-10057-A-0-1.xs
 极限挑战,http://txtest-xp2p.p2p.huya.com/src/28466698-2689655562-11551982676294500352-2847687628-10057-A-0-1.xs
-王牌对王牌,https://8407837635d44c1c043879a0c6cf78c3.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_462055043.flv
+王牌对王牌,http://cloudplay.tk/api/egame.php?id=462055043
 笑傲江湖,http://txtest-xp2p.p2p.huya.com/src/1423787824-1423787824-6115122140523003904-2847699104-10057-A-0-1.xs
 笑傲帮,http://txtest-xp2p.p2p.huya.com/src/1449380946-1449380946-6225043762515542016-2847687614-10057-A-0-1.xs
 今晚80后·年轻人的新态度,http://txtest-xp2p.p2p.huya.com/src/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1.xs
@@ -721,12 +757,12 @@ YY宗玉师傅,http://cloudplay.tk/api/yy.php?id=52870290
 【TVB】灵异领域 胆小勿入,http://txtest-xp2p.p2p.huya.com/src/1199563477578-1199563477578-5444309108574388224-2399127078612-10057-A-0-1.xs
 「游戏频道」,#genre#
 英雄联盟赛事,http://txtest-xp2p.p2p.huya.com/src/78941969-2559461593-10992803837303062528-2693342886-10057-A-0-1.xs
-LOL官方直播间,https://8407837635d44c1c043879a0c6cf78c3.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_364457078.xs
+LOL官方直播间,http://cloudplay.tk/api/egame.php?id=367958257
 斗鱼英雄联盟赛事,http://tx2play1.douyucdn.cn/live/288016rlols5.xs
 斗鱼4K英雄联盟赛事,http://tx2play1.douyucdn.cn/live/522424rJr4EZlFmh_4K.xs
 英雄联盟LDL官方直播间,http://tx2play1.douyucdn.cn/live/705690rlols7wan6.xs
-LPL夏季赛主舞台,https://8407837635d44c1c043879a0c6cf78c3.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_367958257.xs
-云顶之弈赛事,https://8407837635d44c1c043879a0c6cf78c3.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_721939751.xs
+LPL夏季赛主舞台,http://cloudplay.tk/api/egame.php?id=367958257
+云顶之弈赛事,http://cloudplay.tk/api/egame.php?id=721939751
 穿越火线运营团队,http://tx2play1.douyucdn.cn/live/605964rzzgGEOZHr.xs
 穿越火线赛事,http://tx2play1.douyucdn.cn/live/5388537r1cxwCrgF.xs
 CFDL赛事直播间,http://tx2play1.douyucdn.cn/live/8690716r2Td3hopd.xs?uuid=
@@ -735,7 +771,7 @@ CF手游官方直播间,http://tx2play1.douyucdn.cn/live/868191rjy69PsEAz.xs?uui
 王者荣耀官方赛事,http://tx2play1.douyucdn.cn/live/1863767rkpl.xs
 斗鱼王者荣耀赛事,http://tx2play1.douyucdn.cn/live/8733439rycgVfFi4.xs?uuid=
 和平精英官方赛事,http://tx2play1.douyucdn.cn/live/999rx47n2pp8pGB7.xs
-绝地求生官方赛事,https://8407837635d44c1c043879a0c6cf78c3.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_449605280.xs
+绝地求生官方赛事,http://cloudplay.tk/api/egame.php?id=449605280
 斗鱼绝地赛事,http://tx2play1.douyucdn.cn/live/100rPCLP.xs?uuid=
 绝地求生PCL联赛,http://tx2play1.douyucdn.cn/live/100rPCLP.xs
 DOTA2赛事专用2,http://tx2play1.douyucdn.cn/live/3987011rViOqk5yA.xs
@@ -756,7 +792,7 @@ PUBGM_不求人,http://txtest-xp2p.p2p.huya.com/src/2227875499-2227875499-956865
 PUBG_错觉,http://cloudplay.tk/api/douyu.php?id=12345
 PUBG_沫子Mozz,http://cloudplay.tk/api/egame.php?id=1037536058006
 DNF_旭旭宝宝,http://cloudplay.tk/api/douyu.php?id=99999
-户外_帝师,https://8407837635d44c1c043879a0c6cf78c3.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_526644026.xs
+户外_帝师,http://cloudplay.tk/api/egame.php?id=526644026
 CF_白鲨,http://cloudplay.tk/api/douyu.php?id=12821
 CF_漠然,http://cloudplay.tk/api/douyu.php?id=11112
 CF_道年不二,http://cloudplay.tk/api/douyu.php?id=4087173
