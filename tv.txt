@@ -351,8 +351,9 @@ SiTV法治天地 576,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=li
 锦州新闻综合 576,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000277
 阜新综合 576,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000279
 「地方频道」,#genre#
-湖南卫视,http://cloudplay.tk/api/ad.php?id=hunws
-湖南卫视,http://cloudplay.tk/api/hntv.php?id=hnws
+湖南卫视[多源],http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/hnwshd/2300000/mnf.m3u8
+湖南卫视[多源],http://cloudplay.tk/api/ad.php?id=hunws
+湖南卫视[多源],http://cloudplay.tk/api/hntv.php?id=hnws
 湖南娱乐,http://cloudplay.tk/api/hntv.php?id=hnly
 浙江卫视,http://cloudplay.tk/api/hntv.php?id=zjws
 江苏卫视,http://cloudplay.tk/api/hntv.php?id=jsws
@@ -384,10 +385,20 @@ CCTV1,http://cloudplay.tk/api/gdtv.php?id=cctv1
 深圳电视剧,http://cloudplay.tk/api/gdtv.php?id=szdsj
 珠海综合,http://cloudplay.tk/api/gdtv.php?id=zhzh
 河南卫视,http://cloudplay.tk/api/gdtv.php?id=hnws
+吉林公共,http://stream1.jlntv.cn/ggpd/sd/live.m3u8
 「港台频道」,#genre#
+香港有线新闻台,https://flv3948069e.live.126.net/live/14a60117dd5128535e91c0e4291ee605.flv
+明珠台,https://flv3948069e.live.126.net/live/1b0eccab877d04722ba578d9411ad2be.flv
+VIUTV,https://flv3948069e.live.126.net/live/a9248fe9f8c147ee582d477110ac9ae1.flv
+东森新闻,https://flv3948069e.live.126.net/live/19c38862e1a7bccafb96b6821c6cee97.flv
+环宇新闻台,https://flv3948069e.live.126.net/live/ea6b1405d8942e6ec5d25c8cfec86c0f.flv
+TVBS,https://flv3948069e.live.126.net/live/f540945c8e1dd4b83a922eef3074d98d.flv
+非凡新闻,https://flv3948069e.live.126.net/live/70cc2e525e67f5cc67a4b38d453934c1.flv
+星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 RHK 31,https://cdn.hkdtmb.com/hls/31/index.m3u8
 RHK 32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 RHK 33,https://cdn.hkdtmb.com/hls/33/index.m3u8
+翡翠台[多源],https://flv3948069e.live.126.net/live/b733186a16d1312fc902e1bcb1d414b3.flv
 翡翠台[多源],https://cdn.hkdtmb.com/hls/81/index.m3u8
 翡翠台[多源],http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 翡翠台[多源],http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
@@ -608,8 +619,9 @@ Jewelry电视,http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playli
 Darcizzle电视,http://30a-tv.com/darcizzle.m3u8
 INC TV,http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_1500_av-p.m3u8
 「体育赛事」,#genre#
+五星体育,http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
+香港有线体育,https://flv3948069e.live.126.net/live/d896c5054b817d88ae10e5ac07542c64.flv
 NBA经典解读,http://cloudplay.tk/api/youku.php?id=8107367
-体育纪录片,http://cloudplay.tk/api/youku.php?id=810399
 篮球人物,http://cloudplay.tk/api/douyu.php?id=8434598
 广东体育,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 澳視體育,http://61.244.22.5/ch4/sport_ch4.live/master.m3u8
@@ -804,8 +816,12 @@ CSGO_久菜合子,http://cloudplay.tk/api/bilibili.php?id=21470918
 PUBGM_不求人,http://txtest-xp2p.p2p.huya.com/src/2227875499-2227875499-9568652407764680704-4455874454-10057-A-0-1.xs
 PUBG_错觉,http://cloudplay.tk/api/douyu.php?id=12345
 PUBG_沫子Mozz,http://cloudplay.tk/api/egame.php?id=1037536058006
+PUBG_蓝战非,http://cloudplay.tk/api/douyu.php?id=11579
+PUBG_少囧,http://cloudplay.tk/api/douyu.php?id=115280
 DNF_旭旭宝宝,http://cloudplay.tk/api/douyu.php?id=99999
+DNF_一阵雨,http://cloudplay.tk/api/douyu.php?id=66666
 户外_帝师,http://cloudplay.tk/api/egame.php?id=526644026
+LOL_PDD,http://cloudplay.tk/api/douyu.php?id=101
 CF_白鲨,http://cloudplay.tk/api/douyu.php?id=12821
 CF_漠然,http://cloudplay.tk/api/douyu.php?id=11112
 CF_道年不二,http://cloudplay.tk/api/douyu.php?id=4087173
