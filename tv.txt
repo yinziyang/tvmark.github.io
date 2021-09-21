@@ -351,18 +351,23 @@ SiTV法治天地 576,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=li
 锦州新闻综合 576,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000277
 阜新综合 576,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000279
 「地方频道」,#genre#
-湖南卫视[多源],http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/hnwshd/2300000/mnf.m3u8
-湖南卫视[多源],http://cloudplay.tk/api/ad.php?id=hunws
-湖南卫视[多源],http://cloudplay.tk/api/hntv.php?id=hnws
+湖南卫视,http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/hnwshd/2300000/mnf.m3u8
+湖南卫视,http://cloudplay.tk/api/ad.php?id=hunws
+湖南卫视,http://cloudplay.tk/api/hntv.php?id=hnws
 湖南娱乐,http://cloudplay.tk/api/hntv.php?id=hnly
+浙江卫视,http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/zjwshd/2300000/mnf.m3u8
 浙江卫视,http://cloudplay.tk/api/hntv.php?id=zjws
+江苏卫视,http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/jswshd/2300000/mnf.m3u8
 江苏卫视,http://cloudplay.tk/api/hntv.php?id=jsws
 东南卫视,http://cloudplay.tk/api/hntv.php?id=dnws
 湖北卫视,http://cloudplay.tk/api/hntv.php?id=hbws
+东方卫视,http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/dfwshd/2300000/mnf.m3u8
 东方卫视,http://cloudplay.tk/api/hntv.php?id=dfws
 黑龙江卫视,http://cloudplay.tk/api/hntv.php?id=hljws
 吉林篮球,http://cloudplay.tk/api/hntv.php?id=jllq
+广东卫视,http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/gdwshd/2300000/mnf.m3u8
 广东卫视,http://cloudplay.tk/api/gdtv.php?id=gdws
+广东珠江,http://120.237.254.197/nclive.grtn.cn/zjpd/sd/live.m3u8
 广东珠江,http://cloudplay.tk/api/gdtv.php?id=gdzj
 广东影视,http://cloudplay.tk/api/gdtv.php?id=gdys
 南方卫视,http://cloudplay.tk/api/gdtv.php?id=nfws
@@ -376,23 +381,37 @@ SiTV法治天地 576,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=li
 深圳都市,http://cloudplay.tk/api/gdtv.php?id=szds
 岭南戏曲,http://cloudplay.tk/api/gdtv.php?id=lnxq
 卡酷少儿,http://cloudplay.tk/api/gdtv.php?id=bjkk
+北京卫视,http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/bjwshd/2300000/mnf.m3u8
 北京卫视,http://cloudplay.tk/api/gdtv.php?id=bjws
 CCTV1,http://cloudplay.tk/api/gdtv.php?id=cctv1
+CCTV6,http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/cctv6hd/2300000/mnf.m3u8
 深圳少儿,http://cloudplay.tk/api/gdtv.php?id=szse
 深圳娱乐,http://cloudplay.tk/api/gdtv.php?id=szyl
 佛山综合,http://cloudplay.tk/api/gdtv.php?id=fszh
 佛山公共,http://cloudplay.tk/api/gdtv.php?id=fsgg
 深圳电视剧,http://cloudplay.tk/api/gdtv.php?id=szdsj
 珠海综合,http://cloudplay.tk/api/gdtv.php?id=zhzh
+河南卫视,http://cloudplay.tk/api/zztv.php?id=hnws
 河南卫视,http://cloudplay.tk/api/gdtv.php?id=hnws
 吉林公共,http://stream1.jlntv.cn/ggpd/sd/live.m3u8
 「港台频道」,#genre#
+凤凰香港,http://cloudplay.tk/api/fhx.php?=fhhk
+凤凰中文,http://cloudplay.tk/api/fhx.php?=fhzw
+凤凰资讯,http://cloudplay.tk/api/fhx.php?=fhzx
 香港有线新闻台,https://flv3948069e.live.126.net/live/14a60117dd5128535e91c0e4291ee605.flv
+香港开电视台,https://flv3948069e.live.126.net/live/cd42465d23be5db9a8b71db374ed9f6c.flv
 明珠台,https://flv3948069e.live.126.net/live/1b0eccab877d04722ba578d9411ad2be.flv
-VIUTV,https://flv3948069e.live.126.net/live/a9248fe9f8c147ee582d477110ac9ae1.flv
+VIUTV[多源],https://flv3948069e.live.126.net/live/a9248fe9f8c147ee582d477110ac9ae1.flv
+ViuTV[多源],https://cdn.hkdtmb.com/hls/99/index.m3u8
+ViuTV Six,https://cdn.hkdtmb.com/hls/96/index.m3u8
 东森新闻,https://flv3948069e.live.126.net/live/19c38862e1a7bccafb96b6821c6cee97.flv
+民视第一台,https://flv3948069e.live.126.net/live/b5e877593319575137ba900aab69b5bf.flv
+民视台湾台,https://flv3948069e.live.126.net/live/eaa8ca0998901062fbd8953c02d6bc56.flv
 环宇新闻台,https://flv3948069e.live.126.net/live/ea6b1405d8942e6ec5d25c8cfec86c0f.flv
+三立台湾台,https://flv3948069e.live.126.net/live/398eb6145ff42da86f20819d78317c23.flv
+TVBS HD,https://flv3948069e.live.126.net/live/d52211497ba58b066315652174cfa9ac.flv
 TVBS,https://flv3948069e.live.126.net/live/f540945c8e1dd4b83a922eef3074d98d.flv
+TVBS娱乐台,https://flv3948069e.live.126.net/live/a78fab24b8094a7fd48b4847dcc1450b.flv
 非凡新闻,https://flv3948069e.live.126.net/live/70cc2e525e67f5cc67a4b38d453934c1.flv
 星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 RHK 31,https://cdn.hkdtmb.com/hls/31/index.m3u8
@@ -406,8 +425,6 @@ RHK 33,https://cdn.hkdtmb.com/hls/33/index.m3u8
 明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
 無綫財經·資訊台,https://cdn.hkdtmb.com/hls/85/index.m3u8
 無綫新聞台,https://cdn.hkdtmb.com/hls/83/index.m3u8
-ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
-ViuTV Six,https://cdn.hkdtmb.com/hls/96/index.m3u8
 香港開電視,https://cdn.hkdtmb.com/hls/77/index.m3u8
 香港國際財經台,https://cdn.hkdtmb.com/hls/76/index.m3u8
 HKanime 粵語悸動音樂台,https://cdn.hkdtmb.com/hls/hkanime_song/index.m3u8
@@ -619,6 +636,7 @@ Jewelry电视,http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playli
 Darcizzle电视,http://30a-tv.com/darcizzle.m3u8
 INC TV,http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_1500_av-p.m3u8
 「体育赛事」,#genre#
+CCTV5+,http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/2300000/mnf.m3u8
 五星体育,http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
 香港有线体育,https://flv3948069e.live.126.net/live/d896c5054b817d88ae10e5ac07542c64.flv
 NBA经典解读,http://cloudplay.tk/api/youku.php?id=8107367
