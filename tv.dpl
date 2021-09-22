@@ -1,0 +1,2610 @@
+﻿DAUMPLAYLIST
+playname=
+topindex=0
+0*file*http://140.207.241.2:8080/live/program/live/cctv1hd/4000000/mnf.m3u8
+0*title*CCTV1 1080
+0*played*0
+1*file*http://140.207.241.2:8080/live/program/live/cctv2/1300000/mnf.m3u8
+1*title*CCTV2 540
+1*played*0
+2*file*http://140.207.241.2:8080/live/program/live/cctv3hd/4000000/mnf.m3u8
+2*title*CCTV3 1080
+2*played*0
+3*file*http://140.207.241.2:8080/live/program/live/cctv4/1300000/mnf.m3u8
+3*title*CCTV4 540
+3*played*0
+4*file*http://140.207.241.2:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
+4*title*CCTV5 1080
+4*played*0
+5*file*http://140.207.241.2:8080/live/program/live/cctv5phd/4000000/mnf.m3u8
+5*title*CCTV5+ 1080
+5*played*0
+6*file*http://140.207.241.2:8080/live/program/live/cctv6hd/4000000/mnf.m3u8
+6*title*CCTV6 1080
+6*played*0
+7*file*http://140.207.241.2:8080/live/program/live/cctv7/1300000/mnf.m3u8
+7*title*CCTV7 540
+7*played*0
+8*file*http://140.207.241.2:8080/live/program/live/cctv8hd/4000000/mnf.m3u8
+8*title*CCTV8 1080
+8*played*0
+9*file*http://140.207.241.2:8080/live/program/live/cctv10hd/4000000/mnf.m3u8
+9*title*CCTV10 1080
+9*played*0
+10*file*http://140.207.241.2:8080/live/program/live/cctv11/1300000/mnf.m3u8
+10*title*CCTV11 540
+10*played*0
+11*file*http://140.207.241.2:8080/live/program/live/cctv12/1300000/mnf.m3u8
+11*title*CCTV12 540
+11*played*0
+12*file*http://140.207.241.2:8080/live/program/live/cctvxw/1300000/mnf.m3u8
+12*title*CCTV13 540
+12*played*0
+13*file*http://140.207.241.2:8080/live/program/live/cctvsehd/4000000/mnf.m3u8
+13*title*CCTV14 1080
+13*played*0
+14*file*http://140.207.241.2:8080/live/program/live/cctvyy/1300000/mnf.m3u8
+14*title*CCTV15 540
+14*played*0
+15*file*http://140.207.241.2:8080/live/program/live/zgqx/1300000/mnf.m3u8
+15*title*中国天气 576
+15*played*0
+16*file*http://140.207.241.2:8080/live/program/live/wypdhd/4000000/mnf.m3u8
+16*title*上海ICS外语 1080
+16*played*0
+17*file*http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
+17*title*上海东方影视 1080
+17*played*0
+18*file*http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
+18*title*上海五星体育 1080
+18*played*0
+19*file*http://140.207.241.2:8080/live/program/live/dycjhd/4000000/mnf.m3u8
+19*title*上海第一财经 1080
+19*played*0
+20*file*http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
+20*title*上海新闻综合 1080
+20*played*0
+21*file*http://140.207.241.2:8080/live/program/live/jspdhd/4000000/mnf.m3u8
+21*title*上海纪实人文 1080
+21*played*0
+22*file*http://140.207.241.2:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
+22*title*上海哈哈炫动 1080
+22*played*0
+23*file*http://140.207.241.2:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
+23*title*上海都市 1080
+23*played*0
+24*file*http://140.207.241.2:8080/live/program/live/setv/1300000/mnf.m3u8
+24*title*上海教育 540
+24*played*0
+25*file*http://140.207.241.2:8080/live/program/live/dnwshd/4000000/mnf.m3u8
+25*title*东南卫视 1080
+25*played*0
+26*file*http://140.207.241.2:8080/live/program/live/hddfws/4000000/mnf.m3u8
+26*title*东方卫视 1080
+26*played*0
+27*file*http://140.207.241.2:8080/live/program/live/bjwshd/4000000/mnf.m3u8
+27*title*北京卫视 1080
+27*played*0
+28*file*http://140.207.241.2:8080/live/program/live/tjwshd/4000000/mnf.m3u8
+28*title*天津卫视 1080
+28*played*0
+29*file*http://140.207.241.2:8080/live/program/live/ahwshd/4000000/mnf.m3u8
+29*title*安徽卫视 1080
+29*played*0
+30*file*http://140.207.241.2:8080/live/program/live/sdwshd/4000000/mnf.m3u8
+30*title*山东卫视 1080
+30*played*0
+31*file*http://140.207.241.2:8080/live/program/live/gdwshd/4000000/mnf.m3u8
+31*title*广东卫视 1080
+31*played*0
+32*file*http://140.207.241.2:8080/live/program/live/jswshd/4000000/mnf.m3u8
+32*title*江苏卫视 1080
+32*played*0
+33*file*http://140.207.241.2:8080/live/program/live/jxwshd/4000000/mnf.m3u8
+33*title*江西卫视 1080
+33*played*0
+34*file*http://140.207.241.2:8080/live/program/live/zjwshd/4000000/mnf.m3u8
+34*title*浙江卫视 1080
+34*played*0
+35*file*http://140.207.241.2:8080/live/program/live/lnwshd/4000000/mnf.m3u8
+35*title*辽宁卫视 1080
+35*played*0
+36*file*http://140.207.241.2:8080/live/program/live/szwshd/4000000/mnf.m3u8
+36*title*深圳卫视 1080
+36*played*0
+37*file*http://140.207.241.2:8080/live/program/live/hbwshd/4000000/mnf.m3u8
+37*title*湖北卫视 1080
+37*played*0
+38*file*http://140.207.241.2:8080/live/program/live/hnwshd/4000000/mnf.m3u8
+38*title*湖南卫视 1080
+38*played*0
+39*file*http://140.207.241.2:8080/live/program/live/hljwshd/4000000/mnf.m3u8
+39*title*黑龙江卫视 1080
+39*played*0
+40*file*http://140.207.241.2:8080/live/program/live/xmws/1300000/mnf.m3u8
+40*title*厦门卫视 540
+40*played*0
+41*file*http://140.207.241.2:8080/live/program/live/jlws/1300000/mnf.m3u8
+41*title*吉林卫视 540
+41*played*0
+42*file*http://140.207.241.2:8080/live/program/live/scws/1300000/mnf.m3u8
+42*title*四川卫视 540
+42*played*0
+43*file*http://140.207.241.2:8080/live/program/live/nxws/1300000/mnf.m3u8
+43*title*宁夏卫视 540
+43*played*0
+44*file*http://140.207.241.2:8080/live/program/live/ynws/1300000/mnf.m3u8
+44*title*云南卫视 540
+44*played*0
+45*file*http://140.207.241.2:8080/live/program/live/btws/1300000/mnf.m3u8
+45*title*兵团卫视 540
+45*played*0
+46*file*http://140.207.241.2:8080/live/program/live/nmgws/1300000/mnf.m3u8\'
+46*title*内蒙古卫视 540
+46*played*0
+47*file*http://140.207.241.2:8080/live/program/live/gxws/1300000/mnf.m3u8
+47*title*广西卫视 540
+47*played*0
+48*file*http://140.207.241.2:8080/live/program/live/xjws/1300000/mnf.m3u8
+48*title*新疆卫视 540
+48*played*0
+49*file*http://140.207.241.2:8080/live/program/live/hbws/1300000/mnf.m3u8
+49*title*河北卫视 540
+49*played*0
+50*file*http://140.207.241.2:8080/live/program/live/hnws/1300000/mnf.m3u8
+50*title*河南卫视 540
+50*played*0
+51*file*http://140.207.241.2:8080/live/program/live/lyws/1300000/mnf.m3u8
+51*title*海南卫视 540
+51*played*0
+52*file*http://140.207.241.2:8080/live/program/live/gsws/1300000/mnf.m3u8
+52*title*甘肃卫视 540
+52*played*0
+53*file*http://140.207.241.2:8080/live/program/live/gzws/1300000/mnf.m3u8
+53*title*贵州卫视 540
+53*played*0
+54*file*http://140.207.241.2:8080/live/program/live/cqws/1300000/mnf.m3u8
+54*title*重庆卫视 540
+54*played*0
+55*file*http://140.207.241.2:8080/live/program/live/sxws/1300000/mnf.m3u8
+55*title*陕西卫视 540
+55*played*0
+56*file*http://140.207.241.2:8080/live/program/live/qhws/1300000/mnf.m3u8
+56*title*青海卫视 540
+56*played*0
+57*file*http://140.207.241.2:8080/live/program/live/btws/1300000/mnf.m3u8
+57*title*兵团卫视 540
+57*played*0
+58*file*http://140.207.241.2:8080/live/program/live/jykt/1300000/mnf.m3u8
+58*title*湖南金鹰卡通 540
+58*played*0
+59*file*http://140.207.241.2:8080/live/program/live/jjkt/1300000/mnf.m3u8
+59*title*广东嘉佳卡通 540
+59*played*0
+60*file*http://140.207.241.2:8080/live/program/live/xsjhd/4000000/mnf.m3u8
+60*title*SiTV新视觉 1080
+60*played*0
+61*file*http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+61*title*SiTV动漫秀场 1080
+61*played*0
+62*file*http://140.207.241.2:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
+62*title*SiTV游戏风云 1080
+62*played*0
+63*file*http://140.207.241.2:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+63*title*SiTV劲爆体育 1080
+63*played*0
+64*file*http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
+64*title*SiTV魅力足球 1080
+64*played*0
+65*file*http://140.207.241.2:8080/live/program/live/hxjchd/4000000/mnf.m3u8
+65*title*SiTV欢笑剧场 1080
+65*played*0
+66*file*http://140.207.241.2:8080/live/program/live/jsqchd/4000000/mnf.m3u8
+66*title*SiTV极速汽车 1080
+66*played*0
+67*file*http://140.207.241.2:8080/live/program/live/shsshd/4000000/mnf.m3u8
+67*title*SiTV生活时尚 1080
+67*played*0
+68*file*http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
+68*title*SiTV全纪实 1080
+68*played*0
+69*file*http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.m3u8
+69*title*SiTV都市剧场 1080
+69*played*0
+70*file*http://140.207.241.2:8080/live/program/live/xfchd/4000000/mnf.m3u8
+70*title*SiTV幸福彩 1080
+70*played*0
+71*file*http://140.207.241.2:8080/live/program/live/fztd/1300000/mnf.m3u8
+71*title*SiTV法治天地 540
+71*played*0
+72*file*http://140.207.241.2:8080/live/program/live/jingsepd/1300000/mnf.m3u8
+72*title*SiTV金色频道 540
+72*played*0
+73*file*http://140.207.241.2:8080/live/program/live/qcxj/1300000/mnf.m3u8
+73*title*SiTV七彩戏剧 540
+73*played*0
+74*file*http://140.207.241.2:8080/live/program/live/dfcj/1300000/mnf.m3u8
+74*title*SiTV东方财经 540
+74*played*0
+75*file*http://140.207.241.2:8080/live/program/live/hdnba5/4000000/mnf.m3u8
+75*title*百事通体育 1080
+75*played*0
+76*file*http://140.207.241.2:8080/live/program/live/hdnba1/4000000/mnf.m3u8
+76*title*百事通体育 1080
+76*played*0
+77*file*http://140.207.241.2:8080/live/program/live/hdnba2/4000000/mnf.m3u8
+77*title*百事通体育 1080
+77*played*0
+78*file*http://140.207.241.2:8080/live/program/live/hdnba3/4000000/mnf.m3u8
+78*title*百事通体育 1080
+78*played*0
+79*file*http://140.207.241.2:8080/live/program/live/hdnba4/4000000/mnf.m3u8
+79*title*百事通体育 1080
+79*played*0
+80*file*http://140.207.241.2:8080/live/program/live/hdnba6/4000000/mnf.m3u8
+80*title*百事通体育 1080
+80*played*0
+81*file*http://140.207.241.2:8080/live/program/live/hdnba7/4000000/mnf.m3u8
+81*title*百事通体育 1080
+81*played*0
+82*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000157.m3u8&amp;ts=50&amp;auth=no
+82*title*CHC高清电影 4M1080
+82*played*0
+83*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000214.m3u8&amp;ts=50&amp;auth=no
+83*title*CBN每日影院 4M1080
+83*played*0
+84*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000215.m3u8&amp;ts=50&amp;auth=no
+84*title*CBN风尚生活 4M1080
+84*played*0
+85*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000124.m3u8&amp;ts=50&amp;auth=no
+85*title*CCTV1 4M1080
+85*played*0
+86*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000125.m3u8&amp;ts=50&amp;auth=no
+86*title*CCTV2 4M1080
+86*played*0
+87*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000126.m3u8&amp;ts=50&amp;auth=no
+87*title*CCTV3 4M1080
+87*played*0
+88*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000127.m3u8&amp;ts=50&amp;auth=no
+88*title*CCTV4 4M1080
+88*played*0
+89*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000128.m3u8&amp;ts=50&amp;auth=no
+89*title*CCTV5 4M1080
+89*played*0
+90*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000123.m3u8&amp;ts=50&amp;auth=no
+90*title*CCTV5+ 4M1080
+90*played*0
+91*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000129.m3u8&amp;ts=50&amp;auth=no
+91*title*CCTV6 4M1080
+91*played*0
+92*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000209.m3u8&amp;ts=50&amp;auth=no
+92*title*CCTV7 4M1080
+92*played*0
+93*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000130.m3u8&amp;ts=50&amp;auth=no
+93*title*CCTV8 4M1080
+93*played*0
+94*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000131.m3u8&amp;ts=50&amp;auth=no
+94*title*CCTV9 4M1080
+94*played*0
+95*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000132.m3u8&amp;ts=50&amp;auth=no
+95*title*CCTV10 4M1080
+95*played*0
+96*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000155.m3u8&amp;ts=50&amp;auth=no
+96*title*CCTV11 4M1080
+96*played*0
+97*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000186.m3u8&amp;ts=50&amp;auth=no
+97*title*CCTV11 4M1080
+97*played*0
+98*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000187.m3u8&amp;ts=50&amp;auth=no
+98*title*CCTV12 4M1080
+98*played*0
+99*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000216.m3u8&amp;ts=50&amp;auth=no
+99*title*CCTV13 4M1080
+99*played*0
+100*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000210.m3u8&amp;ts=50&amp;auth=no
+100*title*CCTV14 4M1080
+100*played*0
+101*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000192.m3u8&amp;ts=50&amp;auth=no
+101*title*CCTV15 4M1080
+101*played*0
+102*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000148.m3u8&amp;ts=50&amp;auth=no
+102*title*东南卫视 4M1080
+102*played*0
+103*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000140.m3u8&amp;ts=50&amp;auth=no
+103*title*东方卫视 4M1080
+103*played*0
+104*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000143.m3u8&amp;ts=50&amp;auth=no
+104*title*北京卫视 4M1080
+104*played*0
+105*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000195.m3u8&amp;ts=50&amp;auth=no
+105*title*吉林卫视 4M1080
+105*played*0
+106*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000146.m3u8&amp;ts=50&amp;auth=no
+106*title*四川卫视 4M1080
+106*played*0
+107*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000137.m3u8&amp;ts=50&amp;auth=no
+107*title*天津卫视 4M1080
+107*played*0
+108*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000133.m3u8&amp;ts=50&amp;auth=no
+108*title*安徽卫视 4M1080
+108*played*0
+109*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000144.m3u8&amp;ts=50&amp;auth=no
+109*title*山东卫视 4M1080
+109*played*0
+110*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000141.m3u8&amp;ts=50&amp;auth=no
+110*title*广东卫视 4M1080
+110*played*0
+111*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000135.m3u8&amp;ts=50&amp;auth=no
+111*title*江苏卫视 4M1080
+111*played*0
+112*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000149.m3u8&amp;ts=50&amp;auth=no
+112*title*江西卫视 4M1080
+112*played*0
+113*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000147.m3u8&amp;ts=50&amp;auth=no
+113*title*河北卫视 4M1080
+113*played*0
+114*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000193.m3u8&amp;ts=50&amp;auth=no
+114*title*河南卫视 4M1080
+114*played*0
+115*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000136.m3u8&amp;ts=50&amp;auth=no
+115*title*浙江卫视 4M1080
+115*played*0
+116*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000138.m3u8&amp;ts=50&amp;auth=no
+116*title*深圳卫视 4M1080
+116*played*0
+117*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000139.m3u8&amp;ts=50&amp;auth=no
+117*title*湖北卫视 4M1080
+117*played*0
+118*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000134.m3u8&amp;ts=50&amp;auth=no
+118*title*湖南卫视 4M1080
+118*played*0
+119*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000194.m3u8&amp;ts=50&amp;auth=no
+119*title*贵州卫视 4M1080
+119*played*0
+120*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000145.m3u8&amp;ts=50&amp;auth=no
+120*title*辽宁卫视 4M1080
+120*played*0
+121*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000150.m3u8&amp;ts=50&amp;auth=no
+121*title*重庆卫视 4M1080
+121*played*0
+122*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000142.m3u8&amp;ts=50&amp;auth=no
+122*title*黑龙江卫视 4M1080
+122*played*0
+123*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000153.m3u8&amp;ts=50&amp;auth=no
+123*title*SiTV全纪实 4M1080
+123*played*0
+124*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000152.m3u8&amp;ts=50&amp;auth=no
+124*title*SiTV劲爆体育 4M1080
+124*played*0
+125*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000151.m3u8&amp;ts=50&amp;auth=no
+125*title*SiTV欢笑剧场 4M1080
+125*played*0
+126*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000154.m3u8&amp;ts=50&amp;auth=no
+126*title*SiTV魅力足球 4M1080
+126*played*0
+127*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000191.m3u8&amp;ts=50&amp;auth=no
+127*title*合肥故事休闲 4M1080
+127*played*0
+128*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000189.m3u8&amp;ts=50&amp;auth=no
+128*title*合肥教育法制 4M1080
+128*played*0
+129*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000185.m3u8&amp;ts=50&amp;auth=no
+129*title*合肥新闻 4M1080
+129*played*0
+130*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000188.m3u8&amp;ts=50&amp;auth=no
+130*title*合肥生活 4M1080
+130*played*0
+131*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000190.m3u8&amp;ts=50&amp;auth=no
+131*title*合肥财经 4M1080
+131*played*0
+132*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000003.m3u8&amp;ts=50&amp;auth=no
+132*title*CCTV1 576
+132*played*0
+133*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000004.m3u8&amp;ts=50&amp;auth=no
+133*title*CCTV2 576
+133*played*0
+134*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000005.m3u8&amp;ts=50&amp;auth=no
+134*title*CCTV3 576
+134*played*0
+135*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000006.m3u8&amp;ts=50&amp;auth=no
+135*title*CCTV4 576
+135*played*0
+136*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000007.m3u8&amp;ts=50&amp;auth=no
+136*title*CCTV5 576
+136*played*0
+137*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000008.m3u8&amp;ts=50&amp;auth=no
+137*title*CCTV6 576
+137*played*0
+138*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000009.m3u8&amp;ts=50&amp;auth=no
+138*title*CCTV7 576
+138*played*0
+139*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000010.m3u8&amp;ts=50&amp;auth=no
+139*title*CCTV8 576
+139*played*0
+140*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000011.m3u8&amp;ts=50&amp;auth=no
+140*title*CCTV9 576
+140*played*0
+141*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000012.m3u8&amp;ts=50&amp;auth=no
+141*title*CCTV10 576
+141*played*0
+142*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000013.m3u8&amp;ts=50&amp;auth=no
+142*title*CCTV11 576
+142*played*0
+143*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000014.m3u8&amp;ts=50&amp;auth=no
+143*title*CCTV12 576
+143*played*0
+144*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000015.m3u8&amp;ts=50&amp;auth=no
+144*title*CCTV13 576
+144*played*0
+145*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000017.m3u8&amp;ts=50&amp;auth=no
+145*title*CCTV14 576
+145*played*0
+146*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000039.m3u8&amp;ts=50&amp;auth=no
+146*title*CCTV15 576
+146*played*0
+147*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000206.m3u8&amp;ts=50&amp;auth=no
+147*title*CCTV17 576
+147*played*0
+148*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000164.m3u8&amp;ts=50&amp;auth=no
+148*title*CCTV电视指南 576
+148*played*0
+149*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000122.m3u8&amp;ts=50&amp;auth=no
+149*title*CCTV高尔夫网球 576
+149*played*0
+150*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000078.m3u8&amp;ts=50&amp;auth=no
+150*title*CGTN 576
+150*played*0
+151*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000074.m3u8&amp;ts=50&amp;auth=no
+151*title*中国教育1 576
+151*played*0
+152*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000197.m3u8&amp;ts=50&amp;auth=no
+152*title*中国交通安徽 576
+152*played*0
+153*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000047.m3u8&amp;ts=50&amp;auth=no
+153*title*东南卫视 576
+153*played*0
+154*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000016.m3u8&amp;ts=50&amp;auth=no
+154*title*东方卫视 576
+154*played*0
+155*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000059.m3u8&amp;ts=50&amp;auth=no
+155*title*云南卫视 576
+155*played*0
+156*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000068.m3u8&amp;ts=50&amp;auth=no
+156*title*内蒙古卫视 576
+156*played*0
+157*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000051.m3u8&amp;ts=50&amp;auth=no
+157*title*北京卫视 576
+157*played*0
+158*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000066.m3u8&amp;ts=50&amp;auth=no
+158*title*吉林卫视 576
+158*played*0
+159*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000060.m3u8&amp;ts=50&amp;auth=no
+159*title*四川卫视 576
+159*played*0
+160*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000052.m3u8&amp;ts=50&amp;auth=no
+160*title*天津卫视 576
+160*played*0
+161*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000002.m3u8&amp;ts=50&amp;auth=no
+161*title*安徽卫视 576
+161*played*0
+162*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000048.m3u8&amp;ts=50&amp;auth=no
+162*title*山东卫视 576
+162*played*0
+163*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000064.m3u8&amp;ts=50&amp;auth=no
+163*title*山西卫视 576
+163*played*0
+164*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000046.m3u8&amp;ts=50&amp;auth=no
+164*title*广东卫视 576
+164*played*0
+165*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000077.m3u8&amp;ts=50&amp;auth=no
+165*title*新疆兵团卫视 576
+165*played*0
+166*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000075.m3u8&amp;ts=50&amp;auth=no
+166*title*新疆卫视 576
+166*played*0
+167*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000044.m3u8&amp;ts=50&amp;auth=no
+167*title*江苏卫视 576
+167*played*0
+168*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000049.m3u8&amp;ts=50&amp;auth=no
+168*title*江西卫视 576
+168*played*0
+169*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000055.m3u8&amp;ts=50&amp;auth=no
+169*title*河北卫视 576
+169*played*0
+170*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000056.m3u8&amp;ts=50&amp;auth=no
+170*title*河南卫视 576
+170*played*0
+171*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000045.m3u8&amp;ts=50&amp;auth=no
+171*title*浙江卫视 576
+171*played*0
+172*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000058.m3u8&amp;ts=50&amp;auth=no
+172*title*深圳卫视 576
+172*played*0
+173*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000067.m3u8&amp;ts=50&amp;auth=no
+173*title*湖北卫视 576
+173*played*0
+174*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000054.m3u8&amp;ts=50&amp;auth=no
+174*title*湖南卫视 576
+174*played*0
+175*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000070.m3u8&amp;ts=50&amp;auth=no
+175*title*甘肃卫视 576
+175*played*0
+176*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000076.m3u8&amp;ts=50&amp;auth=no
+176*title*西藏卫视 576
+176*played*0
+177*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000065.m3u8&amp;ts=50&amp;auth=no
+177*title*贵州卫视 576
+177*played*0
+178*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000062.m3u8&amp;ts=50&amp;auth=no
+178*title*辽宁卫视 576
+178*played*0
+179*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000053.m3u8&amp;ts=50&amp;auth=no
+179*title*重庆卫视 576
+179*played*0
+180*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000061.m3u8&amp;ts=50&amp;auth=no
+180*title*陕西卫视 576
+180*played*0
+181*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000198.m3u8&amp;ts=50&amp;auth=no
+181*title*青海卫视 576
+181*played*0
+182*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000050.m3u8&amp;ts=50&amp;auth=no
+182*title*黑龙江卫视 576
+182*played*0
+183*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000057.m3u8&amp;ts=50&amp;auth=no
+183*title*黑龙江卫视 576
+183*played*0
+184*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000199.m3u8&amp;ts=50&amp;auth=no
+184*title*NNM电子体育 576
+184*played*0
+185*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000063.m3u8&amp;ts=50&amp;auth=no
+185*title*湖南金鹰卡通 576
+185*played*0
+186*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000073.m3u8&amp;ts=50&amp;auth=no
+186*title*北京冬奥纪实 576
+186*played*0
+187*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000072.m3u8&amp;ts=50&amp;auth=no
+187*title*北京卡酷少儿 576
+187*played*0
+188*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000083.m3u8&amp;ts=50&amp;auth=no
+188*title*北广优优宝贝 576
+188*played*0
+189*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000071.m3u8&amp;ts=50&amp;auth=no
+189*title*江苏优漫卡通 576
+189*played*0
+190*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000104.m3u8&amp;ts=50&amp;auth=no
+190*title*江苏财富天下 576
+190*played*0
+191*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000196.m3u8&amp;ts=50&amp;auth=no
+191*title*重庆时尚购物 576
+191*played*0
+192*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000203.m3u8&amp;ts=50&amp;auth=no
+192*title*成都美食天府 576
+192*played*0
+193*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000202.m3u8&amp;ts=50&amp;auth=no
+193*title*甘肃家政 576
+193*played*0
+194*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000205.m3u8&amp;ts=50&amp;auth=no
+194*title*中华特产 576
+194*played*0
+195*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000099.m3u8&amp;ts=50&amp;auth=no
+195*title*书画频道 576
+195*played*0
+196*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000101.m3u8&amp;ts=50&amp;auth=no
+196*title*书画频道 576
+196*played*0
+197*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000121.m3u8&amp;ts=50&amp;auth=no
+197*title*四海钓鱼 576
+197*played*0
+198*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000086.m3u8&amp;ts=50&amp;auth=no
+198*title*天元围棋 576
+198*played*0
+199*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000042.m3u8&amp;ts=50&amp;auth=no
+199*title*央广购物 576
+199*played*0
+200*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000082.m3u8&amp;ts=50&amp;auth=no
+200*title*环球旅游 576
+200*played*0
+201*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000201.m3u8&amp;ts=50&amp;auth=no
+201*title*百姓健康 576
+201*played*0
+202*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000119.m3u8&amp;ts=50&amp;auth=no
+202*title*车迷频道 576
+202*played*0
+203*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000102.m3u8&amp;ts=50&amp;auth=no
+203*title*摄影频道 576
+203*played*0
+204*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000081.m3u8&amp;ts=50&amp;auth=no
+204*title*收藏天下 576
+204*played*0
+205*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000120.m3u8&amp;ts=50&amp;auth=no
+205*title*生态环境 576
+205*played*0
+206*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000043.m3u8&amp;ts=50&amp;auth=no
+206*title*安徽人物 576
+206*played*0
+207*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000033.m3u8&amp;ts=50&amp;auth=no
+207*title*安徽公共 576
+207*played*0
+208*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000031.m3u8&amp;ts=50&amp;auth=no
+208*title*安徽导视 576
+208*played*0
+209*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000034.m3u8&amp;ts=50&amp;auth=no
+209*title*安徽影视 576
+209*played*0
+210*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000036.m3u8&amp;ts=50&amp;auth=no
+210*title*安徽科教 576
+210*played*0
+211*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000032.m3u8&amp;ts=50&amp;auth=no
+211*title*安徽经济生活 576
+211*played*0
+212*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000035.m3u8&amp;ts=50&amp;auth=no
+212*title*安徽综艺 576
+212*played*0
+213*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000025.m3u8&amp;ts=50&amp;auth=no
+213*title*合肥公共 576
+213*played*0
+214*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000022.m3u8&amp;ts=50&amp;auth=no
+214*title*合肥影院 576
+214*played*0
+215*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000024.m3u8&amp;ts=50&amp;auth=no
+215*title*合肥故事休闲 576
+215*played*0
+216*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000021.m3u8&amp;ts=50&amp;auth=no
+216*title*合肥教育法制 576
+216*played*0
+217*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000208.m3u8&amp;ts=50&amp;auth=no
+217*title*合肥教育法制 576
+217*played*0
+218*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000027.m3u8&amp;ts=50&amp;auth=no
+218*title*合肥文体博览 576
+218*played*0
+219*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000163.m3u8&amp;ts=50&amp;auth=no
+219*title*合肥新闻 576
+219*played*0
+220*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000211.m3u8&amp;ts=50&amp;auth=no
+220*title*合肥新闻 576
+220*played*0
+221*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000020.m3u8&amp;ts=50&amp;auth=no
+221*title*合肥生活 576
+221*played*0
+222*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000028.m3u8&amp;ts=50&amp;auth=no
+222*title*合肥皖江购物 576
+222*played*0
+223*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000023.m3u8&amp;ts=50&amp;auth=no
+223*title*合肥财经 576
+223*played*0
+224*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000041.m3u8&amp;ts=50&amp;auth=no
+224*title*北京家有购物 576
+224*played*0
+225*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000213.m3u8&amp;ts=50&amp;auth=no
+225*title*上海东方购物 576
+225*played*0
+226*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000212.m3u8&amp;ts=50&amp;auth=no
+226*title*湖南快乐购 576
+226*played*0
+227*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000037.m3u8&amp;ts=50&amp;auth=no
+227*title*山西优购物 576
+227*played*0
+228*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000019.m3u8&amp;ts=50&amp;auth=no
+228*title*巨鲨环球精选 576
+228*played*0
+229*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000038.m3u8&amp;ts=50&amp;auth=no
+229*title*安徽家家购物 576
+229*played*0
+230*file*http://kid.hfcatv.com.cn:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&amp;playtoken=31667LZMVCGFXDL10&amp;verifycode=2000000576&amp;rate=org&amp;programid=4200000018.m3u8&amp;ts=50&amp;auth=no
+230*title*马赛克 576
+230*played*0
+231*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000457
+231*title*CCTV1 4M1080
+231*played*0
+232*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000061
+232*title*CCTV2 4M1080
+232*played*0
+233*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000062
+233*title*CCTV3 4M1080
+233*played*0
+234*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000063
+234*title*CCTV4 4M1080
+234*played*0
+235*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000064
+235*title*CCTV5 4M1080
+235*played*0
+236*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000246
+236*title*CCTV5+ 4M1080
+236*played*0
+237*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000065
+237*title*CCTV6 4M1080
+237*played*0
+238*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000127
+238*title*CCTV7 4M1080
+238*played*0
+239*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000066
+239*title*CCTV8 4M1080
+239*played*0
+240*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000128
+240*title*CCTV9 4M1080
+240*played*0
+241*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000130
+241*title*CCTV10 4M1080
+241*played*0
+242*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000129
+242*title*CCTV11 4M1080
+242*played*0
+243*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000067
+243*title*CCTV13 4M1080
+243*played*0
+244*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000132
+244*title*CCTV14 4M1080
+244*played*0
+245*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000133
+245*title*CCTV15 4M1080
+245*played*0
+246*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000204
+246*title*CCTV17 4M1080
+246*played*0
+247*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000135
+247*title*中国教育1 4M1080
+247*played*0
+248*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000093
+248*title*东方卫视 4M1080
+248*played*0
+249*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000083
+249*title*北京卫视 4M1080
+249*played*0
+250*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000097
+250*title*吉林卫视 4M1080
+250*played*0
+251*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000103
+251*title*四川卫视 4M1080
+251*played*0
+252*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000084
+252*title*天津卫视 4M1080
+252*played*0
+253*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000096
+253*title*安徽卫视 4M1080
+253*played*0
+254*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000099
+254*title*山东卫视 4M1080
+254*played*0
+255*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000092
+255*title*广东卫视 4M1080
+255*played*0
+256*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000116
+256*title*广西卫视 4M1080
+256*played*0
+257*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000085
+257*title*江苏卫视 4M1080
+257*played*0
+258*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000098
+258*title*江西卫视 4M1080
+258*played*0
+259*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000108
+259*title*河北卫视 4M1080
+259*played*0
+260*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000094
+260*title*浙江卫视 4M1080
+260*played*0
+261*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000100
+261*title*深圳卫视 4M1080
+261*played*0
+262*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000102
+262*title*湖北卫视 4M1080
+262*played*0
+263*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000086
+263*title*湖南卫视 4M1080
+263*played*0
+264*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000101
+264*title*贵州卫视 4M1080
+264*played*0
+265*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000058
+265*title*辽宁卫视 4M1080
+265*played*0
+266*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000107
+266*title*重庆卫视 4M1080
+266*played*0
+267*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000095
+267*title*黑龙江卫视 4M1080
+267*played*0
+268*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000294
+268*title*Hot风尚音乐 2M1080
+268*played*0
+269*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000113
+269*title*北京冬奥纪实 4M1080
+269*played*0
+270*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000077
+270*title*辽宁公共 8M1080
+270*played*0
+271*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000076
+271*title*辽宁经济 8M1080
+271*played*0
+272*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000273
+272*title*大连新闻综合 4M1080
+272*played*0
+273*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000059
+273*title*沈阳新闻综合 4M1080
+273*played*0
+274*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000274
+274*title*鞍山新闻综合 4M1080
+274*played*0
+275*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000177
+275*title*CCTV世界地理 576
+275*played*0
+276*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000176
+276*title*CCTV女性时尚 576
+276*played*0
+277*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000178
+277*title*CCTV文化精品 576
+277*played*0
+278*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000164
+278*title*CCTV电视指南 576
+278*played*0
+279*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000310
+279*title*CCTV证券资讯 576
+279*played*0
+280*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000134
+280*title*CGTN 576
+280*played*0
+281*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000305
+281*title*CGTN 576
+281*played*0
+282*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000309
+282*title*CGTN俄语 576
+282*played*0
+283*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000307
+283*title*CGTN法语 576
+283*played*0
+284*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000306
+284*title*CGTN西语 576
+284*played*0
+285*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000308
+285*title*CGTN阿语 576
+285*played*0
+286*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000160
+286*title*中国天气 576
+286*played*0
+287*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000151
+287*title*中央新影发现之旅 576
+287*played*0
+288*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000218
+288*title*中央新影新科动漫 576
+288*played*0
+289*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000166
+289*title*中央新影老故事 576
+289*played*0
+290*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000115
+290*title*云南卫视 576
+290*played*0
+291*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000110
+291*title*内蒙古卫视 576
+291*played*0
+292*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000118
+292*title*宁夏卫视 576
+292*played*0
+293*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000109
+293*title*山西卫视 576
+293*played*0
+294*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000150
+294*title*新疆卫视 576
+294*played*0
+295*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000104
+295*title*河南卫视 576
+295*played*0
+296*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000119
+296*title*甘肃卫视 576
+296*played*0
+297*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000121
+297*title*西藏卫视 576
+297*played*0
+298*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000114
+298*title*陕西卫视 576
+298*played*0
+299*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000117
+299*title*吉林延边卫视 576
+299*played*0
+300*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000112
+300*title*山东教育卫视 576
+300*played*0
+301*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000124
+301*title*新疆兵团卫视 576
+301*played*0
+302*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000139
+302*title*NNM家庭理财 576
+302*played*0
+303*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000140
+303*title*NNM新动漫 576
+303*played*0
+304*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000142
+304*title*NNM游戏竞技 576
+304*played*0
+305*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000143
+305*title*NNM电子体育 576
+305*played*0
+306*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000141
+306*title*NNM网络棋牌 576
+306*played*0
+307*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000162
+307*title*SiTV法治天地 576
+307*played*0
+308*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000106
+308*title*北京卡酷少儿 404
+308*played*0
+309*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000237
+309*title*吉林篮球 576
+309*played*0
+310*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000155
+310*title*山东收藏天下 576
+310*played*0
+311*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000231
+311*title*江苏财富天下 576
+311*played*0
+312*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000179
+312*title*江苏靓妆 576
+312*played*0
+313*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000175
+313*title*江西陶瓷 576
+313*played*0
+314*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000165
+314*title*河南文物宝库 576
+314*played*0
+315*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000156
+315*title*湖北休闲指南 576
+315*played*0
+316*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000182
+316*title*湖南武术世界 576
+316*played*0
+317*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000181
+317*title*湖南茶频道 576
+317*played*0
+318*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000105
+318*title*湖南金鹰卡通 576
+318*played*0
+319*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000167
+319*title*甘肃家政 576
+319*played*0
+320*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000144
+320*title*贵州天元围棋 576
+320*played*0
+321*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000222
+321*title*贵州摄影 576
+321*played*0
+322*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000158
+322*title*中华特产 576
+322*played*0
+323*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000180
+323*title*书画频道 576
+323*played*0
+324*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000153
+324*title*北广优优宝贝 576
+324*played*0
+325*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000229
+325*title*北广四海钓鱼 576
+325*played*0
+326*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000146
+326*title*北广车迷 576
+326*played*0
+327*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000187
+327*title*北方导视 576
+327*played*0
+328*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000169
+328*title*国学频道 576
+328*played*0
+329*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000147
+329*title*环球旅游 576
+329*played*0
+330*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000149
+330*title*生态环境 576
+330*played*0
+331*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000168
+331*title*重庆汽摩 576
+331*played*0
+332*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000072
+332*title*辽宁体育 576
+332*played*0
+333*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000071
+333*title*辽宁北方 576
+333*played*0
+334*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000070
+334*title*辽宁影视剧 576
+334*played*0
+335*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000075
+335*title*辽宁教育青少 576
+335*played*0
+336*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000073
+336*title*辽宁生活 576
+336*played*0
+337*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000068
+337*title*辽宁都市 576
+337*played*0
+338*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000280
+338*title*辽阳新闻综合 576
+338*played*0
+339*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000276
+339*title*丹东新闻综合 576
+339*played*0
+340*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000275
+340*title*抚顺综合 576
+340*played*0
+341*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000282
+341*title*朝阳新闻综合 576
+341*played*0
+342*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000312
+342*title*本溪综合 576
+342*played*0
+343*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000283
+343*title*盘锦新闻综合 576
+343*played*0
+344*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000278
+344*title*营口新闻综合 576
+344*played*0
+345*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000284
+345*title*葫芦岛新闻综合 576
+345*played*0
+346*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000281
+346*title*铁岭新闻综合 576
+346*played*0
+347*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000277
+347*title*锦州新闻综合 576
+347*played*0
+348*file*http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000279
+348*title*阜新综合 576
+348*played*0
+349*file*http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/hnwshd/2300000/mnf.m3u8
+349*title*湖南卫视
+349*played*0
+350*file*http://cloudplay.tk/api/ad.php?id=hunws
+350*title*湖南卫视
+350*played*0
+351*file*http://cloudplay.tk/api/hntv.php?id=hnws
+351*title*湖南卫视
+351*played*0
+352*file*http://cloudplay.tk/api/hntv.php?id=hnly
+352*title*湖南娱乐
+352*played*0
+353*file*http://yd-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
+353*title*浙江卫视
+353*played*0
+354*file*http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/zjwshd/2300000/mnf.m3u8
+354*title*浙江卫视
+354*played*0
+355*file*http://cloudplay.tk/api/hntv.php?id=zjws
+355*title*浙江卫视
+355*played*0
+356*file*http://yd-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+356*title*浙江国际
+356*played*0
+357*file*http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/jswshd/2300000/mnf.m3u8
+357*title*江苏卫视
+357*played*0
+358*file*http://cloudplay.tk/api/hntv.php?id=jsws
+358*title*江苏卫视
+358*played*0
+359*file*http://cloudplay.tk/api/hntv.php?id=dnws
+359*title*东南卫视
+359*played*0
+360*file*http://cloudplay.tk/api/hntv.php?id=hbws
+360*title*湖北卫视
+360*played*0
+361*file*http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/dfwshd/2300000/mnf.m3u8
+361*title*东方卫视
+361*played*0
+362*file*http://cloudplay.tk/api/hntv.php?id=dfws
+362*title*东方卫视
+362*played*0
+363*file*http://cloudplay.tk/api/hntv.php?id=hljws
+363*title*黑龙江卫视
+363*played*0
+364*file*http://cloudplay.tk/api/hntv.php?id=jllq
+364*title*吉林篮球
+364*played*0
+365*file*http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/gdwshd/2300000/mnf.m3u8
+365*title*广东卫视
+365*played*0
+366*file*http://cloudplay.tk/api/gdtv.php?id=gdws
+366*title*广东卫视
+366*played*0
+367*file*http://120.237.254.197/nclive.grtn.cn/zjpd/sd/live.m3u8
+367*title*广东珠江
+367*played*0
+368*file*http://cloudplay.tk/api/gdtv.php?id=gdzj
+368*title*广东珠江
+368*played*0
+369*file*http://cloudplay.tk/api/gdtv.php?id=gdys
+369*title*广东影视
+369*played*0
+370*file*http://cloudplay.tk/api/gdtv.php?id=nfws
+370*title*南方卫视
+370*played*0
+371*file*http://cloudplay.tk/api/gdtv.php?id=gdgg
+371*title*广东公共
+371*played*0
+372*file*http://cloudplay.tk/api/gdtv.php?id=gdxw
+372*title*广东新闻
+372*played*0
+373*file*http://cloudplay.tk/api/gdtv.php?id=gdty
+373*title*广东体育
+373*played*0
+374*file*http://dslive.grtn.cn/zhzh/sd/live.m3u8
+374*title*珠海1
+374*played*0
+375*file*http://cloudplay.tk/api/gdtv.php?id=mmzz
+375*title*茂名综合
+375*played*0
+376*file*http://cloudplay.tk/api/gdtv.php?id=hyzh
+376*title*河源综合
+376*played*0
+377*file*http://cloudplay.tk/api/gdtv.php?id=szds
+377*title*深圳都市
+377*played*0
+378*file*http://cloudplay.tk/api/gdtv.php?id=lnxq
+378*title*岭南戏曲
+378*played*0
+379*file*http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/bjwshd/2300000/mnf.m3u8
+379*title*北京卫视
+379*played*0
+380*file*http://cloudplay.tk/api/gdtv.php?id=bjws
+380*title*北京卫视
+380*played*0
+381*file*http://cloudplay.tk/api/gdtv.php?id=cctv1
+381*title*CCTV1
+381*played*0
+382*file*http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/cctv6hd/2300000/mnf.m3u8
+382*title*CCTV6
+382*played*0
+383*file*http://cloudplay.tk/api/gdtv.php?id=szyl
+383*title*深圳娱乐
+383*played*0
+384*file*http://cloudplay.tk/api/gdtv.php?id=fszh
+384*title*佛山综合
+384*played*0
+385*file*http://cloudplay.tk/api/gdtv.php?id=fsgg
+385*title*佛山公共
+385*played*0
+386*file*http://cloudplay.tk/api/gdtv.php?id=szdsj
+386*title*深圳电视剧
+386*played*0
+387*file*http://cloudplay.tk/api/gdtv.php?id=zhzh
+387*title*珠海综合
+387*played*0
+388*file*http://cloudplay.tk/api/zztv.php?id=hnws
+388*title*河南卫视
+388*played*0
+389*file*http://cloudplay.tk/api/gdtv.php?id=hnws
+389*title*河南卫视
+389*played*0
+390*file*http://stream1.jlntv.cn/ggpd/sd/live.m3u8
+390*title*吉林公共
+390*played*0
+391*file*http://scgctvshow.sctv.com/hdlive/sctv4/1.m3u8
+391*title*四川新闻
+391*played*0
+392*file*https://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
+392*title*凤凰卫视
+392*played*0
+393*file*http://cloudplay.tk/api/fhx.php?=fhhk
+393*title*凤凰香港
+393*played*0
+394*file*http://cloudplay.tk/api/fhx.php?=fhzw
+394*title*凤凰中文
+394*played*0
+395*file*https://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
+395*title*凤凰资讯
+395*played*0
+396*file*http://cloudplay.tk/api/fhx.php?=fhzx
+396*title*凤凰资讯
+396*played*0
+397*file*http://125.210.152.18:9090/live/FHZX_1200.m3u8
+397*title*凤凰资讯
+397*played*0
+398*file*http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+398*title*澳视卫视
+398*played*0
+399*file*http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+399*title*澳视葡文台
+399*played*0
+400*file*http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+400*title*澳视卫视台
+400*played*0
+401*file*http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
+401*title*澳视卫视台
+401*played*0
+402*file*http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
+402*title*澳视资讯台
+402*played*0
+403*file*http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+403*title*澳门台
+403*played*0
+404*file*https://cdn.hkdtmb.com/hls/99/index.m3u8
+404*title*ViuTV
+404*played*0
+405*file*https://cdn.hkdtmb.com/hls/96/index.m3u8
+405*title*ViuTV Six
+405*played*0
+406*file*http://116.199.5.52:8114/00000000/index.m3u8?&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;FvSeid=5abd1660af1babb4&amp;Fsv_filetype=1&amp;Fsv_ctype=LIVES&amp;Fsv_cid=0&amp;Fsv_chan_hls_se_idx=233&amp;Fsv_rate_id=2&amp;Fsv_SV_PARAM1=0&amp;Fsv_ShiftEnable=0&amp;Fsv_ShiftTsp=0&amp;Provider_id=&amp;Pcontent_id=&amp;Fsv_CMSID=&amp;Fsv_otype=1
+406*title*星空卫视
+406*played*0
+407*file*https://cdn.hkdtmb.com/hls/31/index.m3u8
+407*title*RHK 31
+407*played*0
+408*file*https://cdn.hkdtmb.com/hls/32/index.m3u8
+408*title*RHK 32
+408*played*0
+409*file*https://cdn.hkdtmb.com/hls/33/index.m3u8
+409*title*RHK 33
+409*played*0
+410*file*https://cdn.hkdtmb.com/hls/81/index.m3u8
+410*title*翡翠台
+410*played*0
+411*file*http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
+411*title*翡翠台
+411*played*0
+412*file*http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
+412*title*翡翠台
+412*played*0
+413*file*http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=0&amp;Pcontent_id=8114.m3u8J2台,https://cdn.hkdtmb.com/hls/82/index.m3u8
+413*title*翡翠台
+413*played*0
+414*file*https://cdn.hkdtmb.com/hls/84/index.m3u8
+414*title*明珠台
+414*played*0
+415*file*https://cdn.hkdtmb.com/hls/85/index.m3u8
+415*title*無綫財經·資訊台
+415*played*0
+416*file*https://cdn.hkdtmb.com/hls/83/index.m3u8
+416*title*無綫新聞台
+416*played*0
+417*file*https://cdn.hkdtmb.com/hls/77/index.m3u8
+417*title*香港開電視
+417*played*0
+418*file*https://cdn.hkdtmb.com/hls/76/index.m3u8
+418*title*香港國際財經台
+418*played*0
+419*file*https://cdn.hkdtmb.com/hls/hkanime_song/index.m3u8
+419*title*HKanime 粵語悸動音樂台
+419*played*0
+420*file*https://cdn.hkdtmb.com/hls/hkanimal/index.m3u8
+420*title*HKanime 粵配動物實況台
+420*played*0
+421*file*http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+421*title*香港卫视
+421*played*0
+422*file*http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+422*title*香港卫视
+422*played*0
+423*file*http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+423*title*耀才財經
+423*played*0
+424*file*http://61.244.22.4/ch3/_definst_/ch3.live/chunklist_w248237998.m3u8
+424*title*澳门
+424*played*0
+425*file*http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+425*title*大立
+425*played*0
+426*file*https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+426*title*大愛1
+426*played*0
+427*file*https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+427*title*大愛2
+427*played*0
+428*file*https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+428*title*大愛海外
+428*played*0
+429*file*http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+429*title*亚美卫视
+429*played*0
+430*file*http://stream.tvtap.live:8081/live/us-nbcback.stream/playlist.m3u8
+430*title*USA NBC
+430*played*0
+431*file*http://stream.tvtap.live:8081/live/us-abcnews.stream/playlist.m3u8
+431*title*USA ABC news
+431*played*0
+432*file*http://stream.tvtap.live:8081/live/us-cnbc.stream/playlist.m3u8
+432*title*USA CNBC
+432*played*0
+433*file*https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+433*title*USA CBSN
+433*played*0
+434*file*http://live.chdrstatic.com/cbn/primary/3.m3u8
+434*title*USA Cheddar news
+434*played*0
+435*file*http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+435*title*USA Bowie TV
+435*played*0
+436*file*http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+436*title*USA Denver 8 TV
+436*played*0
+437*file*http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+437*title*USA Newsmax TV
+437*played*0
+438*file*http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+438*title*USA CBS news（Opt-1）
+438*played*0
+439*file*http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+439*title*USA Fox news
+439*played*0
+440*file*http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+440*title*USA Bloomberg
+440*played*0
+441*file*http://www.30a-tv.com/InvPit.m3u8
+441*title*30A Investment Pitch
+441*played*0
+442*file*http://30a-tv.com/music.m3u8
+442*title*30A Music
+442*played*0
+443*file*http://30a-tv.com/sidewalks.m3u8
+443*title*30A Sidewalks
+443*played*0
+444*file*http://30a-tv.com/my999.m3u8
+444*title*30A TV
+444*played*0
+445*file*https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+445*title*3ABN KIDS TV
+445*played*0
+446*file*http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
+446*title*3ABN Latino
+446*played*0
+447*file*https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
+447*title*3ABN Latino
+447*played*0
+448*file*https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
+448*title*7News Boston (WHDH)
+448*played*0
+449*file*http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+449*title*ABC 2 Baton Rouge LA (WBRZ-HD)
+449*played*0
+450*file*https://video.blivenyc.com/broadcast/2061/22/file-858k.m3u8
+450*title*AKC TV
+450*played*0
+451*file*https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8
+451*title*AKC TV
+451*played*0
+452*file*https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+452*title*AKC TV
+452*played*0
+453*file*http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8
+453*title*Al Horreya TV
+453*played*0
+454*file*http://media.smc-host.com:1935/alhorreya.tv/_definst_mp4:alhorreya3/playlist.m3u8
+454*title*Al Horreya TV
+454*played*0
+455*file*http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
+455*title*Aliento Vision
+455*played*0
+456*file*http://170.178.189.66:1935/live/Stream1/.m3u8
+456*title*American Horrors
+456*played*0
+457*file*http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+457*title*American Horrors
+457*played*0
+458*file*http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
+458*title*Beach TV (CSULB)
+458*played*0
+459*file*https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8
+459*title*Beauty IQ
+459*played*0
+460*file*http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+460*title*Beto TV
+460*played*0
+461*file*http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
+461*title*Better Health TV
+461*played*0
+462*file*http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
+462*title*Better Life TV
+462*played*0
+463*file*http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+463*title*Better Nature TV
+463*played*0
+464*file*http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
+464*title*Bible Explorations
+464*played*0
+465*file*https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
+465*title*BlazeTV
+465*played*0
+466*file*http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+466*title*Bloomberg TV
+466*played*0
+467*file*https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+467*title*Bloomberg TV Europe
+467*played*0
+468*file*http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+468*title*Bowie TV
+468*played*0
+469*file*http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+469*title*BUTV10 (Boston University)
+469*played*0
+470*file*http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
+470*title*byu TV
+470*played*0
+471*file*https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+471*title*C-Span
+471*played*0
+472*file*https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
+472*title*C-Span 2
+472*played*0
+473*file*https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
+473*title*C-Span 3
+473*played*0
+474*file*http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
+474*title*Catholic TV
+474*played*0
+475*file*https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
+475*title*CBN News
+475*played*0
+476*file*http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+476*title*CBSN
+476*played*0
+477*file*http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
+477*title*CBSN
+477*played*0
+478*file*https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8
+478*title*CBSN
+478*played*0
+479*file*http://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8
+479*title*CC-TV (Charlotte County)
+479*played*0
+480*file*http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+480*title*CCX1
+480*played*0
+481*file*http://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8
+481*title*Cerritos TV3
+481*played*0
+482*file*http://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
+482*title*CGTV
+482*played*0
+483*file*http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w884806316.m3u8
+483*title*Christian Youth Channel
+483*played*0
+484*file*https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+484*title*CMC-USA
+484*played*0
+485*file*https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+485*title*CNBC TV18
+485*played*0
+486*file*https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
+486*title*CNBC TV18
+486*played*0
+487*file*http://media.smc-host.com:1935/csat.tv/smil:csat.smil/chunklist_w1421926306_b692000_slar_t64SEQ=.m3u8
+487*title*CSat TV
+487*played*0
+488*file*http://video.oct.dc.gov/out/u/15_12.m3u8
+488*title*DC Council Channel
+488*played*0
+489*file*http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+489*title*Denver 8 TV
+489*played*0
+490*file*http://video.oct.dc.gov/out/u/DCN.m3u8
+490*title*District of Columbia Network
+490*played*0
+491*file*http://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
+491*title*Divine Vision
+491*played*0
+492*file*http://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8
+492*title*Dr. Gene Scott
+492*played*0
+493*file*https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
+493*title*ESNE TV
+493*played*0
+494*file*http://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8
+494*title*Fairfax Public Access
+494*played*0
+495*file*http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
+495*title*Folk TV
+495*played*0
+496*file*https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8
+496*title*Galveston County TV
+496*played*0
+497*file*https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8
+497*title*Glendale 11
+497*played*0
+498*file*http://live-h1.frontlayer.net/fl592468/live/chunks.m3u8
+498*title*Globesville (New York Institute of Technology)
+498*played*0
+499*file*https://zypelive-lh.akamaihd.net/i/default_1@710958/master.m3u8
+499*title*GOD TV
+499*played*0
+500*file*https://a.jsrdn.com/broadcast/d5b48/+0000/low/c.m3u8
+500*title*Honor TV
+500*played*0
+501*file*http://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8
+501*title*Inspiration TV
+501*played*0
+502*file*http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
+502*title*Ion 8 Christiansted VI (WSVI-TV)
+502*played*0
+503*file*http://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/master.m3u8
+503*title*ISN
+503*played*0
+504*file*http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
+504*title*JBS
+504*played*0
+505*file*http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
+505*title*Jewish Life TV
+505*played*0
+506*file*http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8
+506*title*Leominster TV Educational
+506*played*0
+507*file*http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8
+507*title*Leominster TV Government
+507*played*0
+508*file*http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8
+508*title*Leominster TV Public
+508*played*0
+509*file*http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8
+509*title*Lex TV
+509*played*0
+510*file*http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
+510*title*LifevisionTV
+510*played*0
+511*file*https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+511*title*Miami TV
+511*played*0
+512*file*https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+512*title*Movie Kingdom
+512*played*0
+513*file*http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
+513*title*NBC 15 Madison WI (WMTVNBC)
+513*played*0
+514*file*https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+514*title*Newsmax TV
+514*played*0
+515*file*https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_288.m3u8
+515*title*Newsmax TV
+515*played*0
+516*file*https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+516*title*Newsmax TV
+516*played*0
+517*file*http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
+517*title*NewsNet
+517*played*0
+518*file*https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+518*title*Newsy
+518*played*0
+519*file*http://granicusliveus12-a.akamaihd.net/olelo/G0125_009/chunklist.m3u8
+519*title*Olelo 49
+519*played*0
+520*file*http://granicusliveus12-a.akamaihd.net/olelo/G0125_011/chunklist.m3u8
+520*title*Olelo 53
+520*played*0
+521*file*http://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8
+521*title*Olelo 54
+521*played*0
+522*file*http://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8
+522*title*Olelo 55
+522*played*0
+523*file*http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+523*title*Orange TV
+523*played*0
+524*file*http://iptv.tapesh.tv/tapesh/playlist.m3u8
+524*title*PBC Tapesh TV
+524*played*0
+525*file*https://lsqvc1uscln-lh.akamaihd.net/i/lsqvc1uscln_01@809410/master.m3u8
+525*title*QVC
+525*played*0
+526*file*https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8
+526*title*QVC 2
+526*played*0
+527*file*https://lsqvc3us-lh.akamaihd.net/i/lsqvc3us_01@809459/master.m3u8
+527*title*QVC 3
+527*played*0
+528*file*http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+528*title*Radio y Televisión Martí
+528*played*0
+529*file*http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+529*title*Red Bull TV
+529*played*0
+530*file*http://rtv.cdn.mangomolo.com/rtv/smil:switch.smil/playlist.m3u8
+530*title*Revelation TV
+530*played*0
+531*file*http://18.191.91.130:1935/live/safetv/playlist.m3u8
+531*title*SafeTV
+531*played*0
+532*file*http://sonlife7-i.akamaihd.net/hls/live/585011/ch7/master.m3u8
+532*title*SBN
+532*played*0
+533*file*http://sonlife10-i.akamaihd.net/hls/live/585013/ch10/master.m3u8
+533*title*SBN Global
+533*played*0
+534*file*https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+534*title*Screamfest
+534*played*0
+535*file*https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+535*title*Stadium
+535*played*0
+536*file*http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+536*title*SubRang TV
+536*played*0
+537*file*http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+537*title*TBD
+537*played*0
+538*file*http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&amp;exp=1614631202&amp;rn=614441536&amp;ct=c&amp;cid=1831163f97674328ad9f4b4814ed39c5&amp;ad=comet&amp;ad.adUnit=%2FTBD%2FLivestream_midroll&amp;ad._debug=TBDNET_ssai_livestream_midroll&amp;ad.ad_rule=1&amp;ad.pmad=12&amp;ad.output=xml_vmap1&amp;sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+538*title*TBD
+538*played*0
+539*file*https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
+539*title*Telemundo 44
+539*played*0
+540*file*https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
+540*title*The 360 Channel
+540*played*0
+541*file*https://link.frontlayer.com/services/hls2/fl619843/index.m3u8
+541*title*The Now Network
+541*played*0
+542*file*http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+542*title*The Shopping Channel
+542*played*0
+543*file*https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+543*title*The Shopping Channel
+543*played*0
+544*file*http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+544*title*The Southeastern Channel
+544*played*0
+545*file*http://rtmp1.abnsat.com/hls/trinity.m3u8
+545*title*Trinity Channel
+545*played*0
+546*file*http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+546*title*TSTV
+546*played*0
+547*file*http://68.235.37.11:1935/uncion24/Uncion24/playlist.m3u8
+547*title*Uncion 24
+547*played*0
+548*file*http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8
+548*title*Victory Television Network
+548*played*0
+549*file*https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+549*title*VoA TV
+549*played*0
+550*file*http://worcester.vod.castus.tv/live/ch1.m3u8
+550*title*WCCA-TV (Worcester)
+550*played*0
+551*file*http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
+551*title*White Plains Community Media
+551*played*0
+552*file*http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
+552*title*WSJ
+552*played*0
+553*file*http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
+553*title*Xcorps TV
+553*played*0
+554*file*http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+554*title*Sardari TV
+554*played*0
+555*file*http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+555*title*TAG TV
+555*played*0
+556*file*http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+556*title*Tamil Vision TV
+556*played*0
+557*file*http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+557*title*Toronto 360
+557*played*0
+558*file*http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w530158239_b1228800.m3u8
+558*title*VBS
+558*played*0
+559*file*http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+559*title*CAN CBC News (VOD)
+559*played*0
+560*file*http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+560*title*CAN CBS
+560*played*0
+561*file*https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+561*title*JP 24h news
+561*played*0
+562*file*http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+562*title*Korea Central
+562*played*0
+563*file*http://tbs.hscdn.com/tbstvweb/tbstv/playlist.m3u8
+563*title*Kr TBS
+563*played*0
+564*file*http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+564*title*Kr EBS 1
+564*played*0
+565*file*http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
+565*title*Kr KCTV
+565*played*0
+566*file*http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+566*title*Kr KOREA YTN
+566*played*0
+567*file*http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+567*title*Kr EBS 1
+567*played*0
+568*file*http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+568*title*Kr EBS 2
+568*played*0
+569*file*http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+569*title*Kr EBS +1
+569*played*0
+570*file*http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+570*title*Kr EBS +2
+570*played*0
+571*file*http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
+571*title*Kr EBS E
+571*played*0
+572*file*http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+572*title*Kr EBS child
+572*played*0
+573*file*http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+573*title*Kr WORLDworld
+573*played*0
+574*file*http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+574*title*Kr WORLD
+574*played*0
+575*file*http://1.245.74.5:1935/live/tv/.m3u8
+575*title*Kr TJB SBS
+575*played*0
+576*file*http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+576*title*亚洲新闻
+576*played*0
+577*file*http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+577*title*法国Francophonie 24
+577*played*0
+578*file*http://ios-stream.qvc.de/qvc.m3u8
+578*title*德国QVC
+578*played*0
+579*file*http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+579*title*意大利m20电视
+579*played*0
+580*file*http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+580*title*意大利意大利广播电视台
+580*played*0
+581*file*http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+581*title*意大利SuperTV
+581*played*0
+582*file*http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+582*title*意大利TVRS
+582*played*0
+583*file*http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
+583*title*意大利影片卡拉布里亚
+583*played*0
+584*file*http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8
+584*title*西班牙运河（已更新）
+584*played*0
+585*file*http://europa-crtvg.flumotion.com/playlist.m3u8
+585*title*西班牙加利西亚欧洲电视台
+585*played*0
+586*file*http://rtmp.one.by:1200
+586*title*俄罗斯第一音乐（Opt-3）
+586*played*0
+587*file*http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+587*title*俄罗斯Krasnaja Linija
+587*played*0
+588*file*http://w4.mostvideo.tv/tv/ch1.m3u8
+588*title*俄罗斯大多数视频电视1
+588*played*0
+589*file*http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+589*title*俄罗斯Muz Sojuz
+589*played*0
+590*file*http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+590*title*俄罗斯Shanson TV（Opt-1）
+590*played*0
+591*file*http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+591*title*俄罗斯TRO联盟号
+591*played*0
+592*file*http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
+592*title*俄罗斯乌格拉电视台
+592*played*0
+593*file*http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+593*title*波兰TV Kujawy（Opt-1）
+593*played*0
+594*file*http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
+594*title*丹麦TV2博恩霍尔姆
+594*played*0
+595*file*http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+595*title*比利时无线电联系102.2 FM布鲁塞尔
+595*played*0
+596*file*http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
+596*title*比利时RTL-TVI
+596*played*0
+597*file*http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
+597*title*喀麦隆Vision 4
+597*played*0
+598*file*http://livees.cgtn.com/1000e/prog_index.m3u8
+598*title*长期CGTN
+598*played*0
+599*file*http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+599*title*静止电视Marti
+599*played*0
+600*file*http://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
+600*title*墨西哥Uno电视（VOD）
+600*played*0
+601*file*http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+601*title*哥斯达黎加Extrema TV
+601*played*0
+602*file*http://stream.atr.ua/lale//live/index.m3u8
+602*title*乌克兰
+602*played*0
+603*file*http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
+603*title*静止电视8
+603*played*0
+604*file*http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
+604*title*拉脱维亚电视网
+604*played*0
+605*file*http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+605*title*希腊福克斯电视台
+605*played*0
+606*file*http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
+606*title*希腊爱奥尼亚海峡
+606*played*0
+607*file*http://abpasmita-lh.akamaihd.net:80/i/abpasmita_1@77821/master.m3u8
+607*title*印度ABP Asmita
+607*played*0
+608*file*http://iptv.rangarang.us/live/playlist.m3u8
+608*title*伊朗朗格朗电视台
+608*played*0
+609*file*http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+609*title*阿拉伯半岛电视新闻网Al Hurra
+609*played*0
+610*file*http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
+610*title*加纳电视非洲（加纳）
+610*played*0
+611*file*http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+611*title*俄罗斯红星电视
+611*played*0
+612*file*http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+612*title*俄罗斯Nastoyashcheye Vremya
+612*played*0
+613*file*http://92.50.128.180/utv/1358/index.m3u8
+613*title*俄罗斯RBC (Opt-1)
+613*played*0
+614*file*http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
+614*title*希腊LYXNOC
+614*played*0
+615*file*http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+615*title*希腊VOULI
+615*played*0
+616*file*http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+616*title*泰国THAIPBSHD
+616*played*0
+617*file*http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+617*title*伊拉克 Al Sharqiya
+617*played*0
+618*file*http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+618*title*伊拉克 Sharqiya News
+618*played*0
+619*file*http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+619*title*土耳其Cay TV
+619*played*0
+620*file*http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+620*title*狗狗宠物
+620*played*0
+621*file*http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+621*title*法国时尚
+621*played*0
+622*file*http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+622*title*以色列Keshet News
+622*played*0
+623*file*http://de1se01.v2beat.live/playlist.m3u8
+623*title*意大利V2 音乐频道
+623*played*0
+624*file*http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8?fluxustv.m3u8
+624*title*WSVI-TV
+624*played*0
+625*file*http://30a-tv.com/darcizzle.m3u8
+625*title*Darcizzle电视
+625*played*0
+626*file*http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+626*title*朝鲜中央台
+626*played*0
+627*file*http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+627*title*法国第五世界台
+627*played*0
+628*file*http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+628*title*法国时尚
+628*played*0
+629*file*http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
+629*title*YTN DMB
+629*played*0
+630*file*http://spacetv.in/stream/WUQP6BVK17/56.m3u8
+630*title*花花公子蒙古
+630*played*0
+631*file*http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+631*title*越南ANTVHD
+631*played*0
+632*file*http://live.cgtn.com/500/prog_index.m3u8
+632*title*CN CGTN (Opt-1)
+632*played*0
+633*file*http://live.cgtn.com/1000/prog_index.m3u8
+633*title*CN CGTN (Opt-2)
+633*played*0
+634*file*http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+634*title*红牛运动
+634*played*0
+635*file*http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+635*title*红牛运动
+635*played*0
+636*file*http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/2300000/mnf.m3u8
+636*title*魅力足球
+636*played*0
+637*file*http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8
+637*title*极速汽车
+637*played*0
+638*file*http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/xsjhd/2300000/mnf.m3u8
+638*title*新视觉体育
+638*played*0
+639*file*http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/2300000/mnf.m3u8
+639*title*劲爆体育
+639*played*0
+640*file*http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/2300000/mnf.m3u8
+640*title*CCTV-5+赛事
+640*played*0
+641*file*http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
+641*title*五星体育
+641*played*0
+642*file*http://cloudplay.tk/api/youku.php?id=8107367
+642*title*NBA经典解读
+642*played*0
+643*file*http://cloudplay.tk/api/douyu.php?id=8434598
+643*title*篮球人物
+643*played*0
+644*file*http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
+644*title*广东体育
+644*played*0
+645*file*http://61.244.22.5/ch4/sport_ch4.live/master.m3u8
+645*title*澳視體育
+645*played*0
+646*file*http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
+646*title*CCTV-5体育
+646*played*0
+647*file*http://stream1.jlntv.cn/lqpd/sd/live.m3u8
+647*title*吉林篮球
+647*played*0
+648*file*http://cloudplay.tk/api/bilibili.php?id=10375360
+648*title*蜡笔小新
+648*played*0
+649*file*http://txtest-xp2p.p2p.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1.xs
+649*title*蜡笔小新
+649*played*0
+650*file*http://cloudplay.tk/api/bilibili.php?id=1717236
+650*title*哆啦A梦
+650*played*0
+651*file*http://cloudplay.tk/api/bilibili.php?id=482946
+651*title*哆啦A梦
+651*played*0
+652*file*http://cloudplay.tk/api/bilibili.php?id=4700569
+652*title*奥特曼系列
+652*played*0
+653*file*http://cloudplay.tk/api/bilibili.php?id=10267370
+653*title*奥特曼系列
+653*played*0
+654*file*http://cloudplay.tk/api/bilibili.php?id=7076493
+654*title*奥特曼系列
+654*played*0
+655*file*http://cloudplay.tk/api/bilibili.php?id=3705472
+655*title*奥特曼系列
+655*played*0
+656*file*http://cloudplay.tk/api/bilibili.php?id=11765640
+656*title*樱桃小丸子
+656*played*0
+657*file*http://cloudplay.tk/api/bilibili.php?id=21614203
+657*title*樱桃小丸子
+657*played*0
+658*file*http://cloudplay.tk/api/douyu.php?id=7528160
+658*title*海绵宝宝
+658*played*0
+659*file*http://cloudplay.tk/api/egame.php?id=678706943
+659*title*海绵宝宝
+659*played*0
+660*file*http://cloudplay.tk/api/bilibili.php?id=1024814
+660*title*猫和老鼠
+660*played*0
+661*file*http://txtest-xp2p.p2p.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
+661*title*猫和老鼠
+661*played*0
+662*file*http://txtest-xp2p.p2p.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.xs
+662*title*七龙珠改
+662*played*0
+663*file*http://txtest-xp2p.p2p.huya.com/src/1423782053-1423782053-6115097354266738688-2847687562-10057-A-0-1.xs
+663*title*头文字D
+663*played*0
+664*file*http://txtest-xp2p.p2p.huya.com/src/1423787836-1423787836-6115122192062611456-2847699128-10057-A-0-1.xs
+664*title*成龙历险记
+664*played*0
+665*file*http://cloudplay.tk/api/douyu.php?id=7050342
+665*title*名侦探柯南
+665*played*0
+666*file*http://cloudplay.tk/api/egame.php?id=616512747
+666*title*名侦探柯南
+666*played*0
+667*file*http://cloudplay.tk/api/douyu.php?id=9489079
+667*title*齐木楠雄的灾难
+667*played*0
+668*file*http://cloudplay.tk/api/douyu.php?id=997925
+668*title*海贼王
+668*played*0
+669*file*http://cloudplay.tk/api/douyu.php?id=426517
+669*title*斗鱼动漫花园
+669*played*0
+670*file*http://cloudplay.tk/api/douyu.php?id=1174353
+670*title*【动漫】超燃 怀旧 经典
+670*played*0
+671*file*http://txtest-xp2p.p2p.huya.com/src/1099531752742-1099531752742-86436070803111936-2199063628940-10057-A-0-1.xs
+671*title*镇魂街
+671*played*0
+672*file*http://txtest-xp2p.p2p.huya.com/src/1199544083295-1199544083295-5361011297360019456-2399088290046-10057-A-0-1.xs
+672*title*虹猫蓝兔七侠传
+672*played*0
+673*file*http://183.207.255.190/live/program/live/dmxchd/4000000/mnf.m3u8
+673*title*动漫秀场
+673*played*0
+674*file*http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
+674*title*CCTV新科动漫
+674*played*0
+675*file*http://cloudplay.tk/api/gdtv.php?id=gdse
+675*title*广东少儿
+675*played*0
+676*file*http://cloudplay.tk/api/gdtv.php?id=szse
+676*title*深圳少儿
+676*played*0
+677*file*http://cloudplay.tk/api/gdtv.php?id=jjkt
+677*title*嘉佳卡通
+677*played*0
+678*file*http://183.207.255.190/live/program/live/hhxdhd/4000000/mnf.m3u8
+678*title*哈哈炫动
+678*played*0
+679*file*http://125.210.152.18:9090/live/XDKT.m3u8
+679*title*哈哈炫动
+679*played*0
+680*file*http://cloudplay.tk/api/gdtv.php?id=bjkk
+680*title*卡酷少儿
+680*played*0
+681*file*http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+681*title*南京少儿
+681*played*0
+682*file*http://live.hoolo.tv/hztv5/sd/live.m3u8
+682*title*杭州少儿
+682*played*0
+683*file*http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+683*title*浙江少儿
+683*played*0
+684*file*http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
+684*title*浙江少儿
+684*played*0
+685*file*http://yd-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+685*title*浙江少儿
+685*played*0
+686*file*http://yd-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
+686*title*浙江少儿
+686*played*0
+687*file*http://stream.appwuhan.com/7tzb/sd/live.m3u8
+687*title*武汉少儿
+687*played*0
+688*file*http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+688*title*福州少儿
+688*played*0
+689*file*http://live2.sxrtv.com/flvss?bitrate=800000&amp;channel=Shan1XiChild
+689*title*山西少儿
+689*played*0
+690*file*http://txtest-xp2p.p2p.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.xs
+690*title*埋堆堆官方
+690*played*0
+691*file*http://txtest-xp2p.p2p.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.xs
+691*title*周星驰电影
+691*played*0
+692*file*http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
+692*title*吴孟达电影
+692*played*0
+693*file*http://txtest-xp2p.p2p.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.xs
+693*title*刘德华电影
+693*played*0
+694*file*http://txtest-xp2p.p2p.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.xs
+694*title*李小龙电影
+694*played*0
+695*file*http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
+695*title*李连杰电影
+695*played*0
+696*file*http://txtest-xp2p.p2p.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.xs
+696*title*周润发电影
+696*played*0
+697*file*http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.xs
+697*title*成龙电影
+697*played*0
+698*file*http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
+698*title*林正英电影
+698*played*0
+699*file*http://txtest-xp2p.p2p.huya.com/src/1524434070-1524434070-6547394475558174720-3048991596-10057-A-0-1.xs
+699*title*许氏电影
+699*played*0
+700*file*http://cloudplay.tk/api/bilibili.php?id=21759196
+700*title*邵氏电影1
+700*played*0
+701*file*http://cloudplay.tk/api/douyu.php?id=4246519
+701*title*邵氏电影2
+701*played*0
+702*file*http://txtest-xp2p.p2p.huya.com/src/1420969427-1420969427-6103017217580859392-2847687524-10057-A-0-1.xs
+702*title*葛优电影
+702*played*0
+703*file*http://txtest-xp2p.p2p.huya.com/src/1423782061-1423782061-6115097388626477056-2847687578-10057-A-0-1.xs
+703*title*姜文电影
+703*played*0
+704*file*http://txtest-xp2p.p2p.huya.com/src/1448737849-1448737849-6222281681932386304-2847687520-10057-A-0-1.xs
+704*title*黄渤电影
+704*played*0
+705*file*http://txtest-xp2p.p2p.huya.com/src/1524434091-1524434091-6547394565752487936-3048991638-10057-A-0-1.xs
+705*title*杰森斯坦森电影
+705*played*0
+706*file*http://txtest-xp2p.p2p.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.xs
+706*title*漫威宇宙电影
+706*played*0
+707*file*http://txtest-xp2p.p2p.huya.com/src/1099531752754-1099531752754-86436122342719488-2199063628964-10057-A-0-1.xs
+707*title*生活大爆炸
+707*played*0
+708*file*http://txtest-xp2p.p2p.huya.com/src/1099531752748-1099531752748-86436096572915712-2199063628952-10057-A-0-1.xs
+708*title*生化危机系列
+708*played*0
+709*file*http://cloudplay.tk/api/bilibili.php?id=10174580
+709*title*终极系列
+709*played*0
+710*file*http://txtest-xp2p.p2p.huya.com/src/1423782074-1423782074-6115097444461051904-2847687604-10057-A-0-1.xs
+710*title*死神来了系列
+710*played*0
+711*file*http://txtest-xp2p.p2p.huya.com/src/1423782074-1423782074-6115097444461051904-2847687604-10057-A-0-1.xs
+711*title*电锯惊魂系列
+711*played*0
+712*file*http://txtest-xp2p.p2p.huya.com/src/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1.xs
+712*title*女神系列 邱淑贞 王祖贤 张曼玉
+712*played*0
+713*file*http://txtest-xp2p.p2p.huya.com/src/1524418070-1524418070-6547325756081438720-3048959596-10057-A-0-1.xs
+713*title*搞笑鬼片系列
+713*played*0
+714*file*http://txtest-xp2p.p2p.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.xs
+714*title*中国功夫系列
+714*played*0
+715*file*http://txtest-xp2p.p2p.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.xs
+715*title*五福星系列
+715*played*0
+716*file*http://txtest-xp2p.p2p.huya.com/src/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.xs
+716*title*古惑仔系列
+716*played*0
+717*file*http://cloudplay.tk/api/bilibili.php?id=21759196
+717*title*林正英[僵尸道长]高清修复
+717*played*0
+718*file*http://txtest-xp2p.p2p.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-0-1.xs
+718*title*香港黑帮系列
+718*played*0
+719*file*http://txtest-xp2p.p2p.huya.com/src/1394565211-1394565211-5989611973384339456-2789253878-10057-A-0-1.xs
+719*title*搞笑一家人[多源]
+719*played*0
+720*file*http://cloudplay.tk/api/douyu.php?id=5422706
+720*title*搞笑一家人[多源]
+720*played*0
+721*file*http://cloudplay.tk/api/douyu.php?id=7575350
+721*title*美剧【越狱】
+721*played*0
+722*file*http://txtest-xp2p.p2p.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.xs
+722*title*三国演义
+722*played*0
+723*file*http://cloudplay.tk/api/bilibili.php?id=21298611
+723*title*恶作剧之吻
+723*played*0
+724*file*http://cloudplay.tk/api/bilibili.php?id=15083950
+724*title*命中注定我爱你
+724*played*0
+725*file*http://cloudplay.tk/api/bilibili.php?id=21377115
+725*title*bilibli影音馆
+725*played*0
+726*file*http://cloudplay.tk/api/bilibili.php?id=21722603
+726*title*雍正王朝
+726*played*0
+727*file*http://cloudplay.tk/api/bilibili.php?id=21448296
+727*title*周星驰成龙林正英王晶刘德华洪金宝电影
+727*played*0
+728*file*http://cloudplay.tk/api/douyu.php?id=922564
+728*title*悍匪技术学院
+728*played*0
+729*file*http://cloudplay.tk/api/douyu.php?id=3637765
+729*title*【周末】港式动作 最新片单
+729*played*0
+730*file*http://cloudplay.tk/api/douyu.php?id=276200
+730*title*【蓝翔】下饭神剧
+730*played*0
+731*file*http://cloudplay.tk/api/douyu.php?id=85894
+731*title*【神乐】华语 经典 电影 刘德华 周星驰
+731*played*0
+732*file*http://cloudplay.tk/api/douyu.php?id=8921999
+732*title*【林正英】经典 僵尸 女鬼
+732*played*0
+733*file*http://cloudplay.tk/api/douyu.php?id=252802
+733*title*【贝爷影厅】经典 科幻 动作 灾难 巨兽
+733*played*0
+734*file*http://cloudplay.tk/api/douyu.php?id=20415
+734*title*欧美 科幻 经典
+734*played*0
+735*file*http://cloudplay.tk/api/douyu.php?id=96577
+735*title*鬼片 恐怖 惊悚
+735*played*0
+736*file*http://cloudplay.tk/api/douyu.php?id=218859
+736*title*【林正英】僵尸 女鬼 弹幕 护体
+736*played*0
+737*file*http://cloudplay.tk/api/douyu.php?id=4332
+737*title*【贝爷MAX厅】科幻 动作 经典
+737*played*0
+738*file*http://cloudplay.tk/api/douyu.php?id=747764
+738*title*【女神金】60帧 极致蓝光 刀刀陪看
+738*played*0
+739*file*http://cloudplay.tk/api/douyu.php?id=315457
+739*title*【香港赌片】喜剧、黑帮、动作、武侠、经典
+739*played*0
+740*file*http://cloudplay.tk/api/douyu.php?id=6566671
+740*title*粤语电影⭐周星驰 林正英 经典喜剧 白话
+740*played*0
+741*file*http://cloudplay.tk/api/douyu.php?id=260322
+741*title*孤独的美食家1
+741*played*0
+742*file*http://cloudplay.tk/api/douyu.php?id=6733133
+742*title*孤独的美食家2
+742*played*0
+743*file*http://cloudplay.tk/api/douyu.php?id=338759
+743*title*金庸武侠
+743*played*0
+744*file*http://cloudplay.tk/api/douyu.php?id=9067836
+744*title*小品相声
+744*played*0
+745*file*http://cloudplay.tk/api/douyu.php?id=1226741
+745*title*【粤语】吴孟达 达叔 周星驰 经典
+745*played*0
+746*file*http://cloudplay.tk/api/douyu.php?id=5033502
+746*title*【粤语】周星驰 林正英
+746*played*0
+747*file*http://cloudplay.tk/api/douyu.php?id=2466104
+747*title*【粤语频道】电影点播
+747*played*0
+748*file*http://cloudplay.tk/api/douyu.php?id=2337939
+748*title*老烟斗鬼故事
+748*played*0
+749*file*http://cloudplay.tk/api/douyu.php?id=610972
+749*title*都市夜魔人老王
+749*played*0
+750*file*http://cloudplay.tk/api/douyu.php?id=4400816
+750*title*讲故事的角马
+750*played*0
+751*file*http://cloudplay.tk/api/douyu.php?id=9174097
+751*title*英大吉来了
+751*played*0
+752*file*http://cloudplay.tk/api/douyu.php?id=9322175
+752*title*经典小品
+752*played*0
+753*file*http://txtest-xp2p.p2p.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.xs
+753*title*封神榜
+753*played*0
+754*file*http://txtest-xp2p.p2p.huya.com/src/1199561182641-1199561182641-5434452429213007872-2399122488738-10057-A-0-1.xs
+754*title*张卫健版西游记
+754*played*0
+755*file*http://txtest-xp2p.p2p.huya.com/src/1199563479483-1199563479483-5444317290487087104-2399127082422-10057-A-0-1.xs
+755*title*经典港片轮播
+755*played*0
+756*file*http://txtest-xp2p.p2p.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.xs
+756*title*TVB版西游记
+756*played*0
+757*file*http://txtest-xp2p.p2p.huya.com/src/1199561277724-1199561277724-5434860807588413440-2399122678904-10057-A-0-1.xs.flv
+757*title*TVB版济公
+757*played*0
+758*file*http://txtest-xp2p.p2p.huya.com/src/1199560576938-1199560576938-5431850954636918784-2399121277332-10057-A-0-1.xs
+758*title*马大帅
+758*played*0
+759*file*http://txtest-xp2p.p2p.huya.com/src/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.xs
+759*title*征服
+759*played*0
+760*file*http://txtest-xp2p.p2p.huya.com/src/1394565207-1394565207-5989611956204470272-2789253870-10057-A-0-1.xs
+760*title*各国赌片 搏一搏单车变摩托
+760*played*0
+761*file*http://txtest-xp2p.p2p.huya.com/src/1449597183-1449597183-6225972493358727168-2847687548-10057-A-0-1.xs
+761*title*童年回忆 贺岁喜剧
+761*played*0
+762*file*http://txtest-xp2p.p2p.huya.com/src/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.xs
+762*title*喜剧专场 看喜剧笑一笑吧
+762*played*0
+763*file*http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777071322-10057-A-0-1.xs
+763*title*Running Man
+763*played*0
+764*file*http://blanki.cf/api/bili.php?id=7298973
+764*title*Running Man
+764*played*0
+765*file*http://txtest-xp2p.p2p.huya.com/src/1199513205060-1199513205060-5228390287876816896-2399026533576-10057-A-0-1.xs
+765*title*1905电影网
+765*played*0
+766*file*http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
+766*title*周星星粤语经典版
+766*played*0
+767*file*http://txtest-xp2p.p2p.huya.com/src/1199564067003-1199564067003-5446840669672833024-2399128257462-10057-A-0-1.xs
+767*title*港剧大放送
+767*played*0
+768*file*http://txtest-xp2p.p2p.huya.com/src/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.xs
+768*title*黑帮大片 山鸡哥重现江湖
+768*played*0
+769*file*http://txtest-xp2p.p2p.huya.com/src/1099531752745-1099531752745-86436083688013824-2199063628946-10057-A-0-1.xs
+769*title*十万个冷笑话合集
+769*played*0
+770*file*http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789253862-10057-A-0-1.xs
+770*title*西游记张卫健版
+770*played*0
+771*file*http://txtest-xp2p.p2p.huya.com/src/1448738224-1448738224-6222283292545122304-2789253866-10057-A-0-1.xs
+771*title*陈小春版韦小宝
+771*played*0
+772*file*http://txtest-xp2p.p2p.huya.com/src/1449572975-1449572975-6225868520790425600-2789274544-10057-A-0-1.xs
+772*title*吐槽大会1
+772*played*0
+773*file*http://cloudplay.tk/api/douyu.php?id=9236042
+773*title*吐槽大会2
+773*played*0
+774*file*http://txtest-xp2p.p2p.huya.com/src/1449698986-1449698986-6226409733914361856-2847687634-10057-A-0-1.xs
+774*title*演技专场 来看爆表演技
+774*played*0
+775*file*http://txtest-xp2p.p2p.huya.com/src/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.xs
+775*title*喜剧专场 看喜剧笑一笑吧
+775*played*0
+776*file*http://txtest-xp2p.p2p.huya.com/src/1449698763-1449698763-6226408776136654848-2847699120-10057-A-0-1.xs
+776*title*万圣节惊魂 恐怖片
+776*played*0
+777*file*http://txtest-xp2p.p2p.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.xs
+777*title*TVB官方
+777*played*0
+778*file*http://txtest-xp2p.p2p.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.xs
+778*title*经典赛车系列
+778*played*0
+779*file*http://cloudplay.tk/api/yy.php?id=52870290
+779*title*YY宗玉师傅
+779*played*0
+780*file*http://txtest-xp2p.p2p.huya.com/src/30765679-2479074344-10647543231832653824-3049003166-10057-A-0-1.xs
+780*title*虎牙八点半
+780*played*0
+781*file*http://txtest-xp2p.p2p.huya.com/src/2288129860-2288129860-9827442917701058560-4576383176-10057-A-0-1.xs
+781*title*冒险雷探长
+781*played*0
+782*file*http://cloudplay.tk/api/douyu.php?id=1224356
+782*title*奥雷卡尔克斯
+782*played*0
+783*file*http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.flv
+783*title*星爷 华语 经典 神乐
+783*played*0
+784*file*http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv
+784*title*欧美 科幻 经典 动作
+784*played*0
+785*file*http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG.flv
+785*title*动作 枪战 华语 经典
+785*played*0
+786*file*http://cloudplay.tk/api/egame.php?id=490905763
+786*title*恐怖 喜剧 经典 动作 科幻
+786*played*0
+787*file*http://cloudplay.tk/api/egame.php?id=199681168
+787*title*周星驰 24小时 喜剧 经典电影
+787*played*0
+788*file*http://cloudplay.tk/api/douyu.php?id=315457
+788*title*香港赌片 喜剧、黑帮、动作、武侠、经典
+788*played*0
+789*file*http://cloudplay.tk/api/egame.php?id=363783415
+789*title*全天 僵尸 鬼片 恐怖电影
+789*played*0
+790*file*http://cloudplay.tk/api/egame.php?id=504525571
+790*title*恐怖 惊悚 动作 科幻 喜剧
+790*played*0
+791*file*http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.xs
+791*title*家有儿女
+791*played*0
+792*file*http://txtest-xp2p.p2p.huya.com/src/1524418108-1524418108-6547325919290195968-3048959672-10057-A-0-1.xs
+792*title*炊事班的故事
+792*played*0
+793*file*http://txtest-xp2p.p2p.huya.com/src/28466698-2689655562-11551982676294500352-2847687628-10057-A-0-1.xs
+793*title*极限挑战
+793*played*0
+794*file*http://cloudplay.tk/api/egame.php?id=462055043
+794*title*王牌对王牌
+794*played*0
+795*file*http://txtest-xp2p.p2p.huya.com/src/1423787824-1423787824-6115122140523003904-2847699104-10057-A-0-1.xs
+795*title*笑傲江湖
+795*played*0
+796*file*http://txtest-xp2p.p2p.huya.com/src/1449380946-1449380946-6225043762515542016-2847687614-10057-A-0-1.xs
+796*title*笑傲帮
+796*played*0
+797*file*http://txtest-xp2p.p2p.huya.com/src/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1.xs
+797*title*今晚80后·年轻人的新态度
+797*played*0
+798*file*http://txtest-xp2p.p2p.huya.com/src/1449698104-1449698104-6226405945753206784-2847699140-10057-A-0-1.xs
+798*title*郭德纲于谦满满都是包袱
+798*played*0
+799*file*https://8407837635d44c1c043879a0c6cf78c3.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_164540838.flv
+799*title*《小品、相声》
+799*played*0
+800*file*http://txtest-xp2p.p2p.huya.com/src/1199561276781-1199561276781-5434856757434253312-2399122677018-10057-A-0-1.xs
+800*title*美女厨房
+800*played*0
+801*file*http://txtest-xp2p.p2p.huya.com/src/1199561276760-1199561276760-5434856667239940096-2399122676976-10057-A-0-1.xs
+801*title*美女厨房
+801*played*0
+802*file*http://txtest-xp2p.p2p.huya.com/src/1423782080-1423782080-6115097470230855680-2847687616-10057-A-0-1.xs
+802*title*恐惧竞技 谁能战到最后
+802*played*0
+803*file*http://txtest-xp2p.p2p.huya.com/src/1199562244544-1199562244544-5439013267869532160-2399124612544-10057-A-0-1.xs
+803*title*白泽字幕1号
+803*played*0
+804*file*http://txtest-xp2p.p2p.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.xs
+804*title*冷门港片大全
+804*played*0
+805*file*http://txtest-xp2p.p2p.huya.com/src/1199563477578-1199563477578-5444309108574388224-2399127078612-10057-A-0-1.xs
+805*title*【TVB】灵异领域 胆小勿入
+805*played*0
+806*file*http://txtest-xp2p.p2p.huya.com/src/78941969-2559461593-10992803837303062528-2693342886-10057-A-0-1.xs
+806*title*英雄联盟赛事
+806*played*0
+807*file*http://cloudplay.tk/api/egame.php?id=367958257
+807*title*LOL官方直播间
+807*played*0
+808*file*http://tx2play1.douyucdn.cn/live/288016rlols5.xs
+808*title*斗鱼英雄联盟赛事
+808*played*0
+809*file*http://tx2play1.douyucdn.cn/live/522424rJr4EZlFmh_4K.xs
+809*title*斗鱼4K英雄联盟赛事
+809*played*0
+810*file*http://tx2play1.douyucdn.cn/live/705690rlols7wan6.xs
+810*title*英雄联盟LDL官方直播间
+810*played*0
+811*file*http://cloudplay.tk/api/egame.php?id=367958257
+811*title*LPL夏季赛主舞台
+811*played*0
+812*file*http://cloudplay.tk/api/egame.php?id=721939751
+812*title*云顶之弈赛事
+812*played*0
+813*file*http://tx2play1.douyucdn.cn/live/605964rzzgGEOZHr.xs
+813*title*穿越火线运营团队
+813*played*0
+814*file*http://tx2play1.douyucdn.cn/live/5388537r1cxwCrgF.xs
+814*title*穿越火线赛事
+814*played*0
+815*file*http://tx2play1.douyucdn.cn/live/8690716r2Td3hopd.xs?uuid=
+815*title*CFDL赛事直播间
+815*played*0
+816*file*http://tx2play1.douyucdn.cn/live/868191rjy69PsEAz.xs?uuid=
+816*title*CF手游官方直播间
+816*played*0
+817*file*http://tx2play1.douyucdn.cn/live/1984839rdqYitoI8.xs
+817*title*王者荣耀KPL职业联赛
+817*played*0
+818*file*http://tx2play1.douyucdn.cn/live/1863767rkpl.xs
+818*title*王者荣耀官方赛事
+818*played*0
+819*file*http://tx2play1.douyucdn.cn/live/8733439rycgVfFi4.xs?uuid=
+819*title*斗鱼王者荣耀赛事
+819*played*0
+820*file*http://tx2play1.douyucdn.cn/live/999rx47n2pp8pGB7.xs
+820*title*和平精英官方赛事
+820*played*0
+821*file*http://cloudplay.tk/api/egame.php?id=449605280
+821*title*绝地求生官方赛事
+821*played*0
+822*file*http://tx2play1.douyucdn.cn/live/100rPCLP.xs?uuid=
+822*title*斗鱼绝地赛事
+822*played*0
+823*file*http://tx2play1.douyucdn.cn/live/100rPCLP.xs
+823*title*绝地求生PCL联赛
+823*played*0
+824*file*http://tx2play1.douyucdn.cn/live/3987011rViOqk5yA.xs
+824*title*DOTA2赛事专用2
+824*played*0
+825*file*http://tx2play1.douyucdn.cn/live/525207rUBsWpKrbH.xs?uuid=
+825*title*暴雪游戏频道
+825*played*0
+826*file*http://live.functest.online/test/livetest?p=huya&amp;id=660128
+826*title*守望先锋联赛
+826*played*0
+827*file*http://tx2play1.douyucdn.cn/live/217344rNW9Hp8dAo.xs?uuid=
+827*title*imbacsgo频道
+827*played*0
+828*file*http://tx2play1.douyucdn.cn/live/5040227raXQRnvWY.xs?uuid=
+828*title*QQ飞车手游官方直播
+828*played*0
+829*file*http://tx2play1.douyucdn.cn/live/7746661rQc1gfAoD.xs?uuid=
+829*title*斗鱼跑跑卡丁车赛事
+829*played*0
+830*file*http://tx2play1.douyucdn.cn/live/6672862r90xSwiRP.xs?uuid=
+830*title*跑跑卡丁车官方竞速版
+830*played*0
+831*file*http://cloudplay.tk/api/douyu.php?id=9418
+831*title*CSGO_茄子
+831*played*0
+832*file*http://cloudplay.tk/api/bilibili.php?id=21470918
+832*title*CSGO_久菜合子
+832*played*0
+833*file*http://txtest-xp2p.p2p.huya.com/src/967499203-967499203-4155377435791065088-1935121862-10057-A-0-1.xs
+833*title*主机_小宇
+833*played*0
+834*file*http://txtest-xp2p.p2p.huya.com/src/693172-693172-2977151070502912-1509800-10057-A-0-1.xs
+834*title*主机_先生
+834*played*0
+835*file*http://txtest-xp2p.p2p.huya.com/src/78849323-78849323-338655263596740608-157822102-10057-A-0-1.xs
+835*title*主机_老鬼
+835*played*0
+836*file*http://cloudplay.tk/api/douyu.php?id=65848
+836*title*主机_猫腻
+836*played*0
+837*file*http://cloudplay.tk/api/douyu.php?id=3015080
+837*title*主机_机长YG
+837*played*0
+838*file*http://txtest-xp2p.p2p.huya.com/src/2227875499-2227875499-9568652407764680704-4455874454-10057-A-0-1.xs
+838*title*PUBGM_不求人
+838*played*0
+839*file*http://cloudplay.tk/api/douyu.php?id=12345
+839*title*PUBG_错觉
+839*played*0
+840*file*http://cloudplay.tk/api/egame.php?id=1037536058006
+840*title*PUBG_沫子Mozz
+840*played*0
+841*file*http://cloudplay.tk/api/douyu.php?id=11579
+841*title*PUBG_蓝战非
+841*played*0
+842*file*http://cloudplay.tk/api/douyu.php?id=115280
+842*title*PUBG_少囧
+842*played*0
+843*file*http://cloudplay.tk/api/douyu.php?id=99999
+843*title*DNF_旭旭宝宝
+843*played*0
+844*file*http://cloudplay.tk/api/douyu.php?id=66666
+844*title*DNF_一阵雨
+844*played*0
+845*file*http://cloudplay.tk/api/egame.php?id=526644026
+845*title*户外_帝师
+845*played*0
+846*file*http://cloudplay.tk/api/douyu.php?id=101
+846*title*LOL_PDD
+846*played*0
+847*file*http://cloudplay.tk/api/douyu.php?id=12821
+847*title*CF_白鲨
+847*played*0
+848*file*http://cloudplay.tk/api/douyu.php?id=11112
+848*title*CF_漠然
+848*played*0
+849*file*http://cloudplay.tk/api/douyu.php?id=4087173
+849*title*CF_道年不二
+849*played*0
+850*file*http://txtest-xp2p.p2p.huya.com/src/1199514172724-1199514172724-5232546373110333440-2399028468904-10057-A-0-1.xs
+850*title*CF_der梦
+850*played*0
+851*file*http://txtest-xp2p.p2p.huya.com/src/303320155-303320155-1302750145942650880-606763766-10057-A-0-1.xs
+851*title*逆战_夜崽崽
+851*played*0
+852*file*http://txtest-xp2p.p2p.huya.com/src/1680409000-1680409000-7217301698904064000-3360941456-10057-A-0-1.xs
+852*title*户外_牛神
+852*played*0
+853*file*http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+853*title*MTV
+853*played*0
+854*file*http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+854*title*意大利音乐台
+854*played*0
+855*file*http://cloudplay.tk/api/douyu.php?id=231464
+855*title*韩国女团现场饭拍MV1
+855*played*0
+856*file*http://cloudplay.tk/api/douyu.php?id=329667
+856*title*韩国女团现场饭拍MV2
+856*played*0
+857*file*http://cloudplay.tk/api/douyu.php?id=17732
+857*title*韩国女团现场饭拍MV3
+857*played*0
+858*file*http://cloudplay.tk/api/douyu.php?id=603070
+858*title*韩国女团现场饭拍MV4
+858*played*0
+859*file*http://cloudplay.tk/api/douyu.php?id=340224
+859*title*专业女团【超万部女团】任你点
+859*played*0
+860*file*http://cloudplay.tk/api/douyu.php?id=123351
+860*title*『Apink点播厅』 舞台现场饭拍MV
+860*played*0
+861*file*http://cloudplay.tk/api/douyu.php?id=9596882
+861*title*【兔瓦斯轮播】镜头精灵金多贤
+861*played*0
+862*file*http://cloudplay.tk/api/douyu.php?id=7971641
+862*title*减压短视频1
+862*played*0
+863*file*http://cloudplay.tk/api/douyu.php?id=3870925
+863*title*减压短视频2
+863*played*0
+864*file*http://cloudplay.tk/api/douyu.php?id=8901218
+864*title*减压短视频3
+864*played*0
+865*file*http://cloudplay.tk/api/douyu.php?id=8759139
+865*title*减压短视频4
+865*played*0
+866*file*http://cloudplay.tk/api/douyu.php?id=7308244
+866*title*【舞蹈赏析】嗨翻一整天
+866*played*0
+867*file*http://cloudplay.tk/api/douyu.php?id=427397
+867*title*【HiFi4.0】女团 车模 写真
+867*played*0
+868*file*http://cloudplay.tk/api/douyu.php?id=1360303
+868*title*【经典影视韩国车模小刚歌】
+868*played*0
