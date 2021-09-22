@@ -14,7 +14,7 @@ BLANK-播放器官网：https://blankvip.top/
 
 意见反馈：
 -------------
-官方网站：cloudplay.tk
+官方网站：http://cloudplay.tk/
 
 OUTLOOK邮箱：lewis_loh@outlook.com
 
