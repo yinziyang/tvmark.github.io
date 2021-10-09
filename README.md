@@ -1,8 +1,11 @@
 TVMARK直播源分享首页
 ------------------------------------------------------------------------------------------------------------------------------------
 安卓&盒子版客户端：                                
-骆驼壳专用TXT源：https://tvmark.github.io/tv.txt                                    
-IPTV Pro、Televizo等专用M3U源：https://tvmark.github.io/tv.m3u                         
+骆驼壳专用TXT源：http://cloudplay.tk/iptv/tv.txt (备用)：https://tvmark.github.io/tv.txt                                    
+IPTV Pro、Televizo等专用M3U源：http://cloudplay.tk/iptv/tv.m3u (备用)：https://tvmark.github.io/tv.m3u                         
+
+安卓播放器：
+(已内置直播源) https://t.hk.uy/ab2a
 
 电脑播放器：                                
 BLANK-播放器专用TXT源：https://tvmark.github.io/iptv.txt                                    
