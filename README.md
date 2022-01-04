@@ -2,16 +2,16 @@ TVMARK直播源分享首页
 ------------------------------------------------------------------------------------------------------------------------------------
 安卓&盒子版客户端：                                
 骆驼壳、百川、DIPTV专用TXT源：                        
-http://cloudplay.tk/iptv/tv.txt (备用)：https://tvmark.github.io/tv.txt                                    
+http://tkok.tk/iptv/tv.txt (备用)：https://tvmark.github.io/tv.txt                                    
 
 IPTV Pro、Televizo等专用M3U源：                               
-http://cloudplay.tk/iptv/tv.m3u (备用)：https://tvmark.github.io/tv.m3u
+http://tkok.tk/iptv/tv.m3u (备用)：https://tvmark.github.io/tv.m3u
 
 -------------------------------------------------------------------------------
 安卓播放器(已内置直播源)： https://t.hk.uy/ab2a
 
 电脑播放器：                                
-BLANK-播放器专用TXT源：http://cloudplay.tk/iptv/iptv.txt (备用)：https://tvmark.github.io/iptv.txt                                    
+BLANK-播放器专用TXT源：http://tkok.tk/iptv/iptv.txt (备用)：https://tvmark.github.io/iptv.txt                                    
 BLANK-播放器官网：https://blankvip.top/                                                                               
 
 
@@ -20,7 +20,7 @@ BLANK-播放器官网：https://blankvip.top/
 
 意见反馈：
 -------------
-官方网站：http://cloudplay.tk/
+官方网站：http://tkok.tk/
 
 OUTLOOK邮箱：lewis_loh@outlook.com
 
