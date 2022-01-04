@@ -9,7 +9,7 @@ http://cloudplay.tk/iptv/tv.m3u (备用)：https://tvmark.github.io/tv.m3u
 (已内置直播源) https://t.hk.uy/ab2a
 
 电脑播放器：                                
-BLANK-播放器专用TXT源：http://cloudplay.tk/iptv/iptv.txt(备用)：https://tvmark.github.io/iptv.txt                                    
+BLANK-播放器专用TXT源：http://cloudplay.tk/iptv/iptv.txt (备用)：https://tvmark.github.io/iptv.txt                                    
 BLANK-播放器官网：https://blankvip.top/                                                                               
 
 
