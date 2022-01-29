@@ -1,0 +1,135 @@
+#EXTM3U
+#EXTINF:-1 group-title="央视频道",CCTV1 综合
+https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv1_2/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV2 财经
+https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv2_2/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV3 综艺
+https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv3_2/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV4 中文国际
+https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv4_2/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV5 体育
+https://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv5_2/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV5+ 体育赛事
+https://cctvwbndbd.a.bdydns.com/cctvwbnd/cctv5plus_2/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV6 电影
+https://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv6_2/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV7 国防军事
+https://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv7_2/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV8 电视剧
+https://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv8_2/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV9 记录
+https://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv9_2/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV10 科教
+https://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv10_2/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV11 戏曲
+https://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv11_2/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV12 社会与法
+https://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv12_2/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV13 新闻
+https://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv13_2/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV14 少儿
+https://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv14_2/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV15 音乐
+https://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv15_2/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV16 奥林匹克
+https://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv16_2/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV17 农业农村
+https://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv17_2/index.m3u8
+#EXTINF:-1 group-title="北京BTV",BTV 北京卫视
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8
+#EXTINF:-1 group-title="北京BTV",BTV 文艺
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8
+#EXTINF:-1 group-title="北京BTV",BTV 科教
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8
+#EXTINF:-1 group-title="北京BTV",BTV 影视
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8
+#EXTINF:-1 group-title="北京BTV",BTV 财经
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8
+#EXTINF:-1 group-title="北京BTV",BTV 冬奥纪实
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
+#EXTINF:-1 group-title="北京BTV",BTV 生活
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8
+#EXTINF:-1 group-title="北京BTV",BTV 青年
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8
+#EXTINF:-1 group-title="北京BTV",BTV 新闻
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
+#EXTINF:-1 group-title="北京BTV",BTV 少儿
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
+#EXTINF:-1 group-title="北京IPTV",北京IPTV4K超清
+http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#EXTINF:-1 group-title="北京IPTV",北京IPTV淘电影
+http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=88888888&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=OMDVq6b4lEslJm1UnEjrD67bT%2BdBi%2FstmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe%2BRE99EyWRk%2B%2Fh2ZwKeBjD%2BfZ9Mz5UmtqpVNJkd9dPTPolsaS4II0YdOjxvNng%3D%3D%3A20201004145232%2C60D21CCCB8A5%2C112.64.2.198%2C20201004145232%2C10000100000000050000000003887498%2CA23CC1CD0AC72C120DCED3BED1AC1863%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C17%2C%2C2%2CEND
+#EXTINF:-1 group-title="北京IPTV",北京IPTV淘剧场
+http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOatI%2F3LD77f6VT%2BVI0tODRw%3D%3D%3A20211105223205%2C10000100000000050000000003887497%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#EXTINF:-1 group-title="各地卫视",江苏卫视
+http://iptv.tvfix.org/hls/jshd.m3u8
+#EXTINF:-1 group-title="各地卫视",浙江卫视
+http://yd-vl.cztv.com/channels/lantian/channel01/720p.m3u8
+#EXTINF:-1 group-title="各地卫视",安徽卫视
+http://zbbf2.ahtv.cn/live/749.m3u8
+#EXTINF:-1 group-title="各地卫视",东方卫视
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/hddfws/2300000/mnf.m3u8
+#EXTINF:-1 group-title="各地卫视",湖南卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hnwshd/2300000/mnf.m3u8
+#EXTINF:-1 group-title="各地卫视",天津卫视
+http://42.63.50.51/liveplay-kk.rtxapp.com/live/program/live/tjwshd/2300000/mnf.m3u8
+#EXTINF:-1 group-title="各地卫视",深圳卫视
+https://sztv-live.cutv.com/AxeFRth/500/n57Ase0.m3u8
+#EXTINF:-1 group-title="各地卫视",贵州卫视
+https://3739115326.cloudvdn.com/a.m3u8?domain=hls-qnlo-live.gzstv.com&player=U44AAA0uUJx6s84W&s=907d920f429b95eeb9c3f9510e9ab15a&secondToken=secondToken%3ABCY-XgxwprUooY6t531OC0ViNRE&streamid=livegztv-lo%3Alivegztv-lo%2FCH01_lo&ts=61f5079e&v3=1
+#EXTINF:-1 group-title="各地卫视",凤凰卫视
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="电影电视轮播",贝爷MAX厅【科幻 动作 经典】
+http://fangsong.live/hls/douyu.php?id=4332
+#EXTINF:-1 group-title="电影电视轮播",刀刀陪看【60帧 极致蓝光】
+http://fangsong.live/hls/douyu.php?id=747764
+#EXTINF:-1 group-title="电影电视轮播",松鼠【科幻 动作 悬疑 高能】
+http://fangsong.live/hls/bili.php?id=6837959
+#EXTINF:-1 group-title="电影电视轮播",无名【鬼片 恐怖 惊悚】
+http://fangsong.live/hls/douyu.php?id=96577
+#EXTINF:-1 group-title="电影电视轮播",无名【欧美 科幻 经典】
+http://fangsong.live/hls/douyu.php?id=20415
+#EXTINF:-1 group-title="电影电视轮播",黑莓电影
+http://39.134.65.175/PLTV/88888888/224/3221225681/1.m3u8
+#EXTINF:-1 group-title="电影电视轮播",CIBN流金岁月
+http://211.94.219.178:18080/PLTV/68/224/3221226425/index.m3u8
+#EXTINF:-1 group-title="电影电视轮播",CIBN骄阳剧场
+http://211.94.219.178:18080/PLTV/68/224/3221226423/index.m3u8
+#EXTINF:-1 group-title="电影电视轮播",CIBN经典剧场
+http://211.94.219.178:18080/PLTV/68/224/3221226402/index.m3u8
+#EXTINF:-1 group-title="电影电视轮播",CIBN古装剧场
+http://211.94.219.178:18080/PLTV/68/224/3221226400/index.m3u8
+#EXTINF:-1 group-title="电影电视轮播",NewTV超级电影
+http://39.135.138.58:18890/PLTV/88888888/224/3221225623/index.m3u8
+#EXTINF:-1 group-title="电影电视轮播",NewTV动作电影
+http://111.40.196.9/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 group-title="电影电视轮播",NewTV精品大剧
+http://111.40.196.9/PLTV/88888888/224/3221225612/index.m3u8
+#EXTINF:-1 group-title="电影电视轮播",NewTV惊悚悬疑
+http://111.40.196.9/PLTV/88888888/224/3221225638/index.m3u8
+#EXTINF:-1 group-title="电影电视轮播",港剧经典
+http://fangsong.live/hls/huya.php?id=11352965
+#EXTINF:-1 group-title="电影电视轮播",香港恐怖
+http://zzy789.xyz/douyu1.php?id=3637726
+#EXTINF:-1 group-title="电影电视轮播",老电影
+http://zzy789.xyz/douyu1.php?id=59612
+#EXTINF:-1 group-title="电影电视轮播",邵氏电影
+http://heze.kandiantv.cn/douyu1.php?id=4246519
+#EXTINF:-1 group-title="电影电视轮播",黑帮大片
+http://fangsong.live/hls/huya.php?id=11336719
+#EXTINF:-1 group-title="明星轮播",周星驰
+http://fangsong.live/hls/huya.php?id=11342412
+#EXTINF:-1 group-title="明星轮播",吴孟达
+http://fangsong.live/hls/huya.php?id=11336592
+#EXTINF:-1 group-title="明星轮播",刘德华
+http://fangsong.live/hls/huya.php?id=11342424
+#EXTINF:-1 group-title="明星轮播",李连杰
+http://fangsong.live/hls/huya.php?id=11342390
+#EXTINF:-1 group-title="明星轮播",周润发
+http://fangsong.live/hls/huya.php?id=11342387
+#EXTINF:-1 group-title="明星轮播",洪金宝
+http://fangsong.live/hls/huya.php?id=11602084
+#EXTINF:-1 group-title="明星轮播",成龙
+http://fangsong.live/hls/huya.php?id=11342386
+#EXTINF:-1 group-title="明星轮播",林正英
+http://fangsong.live/hls/huya.php?id=11342421
